@@ -1,0 +1,14 @@
+{
+  "plugins":  [
+        "image-captions"
+  ],
+  "pluginsConfig": {
+    "image-captions": {
+        "align": "left",
+         "caption": "Abbildung: _CAPTION_"
+    }
+  },
+  "language": "de"
+
+
+}

@@ -1,0 +1,26 @@
+# Check erstellen – Kompetenzbeschreibung hinzufügen
+
+Zum Erstellen eines Kompetenzchecks gehört das Hinzufügen von
+Kompetenzbeschreibungen. Hierzu wählst Du zuerst die
+Arbeitsprozessphase, der Du eine Kompetenzbeschreibung hinzufügen
+möchtest, aus. Anschließend formulierst Du die Kompetenzbeschreibung und
+ordnest diese dem entsprechenden Kompetenzbereich zu.
+
+Du kannst eine Kompetenzbeschreibung dem Bereich „Fachkompetenz“ oder
+„Personale Kompetenz“ zuordnen. Unter Fachkompetenz sind das Wissen und
+die Fertigkeiten, die zur Bearbeitung der Aufgabenstellung notwendig
+sind, zu verstehen. Die Personale Kompetenz gliedert sich in
+„Sozialkompetenz“ (u.a. Zusammenarbeit mit anderen) und
+Selbstständigkeit auf.
+
+Die Kompetenzbeschreibung sollt einen konkreten Bezug zum Auftrag haben
+und möglichst genau die auszuführende, bzw. zu beobachtende Handlung
+beschreiben.\
+(**Beispiel:** Der Auszubildende kann die Planung des Arbeitsauftrags
+kooperativ in der Gruppe erarbeiten. Der Auszubildende kann einen
+Projektplan fachgerecht und nach Kundenwunsch erstellen.)\
+(**Beispiel:** Der Auszubildende erarbeitet die Planung des
+Arbeitsauftrags kooperativ in der Gruppe. Der Auszubildende erstellt
+einen Projektplan fachgerecht und nach Kundenwunsch.)
+
+![KWST-Band 9, Seite 40 (Abb. 23)](media/check-erstellen-kompetenzen.png)
