@@ -17,10 +17,10 @@ Die Kompetenzbeschreibung sollt einen konkreten Bezug zum Arbeitsauftrag haben
 und möglichst genau die auszuführende, bzw. zu beobachtende Handlung
 beschreiben.  
 
-  **Beispiel** 
+  **Beispiel:** 
   
-Personale Kompetenz: Der Lernende erarbeitet die Planung des Arbeitsauftrags
-kooperativ in der Gruppe und stimmt sich ab. 
+*Personale Kompetenz: Der Lernende erarbeitet die Planung des Arbeitsauftrags
+kooperativ in der Gruppe und stimmt sich ab.* 
 
 Fachkompetenz: Der Lernende erstellt einen Projektplan fachgerecht.
 
