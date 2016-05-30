@@ -1,13 +1,11 @@
 # Dashboard
 
-Hier werden Dir Deine offenen und abgeschlossenen Kompetenzchecks
-angezeigt. Zudem hast Du hier die Möglichkeit einen neuen Kompetenzcheck
-zu erstellen oder einen Kompetenzcheck zu importieren.
+Hier werden Ihnen Ihre offenen und abgeschlossenen Kompetenz-Checks
+angezeigt. Zudem haben Sie hier die Möglichkeit einen neuen Check
+zu erstellen oder einen Kompetenz-Check zu importieren.
 
-Zu jedem Kompetenzcheck werden Dir Aktionsmöglichkeiten, entsprechend
-dem aktuellen Status des Kompetenzchecks, angeboten. Weiterhin kannst Du
-hier die Kompetenzchecks u. a. bearbeiten oder löschen. Um die Anzeige
-der Kompetenzchecks zu begrenzen, stehen Dir verschiedene
-Filtermöglichkeiten zur Verfügung.
+Zu jedem Kompetenz-Check werden Ihnen Aktionsmöglichkeiten angeboten, entsprechend
+dem aktuellen Status der Check-Durchführung. Des weiteren können Sie
+auf dem Dashboard bestehende Checks bearbeiten, kopieren oder löschen. Verschiedene Filtermöglichkeiten unterstützen Sie in der Organisation und Anzeige Ihrer Checks auf dem Dashboard.
 
-![](media/dashboard.png)
+![Darstellung der Struktur und der Funktionen auf dem Dashboard](media/dashboard.png)
