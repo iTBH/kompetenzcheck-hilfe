@@ -19,9 +19,9 @@ beschreiben.
 
   **Beispiele:** 
   
-*Personale Kompetenz: Der Lernende erarbeitet die Planung des Arbeitsauftrags
-kooperativ in der Gruppe und stimmt sich ab.* 
+* Personale Kompetenz: Der Lernende erarbeitet die Planung des Arbeitsauftrags
+kooperativ in der Gruppe und stimmt sich ab.
 
-*Fachkompetenz: Der Lernende erstellt einen Projektplan fachgerecht.*
+* Fachkompetenz: Der Lernende erstellt einen Projektplan fachgerecht.
 
 ![](media/check-erstellen-kompetenzen.png)
