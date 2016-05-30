@@ -1,6 +1,5 @@
 # Benutzerprofil
 
-Hier kannst Du Deine persönlichen Einstellungen wie Dein Passwort und
-Deine Berufsbezeichnung verwalten.
+Hier können Sie Ihre persönlichen Einstellungen wie Ihren Benutzernamen, Ihre E-Mailadresse und Ihr Passwort verwalten.
 
-![](media/profil.jpg)
+![Funktionsübersicht der Profilseite](media/profil.jpg)
