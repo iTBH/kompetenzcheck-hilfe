@@ -18,8 +18,10 @@ und möglichst genau die auszuführende, bzw. zu beobachtende Handlung
 beschreiben.  
 
   **Beispiel** 
+  
 Personale Kompetenz: Der Lernende erarbeitet die Planung des Arbeitsauftrags
 kooperativ in der Gruppe und stimmt sich ab. 
+
 Fachkompetenz: Der Lernende erstellt einen Projektplan fachgerecht.
 
 ![](media/check-erstellen-kompetenzen.png)
