@@ -8,3 +8,4 @@
 - [Partner und Partnerinnen](Hilfetext_Partner_und_Partnerinnen.md)
 - [Vorlagen](Hilfetext_Vorlagen.md)
 - [Schlagwörter](Hilfetext_Schlagwoerter.md)
+- [Selbsteinschätzung](Hilfetext_Selbsteinschätzung.md)
