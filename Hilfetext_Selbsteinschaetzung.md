@@ -7,6 +7,8 @@ Sie können zur Einschätzung ihrer Kompetenzen zwischen vier Niveaustufen wähl
 Wählen Sie zur ersten Selbsteinschätzung eine Niveaustufe aus. Damit Sie später nachvollziehen können, warum Sie sich so eingeschätzt haben, ist es hilfreich, einen Kommentar zu jeder Einschätzung zu verfassen. Speichern Sie Ihre Einschätzung, indem Sie den Button „Einschätzung speichern“ klicken.
 Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen im Check und beenden Sie die gesamte Selbsteinschätzung, indem Sie oben rechts den Button „Einschätzung abschließen“ klicken. Ihre erste Selbsteinschätzung ist nun gespeichert und kann nicht mehr bearbeitet werden. Die Durchführung des Kompetenz-Checks kann beginnen.
 
+![Übersicht der Funktionen zur Durchführung einer Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
+
 **Sie können jetzt Folgendes tun:**
 * Eine weitere Selbsteinschätzung durchführen: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit „Weitere Selbsteinschätzung durchführen“.
 * Eine Fremdeinschätzung einfordern: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit „Jemanden zu einer Fremdeinschätzung einladen“.
@@ -16,4 +18,3 @@ Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen im Check und beenden
 
 Nach der ersten Selbsteinschätzung und mit Beginn der Durchführung des Kompetenz-Checks können Sie weitere Selbsteinschätzungen durchführen. Verfahren Sie dabei wie bei der ersten Einschätzung. Jede weitere Selbsteinschätzung kann bis zum Beenden des Kompetenz-Checks immer wieder von Ihnen bearbeitet werden. Notieren Sie Ihre Begründungen zur Veränderung Ihrer Selbsteinschätzung im Kommentarfeld.
 
-![Übersicht der Funktionen zur Durchführung einer Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
