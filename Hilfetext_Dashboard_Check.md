@@ -1,13 +1,13 @@
 # Dashboard - Check
 
-Hier werden Dir Informationen zum jeweiligen Kompetenzcheck angezeigt.
+In der Detailansicht werden Ihnen die Informationen zum jeweiligen Kompetenz-Check angezeigt.
 Neben dem Titel, dem Verwendungszweck und der Auftragsbeschreibung,
-werden Dir die zugewiesenen Schlagwörter und ein Verlauf aller
-bisherigen Aktionen angezeigt.
+werden Ihnen die zugewiesenen Schlagwörter und ein Verlauf aller
+bisherigen Aktionen angezeigt, die im Rahmen des Checks durchgeführt wurden. So erkennen Sie immer auf einen Blick den aktuellen Status des Checks bzw. welche Aktionen Sie oder weitere Teilnehmer des Checks bereits durchgeführt haben.
 
-Zudem stehen Dir zu jedem Kompetenzcheck verschiedene
-Interaktionsmöglichkeiten zur Verfügung. Entsprechend dem aktuellen
-Status des Kompetenzchecks kannst Du diesen u. a. bearbeiten,
-duplizieren oder Dir den Check bzw. das Ergebnis ansehen.
+Zudem stehen Ihnen zu jedem Kompetenz-Check verschiedene
+Bearbeitungsfunktionen zur Verfügung. Dem aktuellen
+Status des Checks entsprechend, können Sie diesen u. a. bearbeiten,
+duplizieren oder löschen.
 
-![KWST-Band 9, Seite 27 (Abb. 11)](media/dashboard-check.png)
+![Funktionen der Detailansicht eines Checks](media/dashboard-check.png)
