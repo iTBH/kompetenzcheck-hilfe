@@ -10,4 +10,4 @@ hier die Kompetenzchecks u. a. bearbeiten oder löschen. Um die Anzeige
 der Kompetenzchecks zu begrenzen, stehen Dir verschiedene
 Filtermöglichkeiten zur Verfügung.
 
-![KWST-Band 9, Seite 26 (Abb. 10)](media/dashboard.png)
+![](media/dashboard.png)
