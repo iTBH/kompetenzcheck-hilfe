@@ -1,10 +1,9 @@
 # Partner und Partnerinnen
 
-Hier kannst Du Deine Lernpartner (Checkpartner) verwalten. Du kannst
-neue Lernpartner, durch Angabe des Namens und der E-Mail-Adresse,
-hinzufügen sowie bereits vorhandene Lernpartner bearbeiten oder löschen.
+Hier können Sie Checkpartner und Checkpartnerinnen hinzufügen verwalten. Durch die Angabe des Namens und der E-Mail-Adresse fügen Sie einen/eine neue/n Checkpartner/in hinzu.
+Ebenso können Sie die Daten vorhandener Partner/innen bearbeiten oder löschen.
 
-Diese Verwaltung bietet Dir den Vorteil, dass Du den hier eingetragenen
-Lernpartnern schnell und einfach einen von Dir erstellten Kompetenzcheck
+Diese Verwaltung bietet Ihnen den Vorteil, dass Sie den hier eingetragenen
+Checkpartner/innen schnell und einfach einen von Ihnen erstellten Kompetenz-Check
 zuweisen sowie eine Einladung zu einer Fremdeinschätzung zuschicken
-kannst.
+können.
