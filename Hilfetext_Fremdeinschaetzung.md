@@ -6,12 +6,14 @@ Auftragsbearbeitung durchführen. Zur Einschätzung des Kompetenzvermögens der 
 wenn Sie eine Kompetenz nicht einschätzen können, wählen Sie die Checkbox „Einschätzung nicht möglich“.
 Die Einschätzungsstufen beziehen sich auf beobachtbare Handlungen im Rahmen der Auftragsbearbeitung, zu deren Ausführung die beschriebene Kompetenz benötigt wird. 
 
-![](media/dashboard.png)
+![](media/NiveaustufenFE.png)
 
 Eine Fremdeinschätzung trägt dann zur Kompetenzerfassung und -entwicklung bei, wenn Sie die Person bei der Auftragsdurchführung begleiten und 
 regelmäßig Feedback zu durchgeführten Handlungen geben. Im abschließenden Auswertungsgespräch stehen dann die gemeinsamen Erfahrungen während 
 der Auftragsbearbeitung im Vordergrund. Gemeinsam überlegen Sie dann, wie die identifizierten Stärken und Entwicklungsmöglichkeiten der Person 
 methodisch unterstützt werden können. 
+
+![](media/Fremdeinschaetzung.jpg)
 
 **Diese Fragen unterstützen Ihre Fremdeinschätzung:**
 * In welcher Handlungssituation soll die Kompetenz eingeschätzt werden: Nutzen Sie die Informationen zum Arbeitsauftrag: Auftragstitel, Auftragsbeschreibung, Verwendungszweck.
