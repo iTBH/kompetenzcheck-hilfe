@@ -8,7 +8,8 @@
          "caption": "Abbildung: _CAPTION_"
     }
   },
-  "language": "de"
+  "language": "de",
+  "gitbook": ">=3.0.0"
 
 
 }
