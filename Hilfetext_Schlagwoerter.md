@@ -1,12 +1,12 @@
 # Schlagwörter
 
-Hier kannst Du Deine Schlagwörter verwalten. Du kannst neue
-Schlagwörter, durch Angabe eines Namens und einer Beschreibung,
+Hier können Sie Ihre Schlagwörter verwalten. Sie können neue
+Schlagwörter durch Angabe einer treffenden Bezeichnung und einer Beschreibung
 hinzufügen sowie bereits vorhandene Schlagwörter bearbeiten oder
-löschen. Weiterhin kannst Du Dir alle Kompetenzchecks zu einem
-Schlagwort anzeigen lassen.
+löschen. Weiterhin kannst Sie sich hier alle Kompetenz-Checks zu einem
+Schlagwort anzeigen lassen bzw. prüfen, wie oft ein Schlagwort bereits vergeben wurde.
 
-Mit Schlagwörtern kannst Du Deine Kompetenzchecks individuell, zum
-Beispiel nach der Art des Kompetenzchecks oder dem Thema, strukturieren.
-Dies ermöglicht Dir einen Überblick über deine durchgeführten und
-erstellten Kompetenzchecks zu erlangen.
+Mit Schlagwörtern können Sie Ihre Kompetenz-Checks individuell, zum
+Beispiel nach dem Checkpartner oder dem Arbeitsauftrag des Checks strukturieren.
+Dies ermöglicht Ihnen, einen Überblick über bereits durchgeführte und
+erstellte Checks zu erlangen.
