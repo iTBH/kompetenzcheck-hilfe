@@ -1,11 +1,5 @@
-# Erste Selbsteinschätzung
-Mit Ihrer ersten Selbsteinschätzung beginnt die Durchführung eines Kompetenz-Checks. Dafür schätzen Sie vor der Auftragsbearbeitung auf Grundlage Ihrer Selbstwahrnehmung und Vorerfahrungen ein, wie gut, also auf welcher Niveaustufe, Sie die beschriebenen Kompetenzen beherrschen.
-Sie können zur Einschätzung ihrer Kompetenzen zwischen vier Niveaustufen wählen:
-
-![Die vier Niveaustufen zur Selbsteinschätzung von Kompetenzen](media/NiveaustufenSE.png)
-
-Wählen Sie zur ersten Selbsteinschätzung eine Niveaustufe aus. Damit Sie später nachvollziehen können, warum Sie sich so eingeschätzt haben, ist es hilfreich, einen Kommentar zu jeder Einschätzung zu verfassen. Speichern Sie Ihre Einschätzung, indem Sie den Button „Einschätzung speichern“ klicken.
-Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen im Check und beenden Sie die gesamte Selbsteinschätzung, indem Sie oben rechts den Button „Einschätzung abschließen“ klicken. Ihre erste Selbsteinschätzung ist nun gespeichert und kann nicht mehr bearbeitet werden. Die Durchführung des Kompetenz-Checks kann beginnen.
+# Selbsteinschätzung
+Hier können Sie einschätzen, wie weit Sie die zur Auftragsbearbeitung benötigten Kompetenzen bereits entwickelt haben. Mit Ihrer ersten Selbsteinschätzung beginnt die Durchführung des Kompetenz-Checks. Dafür schätzen Sie vor der Auftragsbearbeitung auf Grundlage Ihrer Selbstwahrnehmung und Vorerfahrungen ein, wie gut, also auf welcher Niveaustufe, Sie die beschriebenen Kompetenzen beherrschen.
 
 ![Übersicht der Funktionen zur Durchführung einer Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
 
