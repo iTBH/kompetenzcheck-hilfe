@@ -1,11 +1,11 @@
 # Check erstellen
 
-Hier kannst Du einen neuen Kompetenzcheck erstellen. Neben einen Titel,
-einen Verwendungszweck und einer Auftragsbeschreibung kannst Du dem
-Kompetenzcheck noch Schlagwörter hinzufügen. Zudem kannst Du auswählen,
-ob Du den Kompetenzcheck als Vorlage speichern möchtest.
+Hier können Sie einen neuen Kompetenz-Check erstellen. Neben einen Titel,
+einen Verwendungszweck und einer Auftragsbeschreibung können Sie dem
+Check noch Schlagwörter hinzufügen. Zudem können Sie auswählen,
+ob Sie den Kompetenz-Check als Vorlage speichern möchten, um ihn später erneut zu verwenden.
 
-Abschließend kannst du zu den vier Arbeitsprozessphasen (Annahme,
+Abschließend können Sie zu den vier Check-Phasen, die sich an den Bearbeitungsphasen  (Annahme,
 Planung, Durchführung, Abschluss) Kompetenzbeschreibungen der
 Dimensionen Personal- und Fachkompetenz hinzufügen.
 
