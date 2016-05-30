@@ -9,3 +9,4 @@
 - [Vorlagen](Hilfetext_Vorlagen.md)
 - [Schlagwörter](Hilfetext_Schlagwoerter.md)
 - [Selbsteinschätzung](Hilfetext_Selbsteinschätzung.md)
+- [Fremdeinschätzung](Hilfetext_Fremdeinschaetzung.md)
