@@ -16,11 +16,11 @@ Selbstständigkeit auf.
 Die Kompetenzbeschreibung sollt einen konkreten Bezug zum Auftrag haben
 und möglichst genau die auszuführende, bzw. zu beobachtende Handlung
 beschreiben.\
-(**Beispiel:** Der Auszubildende kann die Planung des Arbeitsauftrags
-kooperativ in der Gruppe erarbeiten. Der Auszubildende kann einen
-Projektplan fachgerecht und nach Kundenwunsch erstellen.)\
-(**Beispiel:** Der Auszubildende erarbeitet die Planung des
-Arbeitsauftrags kooperativ in der Gruppe. Der Auszubildende erstellt
+(**Beispiel:** Der Lernende erarbeitet die Planung des Arbeitsauftrags
+kooperativ in der Gruppe. Der Lernende erstellt einen
+Projektplan fachgerecht und nach Kundenwunsch.)\
+(**Beispiel:** Der Lernende erarbeitet die Planung des
+Arbeitsauftrags kooperativ in der Gruppe. Der Lernende erstellt
 einen Projektplan fachgerecht und nach Kundenwunsch.)
 
-![KWST-Band 9, Seite 40 (Abb. 23)](media/check-erstellen-kompetenzen.png)
+![](media/check-erstellen-kompetenzen.png)
