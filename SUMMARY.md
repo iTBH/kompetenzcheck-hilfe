@@ -12,3 +12,4 @@
 - [Selbsteinschätzung - Kompetenzen](Hilfetext_Selbsteinschaetzung_Kompetenzen.md)
 - [Fremdeinschätzung](Hilfetext_Fremdeinschaetzung.md)
 - [Fremdeinschätzung - Kompetenzen](Hilfetext_Fremdeinschaetzung_Kompetenzen.md)
+- [Auswertung](Hilfetext_Auswertungsgespraech.md)
