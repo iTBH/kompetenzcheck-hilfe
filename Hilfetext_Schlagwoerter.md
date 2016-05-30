@@ -1,6 +1,6 @@
 # Schlagwörter
 
-Hier können Sie Ihre Schlagwörter verwalten. Sie können neue
+Auf dieser Seite erstellen und verwalten Sie Ihre Schlagwörter. Sie können neue
 Schlagwörter durch Angabe einer treffenden Bezeichnung und einer Beschreibung
 hinzufügen sowie bereits vorhandene Schlagwörter bearbeiten oder
 löschen. Weiterhin kannst Sie sich hier alle Kompetenz-Checks zu einem
