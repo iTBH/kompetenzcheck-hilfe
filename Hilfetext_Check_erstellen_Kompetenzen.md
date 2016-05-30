@@ -17,7 +17,7 @@ Die Kompetenzbeschreibung sollt einen konkreten Bezug zum Auftrag haben
 und möglichst genau die auszuführende, bzw. zu beobachtende Handlung
 beschreiben.  
 
-**Beispiel:** Der Lernende erarbeitet die Planung des Arbeitsauftrags
+  **Beispiel:** Der Lernende erarbeitet die Planung des Arbeitsauftrags
 kooperativ in der Gruppe. Der Lernende erstellt einen
 Projektplan fachgerecht und nach Kundenwunsch.
 
