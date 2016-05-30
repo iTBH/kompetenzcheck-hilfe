@@ -10,6 +10,7 @@ Abschließend können Sie zu den vier Check-Phasen, die sich an den Bearbeitungs
 * Planung 
 * Durchführung 
 * Abschluss 
+
 Kompetenzbeschreibungen können dann den Dimensionen Personale Kompetenz und Fachkompetenz hinzugefügt werde.
 
 ![Übersicht der Funktionen zur Erstellung eines Checks](media/check-erstellen.png)
