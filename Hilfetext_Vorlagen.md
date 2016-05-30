@@ -1,10 +1,8 @@
 # Vorlagen
 
-Hier kannst Du Deine Kompetenzchecks, die Du als Vorlage gespeichert
-hast verwalten. Du kannst Dir die Vorlagen ansehen und bearbeiten sowie
+Hier können Sie Ihre Kompetenz-Checks, die Sie als Vorlage gespeichert
+haben verwalten. Sie können die Vorlagen ansehen, bearbeiten und
 duplizieren.
 
-Vorlagen sind dann hilfreich, wenn Du einen erstellten Kompetenzcheck in
-Zukunft nochmals durchführen möchtest. Du kannst den entsprechenden
-Kompetenzcheck als Vorlage speichern und musst in somit später nicht
-erneut erstellen.
+Vorlagen sind dann hilfreich, wenn Sie einen erstellten Kompetenz-Check zukünftig nochmals durchführen möchten. Sie können den entsprechenden
+Check als Vorlage speichern, indem Sie beim Erstellen des Checks die Checkbox "als Vorlage speichern" anwählen.
