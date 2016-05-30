@@ -8,7 +8,7 @@
 - [Partner und Partnerinnen](Hilfetext_Partner_und_Partnerinnen.md)
 - [Vorlagen](Hilfetext_Vorlagen.md)
 - [Schlagwörter](Hilfetext_Schlagwoerter.md)
-- [Selbsteinschätzung](Hilfetext_Selbsteinschätzung.md)
+- [Selbsteinschätzung](Hilfetext_Selbsteinschaetzung.md)
 - [Selbsteinschätzung - Kompetenzen](Hilfetext_Selbsteinschaetzung_Kompetenzen.md)
 - [Fremdeinschätzung](Hilfetext_Fremdeinschaetzung.md)
 - [Fremdeinschätzung - Kompetenzen](Hilfetext_Fremdeinschaetzung_Kompetenzen.md)
