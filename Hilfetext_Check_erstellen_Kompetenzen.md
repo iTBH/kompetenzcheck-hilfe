@@ -24,4 +24,4 @@ kooperativ in der Gruppe und stimmt sich ab.
 
 * Fachkompetenz: Der Lernende erstellt einen Projektplan fachgerecht.
 
-![](media/check-erstellen-kompetenzen.png)
+![Übersicht der Funktionen zum Hinzufügen oder Bearbeiten von Kompetenzbeschreibungen](media/check-erstellen-kompetenzen.png)
