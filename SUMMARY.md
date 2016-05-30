@@ -9,4 +9,6 @@
 - [Vorlagen](Hilfetext_Vorlagen.md)
 - [Schlagwörter](Hilfetext_Schlagwoerter.md)
 - [Selbsteinschätzung](Hilfetext_Selbsteinschätzung.md)
+- [Selbsteinschätzung - Kompetenzen](Hilfetext_Selbsteinschätzung_Kompetenzen.md)
 - [Fremdeinschätzung](Hilfetext_Fremdeinschaetzung.md)
+- [Fremdeinschätzung - Kompetenzen](Hilfetext_Fremdeinschaetzung_Kompetenzen.md)
