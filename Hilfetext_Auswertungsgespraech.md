@@ -14,7 +14,7 @@ Bitten Sie die Person(en), die Sie fremdeingeschätzt hat/haben, zu einen Gespr�
 
 
 * Der Leitfaden zur Durchführung des Auswertungsgesprächs gibt Ihnen nützliche Hinweise und Anregungen zum Gespräch über die Ergebnisse des Kompetenz-Checks: <a href="media/Hilfetext_Auswertungsgespraech_Leitfaden.pdf" target="_blank">Leitfaden zur Durchführung des Auswertungsgesprächs</a>
-* Das Arbeitsblatt Zielvereinbarung bietet Ihnen die Möglichkeit, Ihre Entwicklungsziele, den Entwicklungszeitraum sowie Methoden oder Förderangebote als Vereinbarungen zwischen Ihnen und weiteren Personen festzuhalten.
+* Das Arbeitsblatt Zielvereinbarung bietet Ihnen die Möglichkeit, Ihre Entwicklungsziele, den Entwicklungszeitraum sowie Methoden oder Förderangebote als Vereinbarungen zwischen Ihnen und weiteren Personen festzuhalten: <a href="media/Arbeitsblatt_Zielformulierung.pdf" target="_blank">Arbeitsblatt Zielvereinbarung</a>
 
 
 
