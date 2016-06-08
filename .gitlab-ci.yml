@@ -1,4 +1,5 @@
 job1:
     script:
         - gitbook build
+        - gitbook install
 
