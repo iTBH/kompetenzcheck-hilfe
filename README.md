@@ -1,3 +1,3 @@
-# Der Kompetenzcheck der Kompetenzwerkstatt 2.0
+# Der Kompetenzcheck der Kompetenzwerkstatt - Mein Beruf
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Willkommen im Kompetenz-Check der Kompetenzwerkstatt - Mein Beruf. Der Kompetenz-Check begleitet Sie in der Erfassung und Förderung von Handlungskompetenzen in Lern-, Forschungs- und Arbeitsprozessen. Durch die Gegenüberstellung von Selbst- und Fremdeinschätzung werden eigene Kompetenzen bewusst gemacht und mit individuellen Entwicklungszielen verknüpft. Legen Sie einen Kompetenz-Check an, schätzen Sie Ihre Stärken ein, oder geben Sie einer weiteren Person Feedback.
