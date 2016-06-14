@@ -1,4 +1,4 @@
-# Dashboard - Check
+# Dashboard - Check im Detail
 
 In der Detailansicht werden Ihnen die Informationen zum jeweiligen Kompetenz-Check angezeigt.
 Neben dem Titel, dem Verwendungszweck und der Auftragsbeschreibung,
