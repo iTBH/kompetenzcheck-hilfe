@@ -10,6 +10,6 @@ Bearbeitungsfunktionen zur Verfügung. Dem aktuellen
 Status des Checks entsprechend, können Sie diesen u. a. bearbeiten,
 duplizieren oder löschen.
 
-Rechts neben jedem Checks zeigen Ihnen die Aktionsmöglichkeiten die nächsten Schritte auf, die Sie im Kompetenz-Check durchführen können, z. B. "Eine Selbsteinschätzung durchführen" oder den "Check Jemandenm zuweisen".
+Rechts neben jedem Checks zeigen Ihnen die Aktionsmöglichkeiten die nächsten Schritte auf, die Sie im Kompetenz-Check durchführen können, z. B. "Eine Selbsteinschätzung durchführen" oder den "Check Jemandem zuweisen".
 
 ![Funktionen der Detailansicht eines Checks](media/dashboard-check.png)
