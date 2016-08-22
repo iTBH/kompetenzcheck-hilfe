@@ -13,9 +13,9 @@ sind, zu verstehen. Die Personale Kompetenz gliedert sich in
 „Sozialkompetenz“ (u. a. Zusammenarbeit und Kommunikation mit Anderen) und
 "Selbstständigkeit" (u. a. Zeit- und Aufgabenmanagement, Bereitschaft zum Lernen, Fähigkeit und Bereitschaft zum Feedback Geben und Nehmen) auf.
 
-Die Kompetenzbeschreibung sollt einen konkreten Bezug zum Arbeitsauftrag haben
+Die Kompetenzbeschreibung sollte einen konkreten Bezug zum Arbeitsauftrag haben
 und möglichst genau die auszuführende, bzw. zu beobachtende Handlung
-beschreiben.  
+beschreiben. Zudem sollte eine Kompetenzbeschreibung immer in der 3. Person singular formuliert werden.  
 
   **Beispiele:** 
   
