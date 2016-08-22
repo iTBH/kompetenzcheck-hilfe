@@ -1,4 +1,9 @@
-job1:
+job:
+    only:
+        - tags
+        - triggers
+    tags:
+        - master
     script:
         - gitbook install
         - gitbook build
