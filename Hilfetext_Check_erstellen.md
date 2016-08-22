@@ -8,6 +8,7 @@ Ein Check ist immer durch die vier Phasen * Auftragsanalyse
 * Planung 
 * Durchführung 
 * Abschluss 
+
 strukturiert. Diese Phasen orientieren sich an den Bearbeitungsphasen eines Arbeitsauftrags/Projektes und unterstützen Sie dabei, den Check an Lern- und Arbeitsprozesse anzupassen bzw. prozessorientiert einzusetzen.
 
 Im nächsten Schritt fügen Sie den Check-Phasen mittels des Plus-Buttons Kompetenzbeschreibungen hinzu. Dabei müssen Sie nicht allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten.
