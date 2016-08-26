@@ -6,6 +6,7 @@ job:
         - master
     script:
         - gitbook install
+        - gitbook pdf . media/gitbook.pdf
         - gitbook build
         - syncgitbook
 
