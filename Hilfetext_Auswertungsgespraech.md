@@ -5,7 +5,7 @@ Sie haben den Kompetenz-Check beendet und somit alle Kompetenzeinschätzungen ab
 Einen ersten Überblick über die Ergebnisse des Kompetenz-Checks bietet Ihnen die Summendarstellung: Sie zeigt die Summe aller Selbst- und Fremdeinschätzungen pro Checkphase und Kompetenzdimension (Fach- und Personale Kompetenz). So erkennen Sie bereits auf einen Blick erste Unterschiede und Gemeinsamkeiten der Selbst- sowie Fremdeinschätzungen.
 Die detaillierten Darstellungen der einzelnen Selbst- und Fremdeinschätzungen mit Kommentaren pro Checkphase geben Ihnen dann Hilfestellung im Auswertungsgespräch. 
 
-![Übersicht über die Material zum Auswertungsgespräch](media/Auswertung.jpg)
+![Übersicht über das Material zum Auswertungsgespräch](media/Auswertung.jpg)
 
 **Das  Auswertungsgespräch**
 
