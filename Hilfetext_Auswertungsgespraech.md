@@ -13,7 +13,7 @@ Durch einen offenen und ehrlichen Dialog zwischen Ihnen und weiteren Teilnehmern
 Bitten Sie die Person(en), die Sie fremdeingeschätzt hat/haben, zu einen Gespräch, um gemeinsam die Ergebnisse des Kompetenz-Checks zu besprechen. Ihre Entwicklungsziele, als Ergebnisse des Auswertungsgesprächs, halten Sie im Arbeitsblatt „Zielvereinbarung“ fest.
 
 
-* Der Leitfaden zur Durchführung des Auswertungsgesprächs gibt Ihnen nützliche Hinweise und Anregungen zum Gespräch über die Ergebnisse des Kompetenz-Checks: <a href="media/Auswertungsgespraech_Leitfaden.pdf" target="_blank">Leitfaden zur Durchführung des Auswertungsgesprächs</a>
+* Der Leitfaden zur Durchführung des Auswertungsgesprächs gibt Ihnen nützliche Hinweise und Anregungen zum Gespräch über die Ergebnisse des Kompetenz-Checks: <a href="media/Hilfetext_Auswertungsgespraech_Leitfaden.pdf" target="_blank">Leitfaden zur Durchführung des Auswertungsgesprächs</a>
 * Das Arbeitsblatt Zielvereinbarung bietet Ihnen die Möglichkeit, Ihre Entwicklungsziele, den Entwicklungszeitraum sowie Methoden oder Förderangebote als Vereinbarungen zwischen Ihnen und weiteren Personen festzuhalten: <a href="media/Arbeitsblatt_Zielformulierung.pdf" target="_blank">Arbeitsblatt Zielvereinbarung</a>
 
 
