@@ -1,0 +1,14 @@
+job:
+    only:
+        - tags
+        - triggers
+    tags:
+        - master
+    script:
+        - gitbook install
+        - gitbook pdf . media/gitbook.pdf
+        - gitbook epub . media/gitbook.epub
+        - gitbook mobi . media/gitbook.mobi
+        - gitbook build
+        - syncgitbook
+
