@@ -12,3 +12,4 @@
 - [Fremdeinschätzung](Hilfetext_Fremdeinschaetzung.md)
 - [Fremdeinschätzung - Kompetenzen](Hilfetext_Fremdeinschaetzung_Kompetenzen.md)
 - [Auswertung](Hilfetext_Auswertungsgespraech.md)
+- [Test](Test_Grafik_Tuorial.md)
