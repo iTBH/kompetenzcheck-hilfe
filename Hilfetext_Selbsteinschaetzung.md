@@ -13,21 +13,19 @@ Im Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen:
 * Nachdem Sie die erste Selbsteinschätzung durchgeführt haben, können Sie beliebig viele **weitere Selbsteinschätzungen** durchführen. Weitere Selbsteinschätzungen können Sie bis zum Abschluss des Checks immer wieder bearbeiten.
 
 ## Wie führe ich eine Selbsteinschätzung durch?
-Dafür schätzen Sie z. B. auf Grundlage Ihrer Vorerfahrungen zu dem Thema oder Arbeitsauftrag ein, wie gut Sie die beschriebenen Kompetenzen in der jeweiligen Auftragssituation 
-beherrschen. Erinnern Sie sich hierfür an Situationen oder Arbeitsaufträge, in denen sie diese oder ähnliche Handlungen bereits durchgeführt haben. Nutzen Sie hierfür auch die Informationen 
-zum Auftrag im Kompetenzcheck: Auftragstitel, Auftragsbeschreibung, Verwendungszweck. Eine Selbsteinschätzung sollten Sie bestmöglich eigenständig 
-und ohne die Hilfe Dritter durchführen, um Ihre individuellen Einschätzungen festzuhalten.Dokumentieren Sie Ihre Selbstwahrnehmung in der Software, 
-indem Sie pro Kompetenz auf vier Niveaustufen einschätzen, wie gut Sie diese Kompetenz zum aktuellen Zeitpunkt beherrschen. 
-
-
+Um eine Selbsteinschätzung durchzuführen schätzen Sie z. B. auf Grundlage Ihrer Vorerfahrungen zu dem Thema oder Arbeitsauftrag ein, wie gut Sie die beschriebenen Kompetenzen in der jeweiligen Auftragssituation 
+beherrschen. Erinnern Sie sich hierfür an Situationen oder Arbeitsaufträge, in denen sie diese oder ähnliche Handlungen bereits durchgeführt haben. Um welche Auftragssituation es sich handelt, erfahren Sie unter dem Punkt **Auftragsbeschreibung**.  
+Zur Einschätzung Ihres Könnens wählen Sie pro Kompetenzbeschreibung eines der vier Kreissymbole aus. Jedes Kreissymbol steht exemplarisch für eine Könnensstufe bzw. Niveaustufe. Indem Sie eine Niveausstufe anklicken halten Sie fest, wie gut Sie die beschriebene Kompetenz zum aktuellen Zeitpunkt beherrschen. 
+Führen Sie eine Selbsteinschätzung bestmöglich eigenständig und ohne die Hilfe Dritter durch.
 
 
 ![Übersicht der Funktionen zur Durchführung einer Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
 
 ## Wie geht es nach der ersten Selbsteinschätzung weiter?
-* Eine weitere Selbsteinschätzung durchführen: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit „Weitere Selbsteinschätzung durchführen“.
-* Eine Fremdeinschätzung einfordern: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit „Jemanden zu einer Fremdeinschätzung einladen“.
-* Den Kompetenz-Check beenden und die Auswertung starten: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit „Alle Einschätzungen abschließen: Auswertung beginnen“.
+Sobald Sie Ihre erste Selbsteinschätzung bzw. eine weitere Selbsteinschätzung gespeichert haben, gelangen Sie wieder auf die Seite **Dashboard**. Rechts neben dem Check werden Ihnen nun weitere **Aktionsmöglichkeiten** angeboten:
+* Eine weitere Selbsteinschätzung durchführen: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Weitere Selbsteinschätzung durchführen**.
+* Eine Fremdeinschätzung einfordern: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Jemanden zu einer Fremdeinschätzung einladen**.
+* Den Kompetenz-Check beenden und die Auswertung starten: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Alle Einschätzungen abschließen: Auswertung beginnen**.
 
 ## Warum sollte ich weitere Selbsteinschätzungen durchführen?
 
