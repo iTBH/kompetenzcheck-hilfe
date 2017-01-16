@@ -1,5 +1,13 @@
-# Selbsteinschätzung
-Hier können Sie einschätzen, wie weit Sie die zur Auftragsbearbeitung benötigten Kompetenzen bereits entwickelt haben. Mit Ihrer ersten Selbsteinschätzung beginnt die Durchführung des Kompetenz-Checks. Dafür schätzen Sie vor der Auftragsbearbeitung auf Grundlage Ihrer Selbstwahrnehmung und Vorerfahrungen ein, wie gut, also auf welcher Niveaustufe, Sie die beschriebenen Kompetenzen beherrschen.
+# Was ist eine Selbsteinschätzung?
+
+Auf dieser Seite führen Sie eine Selbsteinschätzung zu den im Check beschriebenen Kompetenzen durch.
+Dafür schätzen Sie z. B. auf Grundlage Ihrer Vorerfahrungen zu dem Thema oder Arbeitsauftrag ein, wie gut, 
+also auf welcher Niveaustufe, Sie die beschriebenen Kompetenzen bereits beherrschen. Eine Selbsteinschätzung sollten Sie bestmöglich eigenständig und ohne die Hilfe Dritter durchführen, um Ihre individuellen Einschätzungen festzuhalten.
+
+Im Kompetenz-Check gibt es zweit Arten von Selbsteinschätzungen:
+Die erste Selbsteinschätzung führen Sie, je nach Szenario, **vor** der Auftragsbearbeitung oder dem Auswertungsgespräch durch. Diese 
+
+vor der Auftragsbearbeitung Mit Ihrer ersten Selbsteinschätzung beginnt die Durchführung des Kompetenz-Checks. 
 
 ![Übersicht der Funktionen zur Durchführung einer Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
 
