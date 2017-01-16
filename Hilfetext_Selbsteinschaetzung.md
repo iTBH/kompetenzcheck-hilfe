@@ -1,4 +1,5 @@
-__# Selbsteinschätzung__
+# Selbsteinschätzung
+- - -
 Auf dieser Seite führen Sie eine Selbsteinschätzung zu den im Check beschriebenen Kompetenzen durch.
 
 ## Was ist eine Selbsteinschätzung?
