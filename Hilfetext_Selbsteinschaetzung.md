@@ -30,9 +30,7 @@ Rechts neben dem Check werden Ihnen nun weitere **Aktionsmöglichkeiten** angebo
 
 ## Warum sollte ich weitere Selbsteinschätzungen durchführen?
 
-Nach der ersten Selbsteinschätzung und mit Beginn der Durchführung des Checks können Sie weitere Selbsteinschätzungen durchführen. Im Gegensatz zur ersten 
-Selbsteinschätzung schätzen Sie Ihr Können dann auf Grundlage Ihrer z. B. während der Auftragsbearbeitung gesammelten Erfahrungen ein. Führen Sie weitere Selbsteinschätzungen während 
-der Auftragsbearbeitung durch, wenn Sie herausfinden wollen, wie sich Ihr Können bzw. die Wahrnehmung Ihres Könnens über einen bestimmten Zeitraum verändert. 
+Führen Sie weitere Selbsteinschätzungen während der Auftragsbearbeitung durch, wenn Sie herausfinden wollen, wie sich Ihr Können bzw. die Wahrnehmung Ihres Könnens über einen bestimmten Zeitraum verändert. 
 Führen Sie eine weitere Selbsteinschätzung durch, **bevor Sie den Check abschließen**. So erfahren Sie, ob sich Ihr Können im Vergleich zur ersten Selbsteinschätzung verändert hat.
 Sie können jede weitere Selbsteinschätzung bis zum Abschluss des Checks immer wieder bearbeiten. Notieren Sie dann die Begründungen zur Veränderung Ihrer Selbsteinschätzung im Kommentarfeld.
 
