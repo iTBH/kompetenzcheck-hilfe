@@ -13,7 +13,7 @@ Im Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen:
 * Nachdem Sie die erste Selbsteinschätzung durchgeführt haben, können Sie beliebig viele **weitere Selbsteinschätzungen** durchführen. Weitere Selbsteinschätzungen können Sie bis zum Abschluss des Checks immer wieder bearbeiten.
 
 ## Wie führe ich eine Selbsteinschätzung durch?
-Um eine Selbsteinschätzung durchzuführen schätzen Sie z. B. auf Grundlage Ihrer Vorerfahrungen zu dem Thema oder Arbeitsauftrag ein, wie gut Sie die beschriebenen Kompetenzen in der jeweiligen Auftragssituation 
+Um eine Selbsteinschätzung durchzuführen schätzen Sie z. B. auf Grundlage Ihrer Vorerfahrungen zu dem Thema oder Arbeitsauftrag ein, wie gut Sie die beschriebenen Kompetenzen 
 beherrschen. Erinnern Sie sich hierfür an Situationen oder Arbeitsaufträge, in denen sie diese oder ähnliche Handlungen bereits durchgeführt haben. Um welche Auftragssituation es sich handelt, erfahren Sie unter dem Punkt **Auftragsbeschreibung**.  
 Zur Einschätzung Ihres Könnens wählen Sie pro Kompetenzbeschreibung eines der vier Kreissymbole aus. Jedes Kreissymbol steht exemplarisch für eine Könnensstufe bzw. Niveaustufe. Indem Sie eine Niveausstufe anklicken halten Sie fest, wie gut Sie die beschriebene Kompetenz zum aktuellen Zeitpunkt beherrschen. 
 Führen Sie eine Selbsteinschätzung bestmöglich eigenständig und ohne die Hilfe Dritter durch.
