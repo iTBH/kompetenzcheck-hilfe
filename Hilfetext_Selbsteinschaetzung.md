@@ -29,8 +29,17 @@ Rechts neben dem Check werden Ihnen nun weitere **Aktionsmöglichkeiten** angebo
 * Den Kompetenz-Check beenden und die Auswertung starten: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Alle Einschätzungen abschließen: Auswertung beginnen**.
 
 ## Warum sollte ich weitere Selbsteinschätzungen durchführen?
-
 Führen Sie weitere Selbsteinschätzungen während der Auftragsbearbeitung durch, wenn Sie herausfinden wollen, wie sich Ihr Können bzw. die Wahrnehmung Ihres Könnens über einen bestimmten Zeitraum verändert. 
 Führen Sie eine weitere Selbsteinschätzung durch, **bevor Sie den Check abschließen**. So erfahren Sie, ob sich Ihr Können im Vergleich zur ersten Selbsteinschätzung verändert hat.
 Sie können jede weitere Selbsteinschätzung bis zum Abschluss des Checks immer wieder bearbeiten. Notieren Sie dann die Begründungen zur Veränderung Ihrer Selbsteinschätzung im Kommentarfeld.
+
+## Warum kann ich meine erste Selbsteinschätzung nach dem Speichern nicht mehr einsehen oder bearbeiten?
+Ihre erste Selbsteinschätzung ist eine Momentaufnahme Ihres Könnens zu Beginn jedes Checks. Typischerweise führen Sie die erste Selbsteinschätzung 
+vor der Bearbeitung eines Auftrages oder eines längeren Lernprozesses durch. Wir wollen Ihnen die Möglichkeit geben, 
+Ihr Können in weiteren Selbsteinschätzungen immer wieder neu einzuschätzen. Das Ergebnis Ihrer ersten Selbsteinschätzung sehen Sie, wenn Sie den Check abschließen.
+In der Check-Auswertung werden alle Selbst- und Fremdeinschätzungen der ersten Selbsteinschätzung gegenüber gestellt. So erfahren Sie, ob sich Ihre Einschätzungen 
+im Verlauf der ACheck-Durchführung verändert haben, oder ob es Unterschiede zwischen Selbst- und Fremdeinschätzungen gibt.
+
+## Wer sieht meine Selbsteinschätzungen?
+Ihre Selbsteinschätzungen gehören Ihnen! Keine weitere Person kann diese einsehen. Bei der Auswertung des Checks bestimmen Sie über die Zusammenstellung der Daten für das Auswertungsgespräch.
 
