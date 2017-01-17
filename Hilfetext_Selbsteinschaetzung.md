@@ -24,6 +24,7 @@ Zur Einschätzung Ihres Könnens wählen Sie pro Kompetenzbeschreibung eines der
 Führen Sie eine Selbsteinschätzung bestmöglich eigenständig und ohne die Hilfe Dritter durch.
 
 
+
 ![Übersicht der Funktionen zur Durchführung einer Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
 
 ## Wie geht es nach der ersten Selbsteinschätzung weiter?
