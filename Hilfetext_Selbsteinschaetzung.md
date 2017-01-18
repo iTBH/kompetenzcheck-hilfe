@@ -32,17 +32,13 @@ Zur Einschätzung Ihres Könnens wählen Sie pro Kompetenzbeschreibung eines der
 Indem Sie eine Niveausstufe anklicken halten Sie fest, wie gut Sie die beschriebene Kompetenz zum aktuellen Zeitpunkt beherrschen. 
 Führen Sie eine Selbsteinschätzung bestmöglich eigenständig und ohne die Hilfe Dritter durch.
 
-Sie können zur Einschätzung ihrer Kompetenzen zwischen vier Niveaustufen wählen:
-
-![Die vier Niveaustufen zur Selbsteinschätzung von Kompetenzen](media/NiveaustufenSE.png)
-
 Wählen Sie zur ersten Selbsteinschätzung eine Niveaustufe aus. Damit Sie später nachvollziehen können, warum Sie sich so eingeschätzt haben, ist es hilfreich, 
 einen Kommentar zu jeder Einschätzung zu verfassen. Speichern Sie Ihre Einschätzung, indem Sie den Button „Einschätzung speichern“ klicken.
 Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen im Check und beenden Sie die gesamte Selbsteinschätzung, indem Sie oben rechts den Button 
 „Einschätzung abschließen“ klicken. Ihre erste Selbsteinschätzung ist nun gespeichert und kann nicht mehr bearbeitet werden. Die Durchführung des Kompetenz-Checks 
 kann beginnen.
 
-
+![Übersicht der Funktionen zur Durchführung einer Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
 
 
 ## Wie geht es nach der ersten Selbsteinschätzung weiter?
