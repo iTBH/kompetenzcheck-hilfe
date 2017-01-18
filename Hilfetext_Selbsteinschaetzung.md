@@ -20,7 +20,15 @@ Klicken Sie auf den Button rechts neben einer Kompetenzbeschreibung, um eine Sel
 
 ![Klicken Sie diesen Button, um eine Selbsteinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Screen_SE_button.jpg)
 
-Zur Einschätzung Ihres Könnens wählen Sie pro Kompetenzbeschreibung eines der vier Kreissymbole aus. Jedes Kreissymbol steht exemplarisch für eine Könnensstufe bzw. Niveaustufe. Indem Sie eine Niveausstufe anklicken halten Sie fest, wie gut Sie die beschriebene Kompetenz zum aktuellen Zeitpunkt beherrschen. 
+Zur Einschätzung Ihres Könnens wählen Sie pro Kompetenzbeschreibung eines der vier Kreissymbole aus. Jedes Kreissymbol steht exemplarisch für eine Könnensstufe bzw. Niveaustufe. 
+
+•	Ich mache das zum ersten Mal: Sie haben bisher noch keine Erfahrungen gesammelt und führen die Handlungen zum ersten Mal durch.
+•	Ich kann das mithilfe einer anderen Person: Sie verfügen bereits über erste Erfahrungen, fühlen sich aber sicherer, wenn eine weitere Person Sie unterstützt z.B. durch Anleitung oder Beantwortung von Fragen
+•	Ich kann das selbstständig: Sie haben schon viele Erfahrungen gesammelt und können die Handlungen selbstständig durchführen
+•	Ich kann das selbstständig in einer anderen Situation: Sie haben schon so viele Erfahrungen gesammelt, dass Sie die Handlungen auch in variierenden Situationen durchführen können.
+
+
+Indem Sie eine Niveausstufe anklicken halten Sie fest, wie gut Sie die beschriebene Kompetenz zum aktuellen Zeitpunkt beherrschen. 
 Führen Sie eine Selbsteinschätzung bestmöglich eigenständig und ohne die Hilfe Dritter durch.
 
 Sie können zur Einschätzung ihrer Kompetenzen zwischen vier Niveaustufen wählen:
