@@ -1,5 +1,6 @@
 # Selbsteinschätzung
 - - -
+![Übersicht der Funktionen zur Durchführung einer Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
 Auf dieser Seite führen Sie eine Selbsteinschätzung zu den im Check beschriebenen Kompetenzen durch.
 
 ## Was ist eine Selbsteinschätzung?
@@ -15,8 +16,6 @@ Im Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen:
 ## Wie führe ich eine Selbsteinschätzung durch?
 Um eine Selbsteinschätzung durchzuführen schätzen Sie z. B. auf Grundlage Ihrer Vorerfahrungen zu dem Thema oder Arbeitsauftrag ein, wie gut Sie die beschriebenen Kompetenzen 
 beherrschen. Erinnern Sie sich hierfür an Situationen oder Arbeitsaufträge, in denen sie diese oder ähnliche Handlungen bereits durchgeführt haben. Um welche Auftragssituation es sich handelt, erfahren Sie unter dem Punkt **Auftragsbeschreibung**.  
-
-![Übersicht der Funktionen zur Durchführung einer Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
 
 Klicken Sie auf den *Button rechts neben einer Kompetenzbeschreibung*, um eine Selbsteinschätzung zu dieser Kompetenz durchzuführen. 
 
