@@ -28,7 +28,7 @@ immer wiederfinden und erneut einsetzen.
 Im nächsten Schritt fügen Sie den Check-Phasen mittels des Plus-Buttons Kompetenzbeschreibungen hinzu. Dabei müssen Sie nicht allen Phasen Kompetenzbeschreibungen 
 hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten.
 
-Kompetenzbeschreibungen können dann den Dimensionen Personale Kompetenz und Fachkompetenz zugeordnet werden.
+Kompetenzbeschreibungen können dann den Dimensionen Personale Kompetenz und Fachkompetenz zugeordnet werden (siehe hierzu den Qualifikationsrahmen für Lebenslanges Lernen http://www.dqr.de/index.php)
 
 ![Übersicht der Funktionen zur Erstellung eines Checks](media/check-erstellen.png)
 
