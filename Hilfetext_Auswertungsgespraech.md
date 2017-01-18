@@ -15,7 +15,8 @@ Nutzen Sie sowohl die Prozessansicht, als auch die Detailansicht für das **Ausw
 
 ![Übersicht über das Material zum Auswertungsgespräch](media/Auswertung.jpg)
 
-**Wie führe ich das Auswertungsgespräch?**
+## Wie und mit wem führe ich das Auswertungsgespräch?
+
 Bitten Sie die Person(en), die Sie fremdeingeschätzt hat/haben, zu einen Gespräch, um gemeinsam die Ergebnisse des Kompetenz-Checks zu besprechen. 
 Im Auswertungsgespräch besprechen Sie zunächst auf Grundlage der Prozessansicht und der Detailansicht mit Ihren Check-Partnern und Check-Partnerinnen (z. B. Fremdeinschätzer) den durchgeführten Arbeitsauftrag, aufgetretene Herausforderungen und Erfolge.
 Dieser offene und ehrliche Dialog zielt darauf ab, Entwicklungspotenziale zu identifizieren und den Kompetenzentwicklungsprozess des Selbsteinschätzers bzw. der Selbsteinschätzerin gemeinsam zu gestalten.
