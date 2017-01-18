@@ -45,6 +45,10 @@ Rechts neben dem Check werden Ihnen nun weitere **Aktionsmöglichkeiten** angebo
 * Den Kompetenz-Check beenden und die Auswertung starten: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Alle Einschätzungen abschließen: Auswertung beginnen**.
 
 ## Warum sollte ich weitere Selbsteinschätzungen durchführen?
+Machen Sie eine weitere Selbsteinschätzung z. B. nach Beendigung eines Auftragsabschnittes, oder im Anschluss an eine gelöste Problemsituation.
+
+Schätzen Sie nur die Kompetenzen ein, die Sie gerade in der Auftragsbearbeitung angewandt haben.
+
 Führen Sie weitere Selbsteinschätzungen während der Auftragsbearbeitung durch, wenn Sie herausfinden wollen, wie sich Ihr Können bzw. die Wahrnehmung Ihres Könnens über einen bestimmten Zeitraum verändert. 
 Führen Sie eine weitere Selbsteinschätzung durch, **bevor Sie den Check abschließen**. So erfahren Sie, ob sich Ihr Können im Vergleich zur ersten Selbsteinschätzung verändert hat.
 Sie können jede weitere Selbsteinschätzung bis zum Abschluss des Checks immer wieder bearbeiten. Notieren Sie dann die Begründungen zur Veränderung Ihrer Selbsteinschätzung im Kommentarfeld.
