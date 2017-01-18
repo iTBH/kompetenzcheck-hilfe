@@ -11,7 +11,7 @@ z. B. wärend der Bearbeitung eines spezifischen Arbeitsauftrages.
 
 Im Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen:
 * Die **erste Selbsteinschätzung** führen Sie, je nach Szenario, **vor** der Auftragsbearbeitung oder dem Auswertungsgespräch durch. Mit der ersten Selbsteinschätzung starten die Durchführung eines Checks. Die erste Selbsteinschätzung kann nach dem Speichern nicht mehr bearbeitet werden.
-* Nachdem Sie die erste Selbsteinschätzung durchgeführt haben, können Sie beliebig viele **weitere Selbsteinschätzungen** durchführen. Weitere Selbsteinschätzungen können Sie bis zum Abschluss des Checks immer wieder bearbeiten.
+* Nachdem Sie die erste Selbsteinschätzung durchgeführt haben, können Sie beliebig viele **weitere Selbsteinschätzungen** durchführen. Fügen Sie jeder Einschätzung einen *Kommentar* hinzu, um festzuhalten, warum Sie sich zu diesem Zeitpunkt so einschätzen. Weitere Selbsteinschätzungen können Sie bis zum Abschluss des Checks immer wieder bearbeiten.
 
 ## Wie führe ich eine Selbsteinschätzung durch?
 Um eine Selbsteinschätzung durchzuführen schätzen Sie z. B. auf Grundlage Ihrer Vorerfahrungen zu dem Thema oder Arbeitsauftrag ein, wie gut Sie die beschriebenen Kompetenzen 
@@ -28,14 +28,13 @@ Zur Einschätzung Ihres Könnens wählen Sie pro Kompetenzbeschreibung eines der
 * *Ich kann das schon relativ gut und brauche nurnoch wenig Unterstützung*: Sie haben schon viele Erfahrungen gesammelt und können die Handlungen selbstständig durchführen
 * *Ich kann das sehr gut und brauche keine weitere Unterstützung*: Sie haben schon so viele Erfahrungen gesammelt, dass Sie die Handlungen auch in variierenden Situationen durchführen können.
 
-
 Indem Sie eine Niveausstufe anklicken halten Sie fest, wie gut Sie die beschriebene Kompetenz zum aktuellen Zeitpunkt beherrschen. 
 Führen Sie eine Selbsteinschätzung bestmöglich eigenständig und ohne die Hilfe Dritter durch.
 
-Wählen Sie zur ersten Selbsteinschätzung eine Niveaustufe aus. Damit Sie später nachvollziehen können, warum Sie sich so eingeschätzt haben, ist es hilfreich, 
-einen Kommentar zu jeder Einschätzung zu verfassen. Speichern Sie Ihre Einschätzung, indem Sie den Button „Einschätzung speichern“ klicken.
+Schreiben Sie einen *Kommentar* zu jeder Einschätzung,damit Sie im Auswertungsgespräch nachvollziehen können, warum Sie sich so eingeschätzt haben. 
+Speichern Sie Ihre Einschätzung, indem Sie den Button *Einschätzung speichern* rechts oberhalb der Kompetenzbeschreibung klicken.
 Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen im Check und beenden Sie die gesamte Selbsteinschätzung, indem Sie oben rechts den Button 
-„Einschätzung abschließen“ klicken. Ihre erste Selbsteinschätzung ist nun gespeichert und kann nicht mehr bearbeitet werden. Die Durchführung des Kompetenz-Checks 
+*Einschätzung abschließen* klicken. Ihre erste Selbsteinschätzung ist nun gespeichert und kann nicht mehr bearbeitet werden. Die Durchführung des Kompetenz-Checks 
 kann beginnen.
 
 ![Übersicht der Funktionen zur Durchführung einer Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
