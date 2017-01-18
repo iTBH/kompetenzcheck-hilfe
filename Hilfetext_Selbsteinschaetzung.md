@@ -7,10 +7,10 @@ Auf dieser Seite führen Sie eine Selbsteinschätzung zu den im Check beschriebe
 ## Was ist eine Selbsteinschätzung?
 
 Bei einer Selbsteinschätzung bewerten Sie bzw. schätzen Sie Ihre Fähigkeiten und Kompetenzen zu einem bestimmten Zeitpunkt ein. 
-Es handelt sich somit um eine zeitlich begrenzte Bestandsaufnahme Ihres Könnens im Rahmen einer bestimmten Situationen: 
+Es handelt sich somit um eine Bestandsaufnahme Ihres Könnens im Rahmen einer bestimmten Situationen: 
 z. B. wärend der Bearbeitung eines spezifischen Arbeitsauftrages.
 
-_Im Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen:_
+Im Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen: 
 * Die **erste Selbsteinschätzung** führen Sie, je nach Szenario, **vor** der Auftragsbearbeitung oder dem Auswertungsgespräch durch. Mit der ersten Selbsteinschätzung starten die Durchführung eines Checks. Die erste Selbsteinschätzung kann nach dem Speichern nicht mehr bearbeitet werden.
 * Nachdem Sie die erste Selbsteinschätzung durchgeführt haben, können Sie beliebig viele **weitere Selbsteinschätzungen** durchführen. Fügen Sie jeder Einschätzung einen **Kommentar** hinzu, um festzuhalten, warum Sie sich zu diesem Zeitpunkt so einschätzen. Weitere Selbsteinschätzungen können Sie bis zum Abschluss des Checks immer wieder bearbeiten.
 
@@ -24,15 +24,16 @@ Klicken Sie auf den **Button rechts neben einer Kompetenzbeschreibung**, um eine
 
 Zur Einschätzung Ihres Könnens wählen Sie pro Kompetenzbeschreibung eines der vier Kreissymbole aus. Jedes Kreissymbol steht exemplarisch für eine Könnensstufe bzw. Niveaustufe: 
 
-* **Ich kann das noch nicht und brauche umfassende Unterstützung**: Sie haben bisher noch keine Erfahrungen gesammelt und führen die Handlungen zum ersten Mal durch.
+* **Ich kann das noch nicht und brauche umfassende Unterstützung**: Sie haben bisher noch keine Erfahrungen gesammelt und führen die Handlungen zum ersten Mal durch, daher benötigen Sie Hilfestellung oder Anleitung durch eine weitere Person
 * **Ich kann das erst ein bischen und brauche noch relativ viel Unterstützung**: Sie verfügen bereits über erste Erfahrungen, fühlen sich aber sicherer, wenn eine weitere Person Sie unterstützt z.B. durch Anleitung oder Beantwortung von Fragen
-* **Ich kann das schon relativ gut und brauche nurnoch wenig Unterstützung**: Sie haben schon viele Erfahrungen gesammelt und können die Handlungen selbstständig durchführen
-* **Ich kann das sehr gut und brauche keine weitere Unterstützung**: Sie haben schon so viele Erfahrungen gesammelt, dass Sie die Handlungen auch in variierenden Situationen durchführen können.
+* **Ich kann das schon relativ gut und brauche nurnoch wenig Unterstützung**: Sie haben schon viele Erfahrungen gesammelt, können die Handlungen selbstständig durchführen und möchten evtl. nur einzelne Rückfragen stellen.
+* **Ich kann das sehr gut und brauche keine weitere Unterstützung**: Sie haben schon so viele Erfahrungen gesammelt, dass Sie die Handlungen selbständig und ohne weitere Hilfestellung durchführen können.
 
-Indem Sie eine Niveausstufe anklicken halten Sie fest, wie gut Sie die beschriebene Kompetenz zum aktuellen Zeitpunkt beherrschen. 
+Indem Sie eine Niveausstufe (Kreissymbol) anklicken halten Sie fest, wie gut Sie die beschriebene Kompetenz zum aktuellen Zeitpunkt beherrschen. 
 Führen Sie eine Selbsteinschätzung bestmöglich eigenständig und ohne die Hilfe Dritter durch.
 
 Schreiben Sie einen **Kommentar** zu jeder Einschätzung,damit Sie im Auswertungsgespräch nachvollziehen können, warum Sie sich so eingeschätzt haben. 
+
 Speichern Sie Ihre Einschätzung, indem Sie den Button **Einschätzung speichern** rechts oberhalb der Kompetenzbeschreibung klicken.
 Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen im Check und beenden Sie die gesamte Selbsteinschätzung, indem Sie oben rechts den Button 
 **Einschätzung abschließen** klicken. Ihre erste Selbsteinschätzung ist nun gespeichert und kann nicht mehr bearbeitet werden. Die Durchführung des Kompetenz-Checks 
@@ -49,11 +50,9 @@ Rechts neben dem Check werden Ihnen nun weitere **Aktionsmöglichkeiten** angebo
 * Den Kompetenz-Check beenden und die Auswertung starten: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Alle Einschätzungen abschließen: Auswertung beginnen**.
 
 ## Warum sollte ich weitere Selbsteinschätzungen durchführen?
-Machen Sie eine weitere Selbsteinschätzung z. B. nach Beendigung eines Auftragsabschnittes, oder im Anschluss an eine gelöste Problemsituation.
-
-Schätzen Sie nur die Kompetenzen ein, die Sie gerade in der Auftragsbearbeitung angewandt haben.
 
 Führen Sie weitere Selbsteinschätzungen während der Auftragsbearbeitung durch, wenn Sie herausfinden wollen, wie sich Ihr Können bzw. die Wahrnehmung Ihres Könnens über einen bestimmten Zeitraum verändert. 
+Schätzen Sie dann nur die Kompetenzen ein, die Sie gerade in der Auftragsbearbeitung eingesetzt haben, z. B. nur in der Auftragsanalyse oder Planungsphase.
 Führen Sie eine weitere Selbsteinschätzung durch, **bevor Sie den Check abschließen**. So erfahren Sie, ob sich Ihr Können im Vergleich zur ersten Selbsteinschätzung verändert hat.
 Sie können jede weitere Selbsteinschätzung bis zum Abschluss des Checks immer wieder bearbeiten. Notieren Sie dann die Begründungen zur Veränderung Ihrer Selbsteinschätzung im Kommentarfeld.
 
