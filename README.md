@@ -2,4 +2,6 @@
 
 Willkommen im Kompetenz-Check der Kompetenzwerkstatt - Mein Beruf. Der Kompetenz-Check begleitet Sie in der Erfassung und Förderung von Handlungskompetenzen in Lern-, Forschungs- und Arbeitsprozessen. Durch die Gegenüberstellung von Selbst- und Fremdeinschätzung werden eigene Kompetenzen bewusst gemacht und mit individuellen Entwicklungszielen verknüpft. Legen Sie einen Kompetenz-Check an, schätzen Sie Ihre Stärken ein, oder geben Sie einer weiteren Person Feedback.
 
-![Übersicht der Funktionen zur Erstellung eines Checks](media/check-erstellen.png)
+Hier sehen Sie den idealtypischen Ablauf eines Kompetenz-Checks, oder einfach kurz Checks.
+
+![Übersicht der Funktionen zur Erstellung eines Checks](media/AblaufKC.png)
