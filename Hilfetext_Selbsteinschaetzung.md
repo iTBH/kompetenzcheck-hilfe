@@ -10,7 +10,7 @@ Bei einer Selbsteinschätzung bewerten Sie bzw. schätzen Sie Ihre Fähigkeiten 
 Es handelt sich somit um eine zeitlich begrenzte Bestandsaufnahme Ihres Könnens im Rahmen einer bestimmten Situationen: 
 z. B. wärend der Bearbeitung eines spezifischen Arbeitsauftrages.
 
-Im Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen:
+_Im Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen:_
 * Die **erste Selbsteinschätzung** führen Sie, je nach Szenario, **vor** der Auftragsbearbeitung oder dem Auswertungsgespräch durch. Mit der ersten Selbsteinschätzung starten die Durchführung eines Checks. Die erste Selbsteinschätzung kann nach dem Speichern nicht mehr bearbeitet werden.
 * Nachdem Sie die erste Selbsteinschätzung durchgeführt haben, können Sie beliebig viele **weitere Selbsteinschätzungen** durchführen. Fügen Sie jeder Einschätzung einen **Kommentar** hinzu, um festzuhalten, warum Sie sich zu diesem Zeitpunkt so einschätzen. Weitere Selbsteinschätzungen können Sie bis zum Abschluss des Checks immer wieder bearbeiten.
 
