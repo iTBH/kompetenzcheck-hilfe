@@ -16,16 +16,18 @@ Im Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen:
 Um eine Selbsteinschätzung durchzuführen schätzen Sie z. B. auf Grundlage Ihrer Vorerfahrungen zu dem Thema oder Arbeitsauftrag ein, wie gut Sie die beschriebenen Kompetenzen 
 beherrschen. Erinnern Sie sich hierfür an Situationen oder Arbeitsaufträge, in denen sie diese oder ähnliche Handlungen bereits durchgeführt haben. Um welche Auftragssituation es sich handelt, erfahren Sie unter dem Punkt **Auftragsbeschreibung**.  
 
-Klicken Sie auf den Button rechts neben einer Kompetenzbeschreibung, um eine Selbsteinschätzung zu dieser Kompetenz durchzuführen. 
+![Übersicht der Funktionen zur Durchführung einer Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
+
+Klicken Sie auf den *Button rechts neben einer Kompetenzbeschreibung*, um eine Selbsteinschätzung zu dieser Kompetenz durchzuführen. 
 
 ![Klicken Sie diesen Button, um eine Selbsteinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Screen_SE_button.jpg)
 
-Zur Einschätzung Ihres Könnens wählen Sie pro Kompetenzbeschreibung eines der vier Kreissymbole aus. Jedes Kreissymbol steht exemplarisch für eine Könnensstufe bzw. Niveaustufe. 
+Zur Einschätzung Ihres Könnens wählen Sie pro Kompetenzbeschreibung eines der vier Kreissymbole aus. Jedes Kreissymbol steht exemplarisch für eine Könnensstufe bzw. Niveaustufe: 
 
-•	Ich mache das zum ersten Mal: Sie haben bisher noch keine Erfahrungen gesammelt und führen die Handlungen zum ersten Mal durch.
-•	Ich kann das mithilfe einer anderen Person: Sie verfügen bereits über erste Erfahrungen, fühlen sich aber sicherer, wenn eine weitere Person Sie unterstützt z.B. durch Anleitung oder Beantwortung von Fragen
-•	Ich kann das selbstständig: Sie haben schon viele Erfahrungen gesammelt und können die Handlungen selbstständig durchführen
-•	Ich kann das selbstständig in einer anderen Situation: Sie haben schon so viele Erfahrungen gesammelt, dass Sie die Handlungen auch in variierenden Situationen durchführen können.
+* *Ich kann das noch nicht und brauche umfassende Unterstützung*: Sie haben bisher noch keine Erfahrungen gesammelt und führen die Handlungen zum ersten Mal durch.
+* *Ich kann das erst ein bischen und brauche noch relativ viel Unterstützung*: Sie verfügen bereits über erste Erfahrungen, fühlen sich aber sicherer, wenn eine weitere Person Sie unterstützt z.B. durch Anleitung oder Beantwortung von Fragen
+* *Ich kann das schon relativ gut und brauche nurnoch wenig Unterstützung*: Sie haben schon viele Erfahrungen gesammelt und können die Handlungen selbstständig durchführen
+* *Ich kann das sehr gut und brauche keine weitere Unterstützung*: Sie haben schon so viele Erfahrungen gesammelt, dass Sie die Handlungen auch in variierenden Situationen durchführen können.
 
 
 Indem Sie eine Niveausstufe anklicken halten Sie fest, wie gut Sie die beschriebene Kompetenz zum aktuellen Zeitpunkt beherrschen. 
@@ -43,7 +45,6 @@ kann beginnen.
 
 
 
-![Übersicht der Funktionen zur Durchführung einer Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
 
 ## Wie geht es nach der ersten Selbsteinschätzung weiter?
 Sobald Sie Ihre erste Selbsteinschätzung bzw. eine weitere Selbsteinschätzung gespeichert haben, gelangen Sie wieder auf die Seite **Dashboard**. 
