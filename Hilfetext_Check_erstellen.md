@@ -11,6 +11,7 @@ Check noch Schlagwörter hinzufügen. Wenn Sie für den Check z. B. das Schlagwo
 immer wiederfinden und erneut einsetzen.
 
 Ein Check ist immer durch die vier Phasen 
+ AP_Phasen.jpg 
 * Auftragsanalyse
 * Planung 
 * Durchführung 
