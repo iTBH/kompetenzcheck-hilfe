@@ -70,14 +70,15 @@ Im nächsten Schritt fügen Sie Ihrem Check Kompetenzbeschreibungen hinzu, indem
 ![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen hinzu](media/AP_Phasen_markiert.jpg)
 
 Sie müssen nicht allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
+
+![Übersicht der Funktionen zum Hinzufügen oder Bearbeiten von Kompetenzbeschreibungen](media/check-erstellen-kompetenzen.png)
+
 Jede Kompetenzbeschreibung muss einem Kompetenzbereich zugeordnet werden. Unter Fachkompetenz wird das Wissen und
 die Fertigkeiten verstanden, die zur Bearbeitung des Auftrages benötigt werden. Die Personale Kompetenz gliedert sich in
 „Sozialkompetenz“ (u. a. Zusammenarbeit und Kommunikation mit Anderen) und
 "Selbstständigkeit" (u. a. Zeit- und Aufgabenmanagement, Bereitschaft zum Lernen, Fähigkeit und Bereitschaft zum Feedback Geben und Nehmen).
 
-
-
-![Der Kompetenz-Check orientiert sich an dem Kompetenzverständnis des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR) (siehe hierzu: http://www.dqr.de/index.php)](media/DQR.jpg)
+![Der Kompetenz-Check orientiert sich an dem Kompetenzverständnis des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR: http://www.dqr.de/index.php)](media/DQR.jpg)
 
 
 
