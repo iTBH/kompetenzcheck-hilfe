@@ -1,3 +1,6 @@
+variables:
+    COLON: ':'
+
 stages:
     - build
     - review
@@ -25,7 +28,7 @@ start_review:
         - sshpass -p "$SSH_PASSWD" scp -P "$SSH_PORT" -r _book/* $SSH_USER@fizban.rz.tu-harburg.de:/usr/share/nginx/html/review/$CI_BUILD_REF_NAME
     environment:
         name: review/$CI_BUILD_REF_NAME
-        url: http://fizban.rz.tu-harburg.de:47080/review/$CI_BUILD_REF_NAME/
+        url: http://fizban.rz.tu-harburg.de$COLON$HTTP_PORT/review/$CI_BUILD_REF_NAME/
         on_stop: stop_review
     only:
         - branches
@@ -62,5 +65,5 @@ deploy:
         - sshpass -p "$SSH_PASSWD" scp -P "$SSH_PORT" -r _book/* $SSH_USER@fizban.rz.tu-harburg.de:/usr/share/nginx/html/production
     environment:
         name: production
-        url: http://fizban.rz.tu-harburg.de:47080/production/
+        url: http://fizban.rz.tu-harburg.de$COLON$HTTP_PORT/production/
     #when: manual
