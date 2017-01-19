@@ -30,7 +30,11 @@ immer wiederfinden und erneut einsetzen.
 
 ![Beschreibung der Rahmenbedingungen eines Checks](media/Screen_Checkerstellen_Auftrag.jpg)
 
-Im nächsten Schritt fügen Sie den Check-Phasen mittels des Plus-Buttons Kompetenzbeschreibungen hinzu. Dabei müssen Sie nicht allen Phasen Kompetenzbeschreibungen 
+Im nächsten Schritt fügen Sie den Check-Phasen mittels des Plus-Buttons Kompetenzbeschreibungen hinzu. 
+
+![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen hinzu](media/AP_Phasen_markiert.jpg )
+
+Dabei müssen Sie nicht allen Phasen Kompetenzbeschreibungen 
 hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten.
 
 Kompetenzbeschreibungen können dann den Dimensionen Personale Kompetenz und Fachkompetenz zugeordnet werden (siehe hierzu den Qualifikationsrahmen für Lebenslanges Lernen http://www.dqr.de/index.php)
