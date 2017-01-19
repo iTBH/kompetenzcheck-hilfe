@@ -5,36 +5,40 @@ Auf dieser Seite erstellen Sie einen neuen Check.
 ![Übersicht der Funktionen zur Erstellung eines Checks](media/check-erstellen.png)
 
 ## Was ist ein Check?
-Ein Check stellt im Kompetenz-Check die Grundlage für einen Dialog über das Kompetenzvermögen einer Person bzw. des Selbsteinschätzers bzw. der Selbsteinschätzerin da.
-Dabei bezieht sich ein Check immer auf eine spezifische Handlungssituation, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages, und beinhaltet die in der 
-jeweiligen Situation benötigten Kompetenzen. 
+Ein Check stellt die Grundlage für einen Dialog über das Kompetenzvermögen einer Person, also des Selbsteinschätzers bzw. der Selbsteinschätzerin dar.
+Dabei bezieht sich ein Check immer auf eine **spezifische Handlungssituation**, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages, und beinhaltet die in der 
+jeweiligen Situation benötigten **Handlungskompetenzen**. Zusätzlich zur Beschreibung der Situation können einem Check Schlagwörter hinzugefügt werden.
+
 Die Durchführung eines Checks erfolgt idealerweise prozessorientiert, also paralell zur Bearbeitung des Arbeits- oder Forschungsauftrages. Daher ist ein Check immer durch vier Phasen 
 strukturiert, die sich an typischen Arbeits- oder Forschungsprozessen orientieren:
 
 ![Die vier Phasen eines Checks](media/AP_Phasen.jpg)
  
-* **Die Auftragsanalyse**: In der Auftragsanalyse werden die Rahmenbedingungen, Anforderungen und Zielsetzungen des Arbeits- oder Forschungsauftrages geklärt 
-* **Die Planungsphase**: In der Planungsphase geht es darum, den Auftrag z. B. durch die Bereitstellung von Materialien, Instrumenten und Werkzeugen vorzubereiten bzw. geeignete Methoden und Verfahren passend zur Zielsetzung und Forschungsfrage auszuwählen.
-* **Die Durchführungsphase**: In dieser Phase wird der Auftrag praktisch umgesetzt, indem z. B. ein Produkt erstellt, Daten erhoben oder Experimente durchgeführt werden.
-* **Der Abschluss**: In der Abschlussphase geht es darum das erreichte Ergebnis mit der Ziel- und Fragestellung abzugleichen bzw. das erstellte Produkt dem Auftraggeber zu übergeben und den durchlaufenen Prozess zu reflektieren. 
+* **Die Auftragsanalyse:** In der Auftragsanalyse werden die Rahmenbedingungen, Anforderungen und Zielsetzungen des Arbeits- oder Forschungsauftrages geklärt. 
+* **Die Planungsphase:** In der Planungsphase geht es darum, den Auftrag z. B. durch die Bereitstellung von Materialien, Instrumenten und Werkzeugen vorzubereiten bzw. geeignete Methoden und Verfahren passend zur Zielsetzung und Forschungsfrage auszuwählen.
+* **Die Durchführungsphase:** In dieser Phase wird der Auftrag praktisch umgesetzt, indem z. B. ein Produkt erstellt, Daten erhoben oder Experimente durchgeführt werden.
+* **Der Abschluss:** In der Abschlussphase geht es darum, das erreichte Ergebnis mit der Ziel- und Fragestellung abzugleichen bzw. das erstellte Produkt dem Auftraggeber zu übergeben und den durchlaufenen Prozess zu reflektieren. 
 
-Jeder Check-Phase können Kompetenzbeschreibungen hinzugefügt werden: Grundsätzlich wird zwischen Fachkompetenzen (Wissen und Fertigkeiten) und Personalen Kompetenzen 
+**Jeder Check-Phase können Sie ausgewählte Kompetenzbeschreibungen hinzugefügen:** Grundsätzlich wird zwischen Fachkompetenzen (Wissen und Fertigkeiten) und Personalen Kompetenzen 
 (Sozialkompetenz und Selbständigkeit) unterschieden. Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
 des Selbsteinschätzers bzw. der Selbsteinschätzerin bestmöglich erfassen zu können.
 Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (aus Sicht des Selbsteinschätzers bzw. 
-der Selbsteinschätzerin) bzw. zur Beobachtung des Könnens einer anderen Person (aus Sicht des Fremdeinschätzers bzw. der Fremdeinschätzerin).
+der Selbsteinschätzerin) und zur Beobachtung des Könnens einer anderen Person (aus Sicht des Fremdeinschätzers bzw. der Fremdeinschätzerin). 
 
+Ein Check kann alleine, mit einer weiteren Person, oder auch mit einer Gruppe durchgeführt werden.
+Mit Abschluss aller gewünschten Selbst- und Fremdeinschätzungen können der Check beendet und die erfassten Daten ausgewertet werden. 
+Diese Check-Auswertung dient dann als Grundlage zur Besprechung und Reflexion des Arbeits- bzw. Forschungsprozesses.
 
-Neben einem Checktitel,
-einen Verwendungszweck und einer Auftragsbeschreibung können Sie dem
-Check noch Schlagwörter hinzufügen. Wenn Sie für den Check z. B. das Schlagwort "Vorlage" vergeben, können Sie den Check unter diesem Schlagwort 
-immer wiederfinden und erneut einsetzen.
-
-Ein 
 
 ## Wie erstelle ich einen Check?
 
-Neben einem Checktitel,
+Sie können einen Check zur Selbstevaluation oder für weitere Personen, Check-Partner bzw. Check-Partnerinnen genannt, erstellen. 
+Wenn Sie einen Check für eine oder mehrere Check-Partner und Check-Partnerinnen anlegen wollen ist es sinnvoll, diese in die folgenden Schritte miteinzubeziehen.
+Um ein gemeinsames Verständnis aller Beteiligten über den Check zu erreichen, wird die zugrunde liegenden Handlungssituation ausführlich in den Punkten **Kurztitel, Auftragsbeschreibung und Verwendungszweck** beschrieben: 
+
+**Kurztitel des Checks**: Zunächst geben Sie dem Check einen prägnanten Namen, der sich auf den durchzuführenden Arbeits- oder Forschungsauftrag bezieht. Der Titel sollte kurz und für weitere Personen nachvollziehbar sein.
+Damit alle Nutzer den Arbeitsauftrag, die Beschreibung des Arbeitsauftrags sowie den Verwendungszweck des Kompetenzchecks kennen und nachvollziehen können, sollten diese ausführlich beschrieben werden.
+
 einen Verwendungszweck und einer Auftragsbeschreibung können Sie dem
 Check noch Schlagwörter hinzufügen. Wenn Sie für den Check z. B. das Schlagwort "Vorlage" vergeben, können Sie den Check unter diesem Schlagwort 
 immer wiederfinden und erneut einsetzen.
