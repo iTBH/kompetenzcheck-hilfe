@@ -10,15 +10,16 @@ einen Verwendungszweck und einer Auftragsbeschreibung können Sie dem
 Check noch Schlagwörter hinzufügen. Wenn Sie für den Check z. B. das Schlagwort "Vorlage" vergeben, können Sie den Check unter diesem Schlagwort 
 immer wiederfinden und erneut einsetzen.
 
-Ein Check ist immer durch die vier Phasen 
+Ein Check ist immer durch die vier Phasen strukturiert, die sich an typischen Arbeits- oder Forschungsprozessen orientieren:
+
 ![Die vier Phasen eines Checks](media/AP_Phasen.jpg)
  
-* Auftragsanalyse
-* Planung 
+* **Die Auftragsanalyse**: In der Auftragsanalyse werden die Rahmenbedingungen, Anforderungen und Zielsetzungen des Arbeits- oder Forschungsauftrages geklärt 
+* **Die Planungsphase**: In der Planungsphase
 * Durchführung 
 * Abschluss 
 
-strukturiert. Diese Phasen orientieren sich an den Bearbeitungsphasen eines Arbeitsauftrags/Projektes und unterstützen Sie dabei, den Check an 
+Diese Phasen orientieren sich an den Bearbeitungsphasen eines Arbeitsauftrags/Projektes und unterstützen Sie dabei, den Check an 
 Lern- und Arbeitsprozesse anzupassen bzw. prozessorientiert einzusetzen.
 
 ## Wie erstelle ich einen Check?
@@ -38,8 +39,6 @@ Dabei müssen Sie nicht allen Phasen Kompetenzbeschreibungen
 hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten.
 
 Kompetenzbeschreibungen können dann den Dimensionen Personale Kompetenz und Fachkompetenz zugeordnet werden (siehe hierzu den Qualifikationsrahmen für Lebenslanges Lernen http://www.dqr.de/index.php)
-
-![Übersicht der Funktionen zur Erstellung eines Checks](media/check-erstellen.png)
 
 Zum Erstellen eines Kompetenz-Checks gehört das Hinzufügen von
 Kompetenzbeschreibungen. Hierzu wählen Sie zuerst die
