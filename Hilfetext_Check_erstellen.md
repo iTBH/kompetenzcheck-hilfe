@@ -16,9 +16,13 @@ strukturiert, die sich an typischen Arbeits- oder Forschungsprozessen orientiere
 * **Die Auftragsanalyse**: In der Auftragsanalyse werden die Rahmenbedingungen, Anforderungen und Zielsetzungen des Arbeits- oder Forschungsauftrages geklärt 
 * **Die Planungsphase**: In der Planungsphase geht es darum, den Auftrag z. B. durch die Bereitstellung von Materialien, Instrumenten und Werkzeugen vorzubereiten bzw. geeignete Methoden und Verfahren passend zur Zielsetzung und Forschungsfrage auszuwählen.
 * **Die Durchführungsphase**: In dieser Phase wird der Auftrag praktisch umgesetzt, indem z. B. ein Produkt erstellt, Daten erhoben oder Experimente durchgeführt werden.
-* ** Der Abschluss**: In der Abschlussphase geht es darum das erreichte Ergebnis mit der Ziel- und Fragestellung abzugleichen bzw. das erstellte Produkt dem Auftraggeber zu übergeben und den durchlaufenen Prozess zu reflektieren. 
+* **Der Abschluss**: In der Abschlussphase geht es darum das erreichte Ergebnis mit der Ziel- und Fragestellung abzugleichen bzw. das erstellte Produkt dem Auftraggeber zu übergeben und den durchlaufenen Prozess zu reflektieren. 
 
-Jeder Check-Phase können Kompetenzbeschreibungen hinzugefügt werden, die für die Bearbeitung des Auftrages 
+Jeder Check-Phase können Kompetenzbeschreibungen hinzugefügt werden: Grundsätzlich wird zwischen Fachkompetenzen (Wissen und Fertigkeiten) und Personalen Kompetenzen 
+(Sozialkompetenz und Selbständigkeit) unterschieden. Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
+des Selbsteinschätzers bzw. der Selbsteinschätzerin bestmöglich erfassen zu können.
+Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (aus Sicht des Selbsteinschätzers bzw. 
+der Selbsteinschätzerin) bzw. zur Beobachtung des Könnens einer anderen Person (aus Sicht des Fremdeinschätzers bzw. der Fremdeinschätzerin).
 
 
 Neben einem Checktitel,
