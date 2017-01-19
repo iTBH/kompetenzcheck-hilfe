@@ -5,22 +5,28 @@ Auf dieser Seite erstellen Sie einen neuen Check.
 ![Übersicht der Funktionen zur Erstellung eines Checks](media/check-erstellen.png)
 
 ## Was ist ein Check?
-Hier können Sie einen neuen Kompetenz-Check erstellen. Neben einem Checktitel,
-einen Verwendungszweck und einer Auftragsbeschreibung können Sie dem
-Check noch Schlagwörter hinzufügen. Wenn Sie für den Check z. B. das Schlagwort "Vorlage" vergeben, können Sie den Check unter diesem Schlagwort 
-immer wiederfinden und erneut einsetzen.
-
-Ein Check ist immer durch die vier Phasen strukturiert, die sich an typischen Arbeits- oder Forschungsprozessen orientieren:
+Ein Check stellt im Kompetenz-Check die Grundlage für einen Dialog über das Kompetenzvermögen einer Person bzw. des Selbsteinschätzers bzw. der Selbsteinschätzerin da.
+Dabei bezieht sich ein Check immer auf eine spezifische Handlungssituation, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages, und beinhaltet die in der 
+jeweiligen Situation benötigten Kompetenzen. 
+Die Durchführung eines Checks erfolgt idealerweise prozessorientiert, also paralell zur Bearbeitung des Arbeits- oder Forschungsauftrages. Daher ist ein Check immer durch vier Phasen 
+strukturiert, die sich an typischen Arbeits- oder Forschungsprozessen orientieren:
 
 ![Die vier Phasen eines Checks](media/AP_Phasen.jpg)
  
 * **Die Auftragsanalyse**: In der Auftragsanalyse werden die Rahmenbedingungen, Anforderungen und Zielsetzungen des Arbeits- oder Forschungsauftrages geklärt 
-* **Die Planungsphase**: In der Planungsphase
-* Durchführung 
-* Abschluss 
+* **Die Planungsphase**: In der Planungsphase geht es darum, den Auftrag z. B. durch die Bereitstellung von Materialien, Instrumenten und Werkzeugen vorzubereiten bzw. geeignete Methoden und Verfahren passend zur Zielsetzung und Forschungsfrage auszuwählen.
+* **Die Durchführungsphase**: In dieser Phase wird der Auftrag praktisch umgesetzt, indem z. B. ein Produkt erstellt, Daten erhoben oder Experimente durchgeführt werden.
+* ** Der Abschluss**: In der Abschlussphase geht es darum das erreichte Ergebnis mit der Ziel- und Fragestellung abzugleichen bzw. das erstellte Produkt dem Auftraggeber zu übergeben und den durchlaufenen Prozess zu reflektieren. 
 
-Diese Phasen orientieren sich an den Bearbeitungsphasen eines Arbeitsauftrags/Projektes und unterstützen Sie dabei, den Check an 
-Lern- und Arbeitsprozesse anzupassen bzw. prozessorientiert einzusetzen.
+Jeder Check-Phase können Kompetenzbeschreibungen hinzugefügt werden, die für die Bearbeitung des Auftrages 
+
+
+Neben einem Checktitel,
+einen Verwendungszweck und einer Auftragsbeschreibung können Sie dem
+Check noch Schlagwörter hinzufügen. Wenn Sie für den Check z. B. das Schlagwort "Vorlage" vergeben, können Sie den Check unter diesem Schlagwort 
+immer wiederfinden und erneut einsetzen.
+
+Ein 
 
 ## Wie erstelle ich einen Check?
 
