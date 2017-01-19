@@ -83,9 +83,21 @@ die Fertigkeiten verstanden, die zur Bearbeitung des Auftrages benötigt werden.
 
 
 ## Wie formuliere ich eine Kompetenzbeschreibung?
-Die Kompetenzbeschreibung sollte einen konkreten Bezug zum Arbeitsauftrag haben
-und möglichst genau die auszuführende, bzw. zu beobachtende Handlung
-beschreiben. Zudem sollte eine Kompetenzbeschreibung immer in der 3. Person singular formuliert werden.  
+Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Arbeits- oder Forschungsauftrag haben und möglichst genau die auszuführende, 
+bzw. zu beobachtende Handlung beschreiben. Eine Kompetenzbeschreibung muss immer in der 3. Person singular formuliert werden.  
+
+Die Lernergebnisse sollten konkret und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren)
+formuliert werden, das heißt sie sollten „überprüfbar“ sein.
+Der Lerner + Verb (Operator) + Inhalt/Bezug der Handlung + Situation + Kontext der Handlung +
+ggf. spezifisches Kriterium
+Beispiel: Der Auszubildende analysiert Probleme durch Recherche in gängigen Foren und erarbeitet Lösungen
+auch in englischer Sprache.
+In der Formulierung der Lernergebnisse sollte das Niveau deutlich werden. Je höher das Niveau, desto
+stärker ist die Anforderungsstruktur durch Komplexität, häufige Veränderungen und Ergebnisoffenheit
+geprägt (siehe Material „Leitfaden Formulierung von Kompetenzen“). Zur Bestimmung des kognitiven Niveaus
+kann die Taxonomie von Anderson & Krathwohl Anregung geben. Die verschiedenen Niveaustufen
+sind mit Verben verbunden, mit denen Lernergebnisse auf den unterschiedlichen Stufen beschrieben werden
+können.
 
   **Beispiele:** 
   
