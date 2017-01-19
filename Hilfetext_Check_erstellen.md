@@ -41,6 +41,8 @@ Wenn Sie einen Check für eine oder mehrere Check-Partner und Check-Partnerinnen
 Um ein gemeinsames Verständnis aller Beteiligten über den Check zu erreichen, wird die zugrunde liegende Handlungssituation ausführlich in den Punkten Kurztitel, 
 Auftragsbeschreibung und Verwendungszweck beschrieben: 
 
+![Beschreibung der Rahmenbedingungen eines Checks](media/Screen_Checkerstellen_Auftrag.jpg)
+
 **Der Kurztitel des Checks:** Zunächst geben Sie dem Check einen prägnanten Namen, der sich auf den durchzuführenden Arbeits- oder Forschungsauftrag bezieht. 
 Der Titel sollte kurz und für weitere Personen nachvollziehbar sein.
 
@@ -62,32 +64,22 @@ Eine Auftragsbeschreibung kann folgende Aspekte umfassen:
 **Schlagwörter:** Fügen Sie dem Check Schlagwörter hinzu, um Ihre Checks später sortieren und filtern zu können. Unter dem **Menüpunkt Schlagwörter** 
 können Sie Ihre Schlagwörter verwalten, bearbeiten und neue hinzufügen.
 
-
-![Beschreibung der Rahmenbedingungen eines Checks](media/Screen_Checkerstellen_Auftrag.jpg)
-
-Im nächsten Schritt fügen Sie den Check-Phasen mittels des Plus-Buttons Kompetenzbeschreibungen hinzu. 
+### 2. Schritt: Kompetenzbeschreibungen hinzufügen
+Im nächsten Schritt fügen Sie Ihrem Check Kompetenzbeschreibungen hinzu, indem Sie den **Plus-Button** in einer Check-Phase anklicken:
 
 ![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen hinzu](media/AP_Phasen_markiert.jpg)
 
-Dabei müssen Sie nicht allen Phasen Kompetenzbeschreibungen 
-hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten.
-
-Kompetenzbeschreibungen können dann den Dimensionen Personale Kompetenz und Fachkompetenz zugeordnet werden (siehe hierzu den Qualifikationsrahmen für Lebenslanges Lernen http://www.dqr.de/index.php)
-
-Zum Erstellen eines Kompetenz-Checks gehört das Hinzufügen von
-Kompetenzbeschreibungen. Hierzu wählen Sie zuerst die
-Auftragsphase aus, zu der Sie eine Kompetenzbeschreibung hinzufügen
-möchten. Anschließend formulieren Sie die Kompetenzbeschreibung und
-ordnen diese dem entsprechenden Kompetenzbereich zu.
-
-![Der Kompetenz-Check orientiert sich an dem Kompetenzverständnis des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR)](media/DQR.jpg)
-
-Sie können eine Kompetenzbeschreibung dem Bereich „Fachkompetenz“ oder
-„Personale Kompetenz“ zuordnen. Unter Fachkompetenz sind das Wissen und
-die Fertigkeiten, die zur Bearbeitung des Arbeitsauftrags notwendig
-sind, zu verstehen. Die Personale Kompetenz gliedert sich in
+Sie müssen nicht allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
+Jede Kompetenzbeschreibung muss einem Kompetenzbereich zugeordnet werden. Unter Fachkompetenz wird das Wissen und
+die Fertigkeiten verstanden, die zur Bearbeitung des Auftrages benötigt werden. Die Personale Kompetenz gliedert sich in
 „Sozialkompetenz“ (u. a. Zusammenarbeit und Kommunikation mit Anderen) und
-"Selbstständigkeit" (u. a. Zeit- und Aufgabenmanagement, Bereitschaft zum Lernen, Fähigkeit und Bereitschaft zum Feedback Geben und Nehmen) auf.
+"Selbstständigkeit" (u. a. Zeit- und Aufgabenmanagement, Bereitschaft zum Lernen, Fähigkeit und Bereitschaft zum Feedback Geben und Nehmen).
+
+
+
+![Der Kompetenz-Check orientiert sich an dem Kompetenzverständnis des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR) (siehe hierzu: http://www.dqr.de/index.php)](media/DQR.jpg)
+
+
 
 ## Wie formuliere ich eine Kompetenzbeschreibung?
 Die Kompetenzbeschreibung sollte einen konkreten Bezug zum Arbeitsauftrag haben
