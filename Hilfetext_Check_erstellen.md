@@ -33,7 +33,7 @@ immer wiederfinden und erneut einsetzen.
 
 Im nächsten Schritt fügen Sie den Check-Phasen mittels des Plus-Buttons Kompetenzbeschreibungen hinzu. 
 
-![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen hinzu](media/AP_Phasen_markiert.jpg )
+![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen hinzu](media/AP_Phasen_markiert.jpg)
 
 Dabei müssen Sie nicht allen Phasen Kompetenzbeschreibungen 
 hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten.
@@ -45,6 +45,8 @@ Kompetenzbeschreibungen. Hierzu wählen Sie zuerst die
 Auftragsphase aus, zu der Sie eine Kompetenzbeschreibung hinzufügen
 möchten. Anschließend formulieren Sie die Kompetenzbeschreibung und
 ordnen diese dem entsprechenden Kompetenzbereich zu.
+
+![Der Kompetenz-Check orientiert sich an dem Kompetenzverständnis des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR)](media/DQR.jpg)
 
 Sie können eine Kompetenzbeschreibung dem Bereich „Fachkompetenz“ oder
 „Personale Kompetenz“ zuordnen. Unter Fachkompetenz sind das Wissen und
