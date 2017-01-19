@@ -11,7 +11,8 @@ Check noch Schlagwörter hinzufügen. Wenn Sie für den Check z. B. das Schlagwo
 immer wiederfinden und erneut einsetzen.
 
 Ein Check ist immer durch die vier Phasen 
- AP_Phasen.jpg 
+![Die vier Phasen eines Checks](media/AP_Phasen.jpg)
+ 
 * Auftragsanalyse
 * Planung 
 * Durchführung 
@@ -26,6 +27,9 @@ Neben einem Checktitel,
 einen Verwendungszweck und einer Auftragsbeschreibung können Sie dem
 Check noch Schlagwörter hinzufügen. Wenn Sie für den Check z. B. das Schlagwort "Vorlage" vergeben, können Sie den Check unter diesem Schlagwort 
 immer wiederfinden und erneut einsetzen.
+
+![Beschreibung der Rahmenbedingungen eines Checks](media/Screen_Checkerstellen_Auftrag.jpg)
+
 Im nächsten Schritt fügen Sie den Check-Phasen mittels des Plus-Buttons Kompetenzbeschreibungen hinzu. Dabei müssen Sie nicht allen Phasen Kompetenzbeschreibungen 
 hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten.
 
