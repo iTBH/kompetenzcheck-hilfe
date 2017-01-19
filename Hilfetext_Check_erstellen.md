@@ -6,6 +6,8 @@ Auf dieser Seite erstellen Sie einen neuen Check.
 
 ## Was ist ein Check?
 Ein Check stellt die Grundlage für einen Dialog über das Kompetenzvermögen einer Person, also des Selbsteinschätzers bzw. der Selbsteinschätzerin dar.
+
+### Arbeits- bzw. Forschungsauftrag
 Dabei bezieht sich ein Check immer auf eine **spezifische Handlungssituation**, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages, und beinhaltet die in der 
 jeweiligen Situation benötigten **Handlungskompetenzen**. Zusätzlich zur Beschreibung der Situation können einem Check Schlagwörter hinzugefügt werden.
 
@@ -19,6 +21,7 @@ strukturiert, die sich an typischen Arbeits- oder Forschungsprozessen orientiere
 * **Die Durchführungsphase:** In dieser Phase wird der Auftrag praktisch umgesetzt, indem z. B. ein Produkt erstellt, Daten erhoben oder Experimente durchgeführt werden.
 * **Der Abschluss:** In der Abschlussphase geht es darum, das erreichte Ergebnis mit der Ziel- und Fragestellung abzugleichen bzw. das erstellte Produkt dem Auftraggeber zu übergeben und den durchlaufenen Prozess zu reflektieren. 
 
+### Kompetenzbeschreibungen
 **Jeder Check-Phase können Sie ausgewählte Kompetenzbeschreibungen hinzugefügen:** Grundsätzlich wird zwischen Fachkompetenzen (Wissen und Fertigkeiten) und Personalen Kompetenzen 
 (Sozialkompetenz und Selbständigkeit) unterschieden. Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
 des Selbsteinschätzers bzw. der Selbsteinschätzerin bestmöglich erfassen zu können.
@@ -34,12 +37,31 @@ Diese Check-Auswertung dient dann als Grundlage zur Besprechung und Reflexion de
 
 Sie können einen Check zur Selbstevaluation oder für weitere Personen, Check-Partner bzw. Check-Partnerinnen genannt, erstellen. 
 Wenn Sie einen Check für eine oder mehrere Check-Partner und Check-Partnerinnen anlegen wollen ist es sinnvoll, diese in die folgenden Schritte miteinzubeziehen.
-Um ein gemeinsames Verständnis aller Beteiligten über den Check zu erreichen, wird die zugrunde liegenden Handlungssituation ausführlich in den Punkten **Kurztitel, Auftragsbeschreibung und Verwendungszweck** beschrieben: 
 
-**Kurztitel des Checks**: Zunächst geben Sie dem Check einen prägnanten Namen, der sich auf den durchzuführenden Arbeits- oder Forschungsauftrag bezieht. Der Titel sollte kurz und für weitere Personen nachvollziehbar sein.
-Damit alle Nutzer den Arbeitsauftrag, die Beschreibung des Arbeitsauftrags sowie den Verwendungszweck des Kompetenzchecks kennen und nachvollziehen können, sollten diese ausführlich beschrieben werden.
+### 1. Schritt: Arbeits- bzw. Forschungsauftrag beschreiben
+Um ein gemeinsames Verständnis aller Beteiligten über den Check zu erreichen, wird die zugrunde liegenden Handlungssituation ausführlich in den Punkten Kurztitel, Auftragsbeschreibung und Verwendungszweck beschrieben: 
 
-einen Verwendungszweck und einer Auftragsbeschreibung können Sie dem
+**Der Kurztitel des Checks:** Zunächst geben Sie dem Check einen prägnanten Namen, der sich auf den durchzuführenden Arbeits- oder Forschungsauftrag bezieht. Der Titel sollte kurz und für weitere Personen nachvollziehbar sein.
+
+**Der Verwendungszweck:**
+
+**Die Auftragsbeschreibung:** beschreibt die berufliche Situation, in der gehandelt werden soll. Eine detaillierte Auftragsbeschreibung unterstützt alle Nutzer bei der Einschätzung von Stärkung und Bedarfen während der Auftragsbearbeitung.
+
+Eine Auftragsbeschreibung kann folgende Aspekte umfassen:
+* Welche Rahmenbedingungen sind gegeben: Abteilung, Arbeitsort, Zeitraum, Kunde/Auftraggeber, Arbeitsform
+* Mit wem wird zusammengearbeitet: Mitarbeiter, Abteilung, Freiberufler, externe Firma, Kunde
+* Welche Handlungen werden durchgeführt: 
+* Welche Regeln, Normen, Vorschriften müssen beachtet werden: 
+* Welches fachliche Wissen, welche Fertigkeiten, welche sozialen und personalen Kompetenzen sind für die Auftragsbearbeitung notwendig: 
+* Welche (externen) Mittel sind notwendig (Werkzeuge, Software, Maschinen, Material):
+* Qualitätsansprüche an das Arbeitsprodukt/-dienstleistung: 
+
+Ein Beispiel für eine Auftragsbeschreibung: Im Zeitraum vom 01.03. bis 06.03. soll im Rahmen einer Altbausanierung ein Waschbecken neu installiert werden. Der Arbeitsort: XX, der Kunde: Herr Klaus, der Geselle mit vor Ort. Es ist auf sauberes, präzises Arbeiten unter Beachtung gängiger Sicherheitsvorschriften und Normen zu achten. 
+
+Beschreiben Sie den Auftrag ausführlich. Es sollte deutlich werden, in welcher Situation das Kompetenzvermögen eingeschätzt wird. 
+
+
+
 Check noch Schlagwörter hinzufügen. Wenn Sie für den Check z. B. das Schlagwort "Vorlage" vergeben, können Sie den Check unter diesem Schlagwort 
 immer wiederfinden und erneut einsetzen.
 
