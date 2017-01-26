@@ -87,19 +87,15 @@ Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten 
 bzw. zu beobachtende Handlung beschreiben. Eine Kompetenzbeschreibung muss immer in der 3. Person singular formuliert werden.  
 
 Die Kompetenzbeschreibung sollt konkret und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren)
-formuliert werden, das heißt sie sollte „beobachtbar“ sein. Tipps für beobachtbare Verben für Fach- und Personale Kompetenz: ![Der Kompetenz-](media/media/Verben_fuer_Kompetenzbeschreibung.pdf)
+formuliert werden, das heißt sie sollte „beobachtbar“ sein. Tipps für beobachtbare Verben für Fach- und Personale Kompetenz: 
+<a href="media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Verben für die Kompetenzbeschreibung: Beispiele</a>
 
-
+**Formulierung einer Kompetenzbeschreibung:**
 Der Lerner + Verb (Operator) + Inhalt/Bezug der Handlung + Situation + Kontext der Handlung +
 ggf. spezifisches Kriterium
-Beispiel: Der Auszubildende analysiert Probleme durch Recherche in gängigen Foren und erarbeitet Lösungen
+
+Beispiel: Der Lernende analysiert Probleme durch Recherche in gängigen Foren und erarbeitet Lösungen
 auch in englischer Sprache.
-In der Formulierung der Lernergebnisse sollte das Niveau deutlich werden. Je höher das Niveau, desto
-stärker ist die Anforderungsstruktur durch Komplexität, häufige Veränderungen und Ergebnisoffenheit
-geprägt (siehe Material „Leitfaden Formulierung von Kompetenzen“). Zur Bestimmung des kognitiven Niveaus
-kann die Taxonomie von Anderson & Krathwohl Anregung geben. Die verschiedenen Niveaustufen
-sind mit Verben verbunden, mit denen Lernergebnisse auf den unterschiedlichen Stufen beschrieben werden
-können.
 
   **Beispiele:** 
   
