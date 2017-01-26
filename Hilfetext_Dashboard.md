@@ -31,3 +31,9 @@ duplizieren oder löschen.
 Rechts neben jedem Check zeigen Ihnen die Aktionsmöglichkeiten die nächsten Schritte auf, die Sie im Kompetenz-Check durchführen können, z. B. "Eine Selbsteinschätzung durchführen" oder den "Check Jemandem zuweisen".
 
 ![Funktionen der Detailansicht eines Checks](media/dashboard-check.png)
+
+## Wie geht es nach dem Anlegen des Checks weiter?
+Sobald Sie Ihren Check gespeichert haben, gelangen Sie wieder auf die Seite **Dashboard**. 
+Rechts neben dem Check werden Ihnen nun weitere **Aktionsmöglichkeiten** angeboten:
+* Eine Selbsteinschätzung durchführen: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Selbsteinschätzung durchführen**.
+* Den Check einer weiteren Person zuweisen: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Check zuweisen**.
