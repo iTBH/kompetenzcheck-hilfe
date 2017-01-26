@@ -91,6 +91,7 @@ formuliert werden, das heißt sie sollte „beobachtbar“ sein. Tipps für beob
 <a href="media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Verben für die Kompetenzbeschreibung: Beispiele</a>
 
 **Formulierung einer Kompetenzbeschreibung:**
+
 Der Lerner + Verb (Operator) + Inhalt/Bezug der Handlung + Situation + Kontext der Handlung +
 ggf. spezifisches Kriterium
 
