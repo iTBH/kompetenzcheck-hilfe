@@ -86,8 +86,10 @@ die Fertigkeiten verstanden, die zur Bearbeitung des Auftrages benötigt werden.
 Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Arbeits- oder Forschungsauftrag haben und möglichst genau die auszuführende, 
 bzw. zu beobachtende Handlung beschreiben. Eine Kompetenzbeschreibung muss immer in der 3. Person singular formuliert werden.  
 
-Die Lernergebnisse sollten konkret und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren)
-formuliert werden, das heißt sie sollten „überprüfbar“ sein.
+Die Kompetenzbeschreibung sollt konkret und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren)
+formuliert werden, das heißt sie sollte „beobachtbar“ sein. Tipps für beobachtbare Verben für Fach- und Personale Kompetenz: ![Der Kompetenz-](media/media/Verben_fuer_Kompetenzbeschreibung.pdf)
+
+
 Der Lerner + Verb (Operator) + Inhalt/Bezug der Handlung + Situation + Kontext der Handlung +
 ggf. spezifisches Kriterium
 Beispiel: Der Auszubildende analysiert Probleme durch Recherche in gängigen Foren und erarbeitet Lösungen
