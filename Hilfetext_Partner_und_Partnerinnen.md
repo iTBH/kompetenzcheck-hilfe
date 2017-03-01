@@ -3,9 +3,9 @@
 Hier können Sie Checkpartner und Checkpartnerinnen hinzufügen und verwalten. 
 
 - - -
-![Übersicht der Funktionen zur Erstellung eines Checks](Bd09_Checkpartner.jpg)
+![Übersicht der Funktionen zur Erstellung eines Checks](Checkpartner.jpg)
 
-![Übersicht der Funktionen zur Erstellung eines Checks](Bd09_Checkpartner.jpg )
+
 
 ## Was sind Check-Partner und Check-Partnerinnen?
 Diese Verwaltung bietet Ihnen den Vorteil, dass Sie den hier eingetragenen
