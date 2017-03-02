@@ -3,7 +3,8 @@
 Hier können Sie Checkpartner und Checkpartnerinnen hinzufügen und verwalten. 
 
 - - -
-![Übersicht der Funktionen zur Erstellung eines Checks](Checkpartner.jpg)
+
+
 
 
 
@@ -21,4 +22,3 @@ Ebenso können Sie die Daten vorhandener Partner/innen bearbeiten oder löschen.
 
 ## Wie bearbeite ich bereits vorhandene Partner und Partnerinnen?
 
-![Übersicht der Funktionen zur Erstellung eines Checks](PartnerBearbeiten.jpg)
