@@ -3,7 +3,8 @@
 Sie haben den Check beendet und somit alle Selbst- und Fremdeinschätzungen abgeschlossen. Auf dieser Seite sehen Sie die Auswertung der erfassten Daten zum durchgeführten 
 Arbeitsauftrag. 
 
-![Übersicht über das Material zum Auswertungsgespräch](media/Auswertung_Screen.jpg)
+![Übersicht der Auswertungsseite](media/Auswertung_Screen.jpg)
+
 
 ## Was ist die Check-Auswertung?
 Diese Seite zeigt die Ergebnisse des Checks aus zwei Perspektiven:
