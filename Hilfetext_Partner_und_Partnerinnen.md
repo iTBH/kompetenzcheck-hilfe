@@ -5,7 +5,7 @@ Hier können Sie Checkpartner und Checkpartnerinnen hinzufügen und verwalten.
 - - -
 
 
-![Übersicht über das Material zum Auswertungsgespräch](Checkpartner.jpg)
+![Übersicht über das Material zum Auswertungsgespräch](Auswertung_Screen.jpg)
 
 
 ## Was sind Check-Partner und Check-Partnerinnen?
