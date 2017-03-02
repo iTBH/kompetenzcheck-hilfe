@@ -18,6 +18,6 @@ Sie legen neue Check-Partner und Check-Partnerinnen durch Angabe des Vor- und Na
 
 ## Wie bearbeite ich bereits vorhandene Partner und Partnerinnen?
 
-Zur Verwaltung bereits angelegter Partner und Partnerinnen stehen Ihnen zwei Funktionen zur Verfügung: **Bearbeiten** oder **Löschen**.
+Zur Verwaltung bereits angelegter Partner und Partnerinnen stehen Ihnen zwei Aktionen zur Verfügung: **Bearbeiten** oder **Löschen**.
 
 ![Übersicht über das Material zum Auswertungsgespräch](media/PartnerBearbeiten.jpg)
