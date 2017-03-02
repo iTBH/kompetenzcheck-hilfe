@@ -1,6 +1,7 @@
 # Das Dashboard
 
 - - - 
+![Darstellung der Struktur und der Funktionen auf dem Dashboard](media/dashboard.png)
 
 ## Was ist das Dashboard?
 
