@@ -1,10 +1,18 @@
 # Schlagwörter
 
+- - - 
+Auf dieser Seite verwalten Sie Ihre Schlagwörter
+
+![Darstellung der Funktionen zur Schlagwortverwaltung](media/Bd09_Schlagwort.jpg)
+
+
 Auf dieser Seite erstellen und verwalten Sie Ihre Schlagwörter. Sie können neue
 Schlagwörter durch Angabe einer treffenden Bezeichnung und einer Beschreibung
 hinzufügen sowie bereits vorhandene Schlagwörter bearbeiten oder
 löschen. Weiterhin kannst Sie sich hier alle Kompetenz-Checks zu einem
 Schlagwort anzeigen lassen bzw. prüfen, wie oft ein Schlagwort bereits vergeben wurde.
+
+![Ansicht zur Bearbeitung eines Schlagwortes](media/Schlagwort_Detail.jpg)
 
 Mit Schlagwörtern können Sie Ihre Kompetenz-Checks individuell, zum
 Beispiel nach dem Checkpartner oder dem Arbeitsauftrag des Checks strukturieren.
