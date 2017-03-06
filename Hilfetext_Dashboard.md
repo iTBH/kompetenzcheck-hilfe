@@ -7,15 +7,18 @@ Auf dieser Seite erstellen und verwalten Sie Ihre Checks.
 
 ## Was ist das Dashboard?
 
-Das Dashboard ist das Herzstück des Kompetenz-Checks. Hier führen Sie alle zentralen Aktionen durch: **Importieren eines Checks**, **Erstellung eines neuen Checks**, **Durchführung eines Checks**, **Verwaltung und Bearbeitung** von laufenden und bereits abgeschlossenewn Checks.
+Das Dashboard, auch **Checks im Überblick** genannt, ist das Herzstück des Kompetenz-Checks. Hier führen Sie alle zentralen Aktionen durch: **Importieren eines Checks**, **Erstellung eines neuen Checks**, **Durchführung eines Checks mit den Aktionsmöglichkeiten**, **Verwaltung und Bearbeitung** von laufenden und bereits abgeschlossenewn Checks. Verschiedene **Filtermöglichkeiten** (nach Partnern und Schlagwörtern) unterstützen Sie in der Organisation und Anzeige Ihrer Checks auf dem Dashboard.
 
-Sobald Sie einen neuen Check erstellt haben, erscheint dieser auf dem Dashboard. Auf der rechten Seite werden Ihnen zu jedem Check und je nach Status der Check-Durchführung unterschiedliche **Aktionsmöglichkeiten** angeboten. Verschiedene **Filtermöglichkeiten** (nach Partnern und Schlagwörtern)unterstützen Sie in der Organisation und Anzeige Ihrer Checks auf dem Dashboard.
+Das Dashboard gliedert sich in drei Bereiche: 
 
+* Oben rechts: Hier können Sie einen **neuen Check erstellen** oder einen **Check importieren**.
+* Filterleiste: Hier können Sie Ihre die Anzeige der Checks auf dem Dashboard anpassen, indem Sie **Nach Schlagworten suchen** oder **nach Partnern oder Partnerinnen suchen**. Mit Anklicken der Checkbox **auch abgeschlossene Checks anzeigen** werden laufende und abgeschlossene Checks angezeigt.
+* **Checks im Detail**: Hier sehen Sie alle laufenden und falls gewünscht (Checkbox) auch abgeschlossenen Checks.
+* **Aktionsmöglichkeiten**: Diese zeigen pro Check an, was Sie nun tun können.
 
-
-## Was sind Checks im Überblick?
 
 ## Was ist der Check im Detail?
+Sobald Sie einen neuen Check erstellt haben, erscheint dieser auf dem Dashboard. Auf der rechten Seite werden Ihnen zu jedem Check und je nach Status der Check-Durchführung unterschiedliche **Aktionsmöglichkeiten** angeboten. 
 In der Detailansicht werden Ihnen die Informationen zum jeweiligen Kompetenz-Check angezeigt.
 Neben dem Titel, dem Verwendungszweck und der Auftragsbeschreibung,
 werden Ihnen die zugewiesenen Schlagwörter und ein Verlauf aller
