@@ -9,13 +9,16 @@ Sie wurden zu einer Fremdeinschätzung im Kompetenz-Check eingeladen. Hier könn
 ## Was ist eine Fremdeinschätzung?
 Sie wurden dazu eingeladen, eine Fremdeinschätzung abzugeben. Dies bedeutet, dass Sie einschätzen sollen, wie weit die Person, die Sie zum Kompetenz-Check eingeladen hat, die beschriebenen Kompetenzen bereits entwickelt hat. Sie können Ihre Fremdeinschätzung entweder auf Grundlage Ihrer Wahrnehmung der Person, oder auf Basis Ihrer Beobachtungen während der Auftragsbearbeitung durchführen. Ihre Fremdeinschätzung ist dann aussagekräftig, wenn Sie die Person bei der Auftragsdurchführung begleiten und regelmäßig Feedback zu durchgeführten Handlungen geben. 
 
-Sie können Ihre Fremdeinschätzung immer wieder bearbeiten und an Ihre Beobachtungen anpassen. Tipp: Speichern Sie sich den Link als Lesezeichen!
+Sie können Ihre Fremdeinschätzung immer wieder bearbeiten und an Ihre Beobachtungen anpassen. **Tipp: Speichern Sie sich den Link als Lesezeichen!**
 
 ## Wie führe ich eine Fremdeinschätzung durch?
 Klicken Sie auf den **Button rechts neben einer Kompetenzbeschreibung**, um eine Selbsteinschätzung zu dieser Kompetenz durchzuführen. 
+
 ![Klicken Sie diesen Button, um eine Fremdeinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Fremdeinschaetzung_Deatail.jpg)
 
 Zur Einschätzung des Kompetenzvermögens der anderen Person stehen Ihnen vier Niveaustufen zur Verfügung. Wenn Sie eine Kompetenz nicht einschätzen können, wählen Sie die Checkbox **Einschätzung nicht möglich**. 
+
+![Übersicht der Funktionen zur Durchführung einer Fremdeinschätzung](media/Fremdeinschaetzung.jpg)
 
 Die Niveaustufen beziehen sich auf beobachtbare Handlungen im Rahmen der Auftragsbearbeitung, zu deren Ausführung die beschriebenen Kompetenzen benötigt werden. 
 
@@ -31,19 +34,13 @@ Indem Sie eine Niveausstufe (Kreissymbol) anklicken halten Sie Ihrer Wahrnehmung
 Schreiben Sie einen **Kommentar** zu jeder Einschätzung, damit Sie im Auswertungsgespräch nachvollziehen können, warum Sie die Person so eingeschätzt haben. 
 
 Speichern Sie Ihre Einschätzung, indem Sie den Button **Einschätzung speichern** rechts oberhalb der Kompetenzbeschreibung klicken.
-Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen im Check. Sie können Ihre Fremdeinschätzung immer wieder bearbeiten und an Ihre Beobachtungen anpassen. Tipp: Speichern Sie sich den Link als Lesezeichen! 
+Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen im Check. Sie können Ihre Fremdeinschätzung immer wieder bearbeiten und an Ihre Beobachtungen anpassen. 
+
 Beenden Sie die gesamte Fremdeinschätzung, indem Sie oben rechts den Button 
 **Einschätzung abschließen** klicken. Ihre erste Fremdeinschätzung ist nun gespeichert und kann nicht mehr bearbeitet werden. Die Durchführung des Kompetenz-Checks 
 kann beginnen.
 
 
-
-
-![Übersicht der Funktionen zur Durchführung einer Fremdeinschätzung](media/Fremdeinschaetzung.jpg)
-
-
-
-
 ## Wie geht es nach der Fremdeinschätzung weiter?
-* Zum Auswertungsgespräch auffordern: Fordern Sie die Person auf, den Check abzuschließen und gemeinsam mit Ihnen im Auswertungsgespräch die Selbst- und Fremdeinschätzungen zu besprechen.
+* **Zum Auswertungsgespräch auffordern**: Fordern Sie die Person, welche Sie zur Fremdeinschätzung eingeladen hat auf, den Check abzuschließen und gemeinsam mit Ihnen im Auswertungsgespräch die Selbst- und Fremdeinschätzungen zu besprechen.
 
