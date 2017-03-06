@@ -17,16 +17,20 @@ Das Dashboard gliedert sich in drei Bereiche:
 * **Aktionsmöglichkeiten**: Diese zeigen pro Check an, was Sie nun tun können.
 
 
-## Was ist der Check im Detail?
-Sobald Sie einen neuen Check erstellt haben, erscheint dieser auf dem Dashboard. Auf der rechten Seite werden Ihnen zu jedem Check und je nach Status der Check-Durchführung unterschiedliche **Aktionsmöglichkeiten** angeboten. 
-In der Detailansicht werden Ihnen die Informationen zum jeweiligen Kompetenz-Check angezeigt.
-Neben dem Titel, dem Verwendungszweck und der Auftragsbeschreibung,
-werden Ihnen die zugewiesenen Schlagwörter und ein Verlauf aller
-bisherigen Aktionen angezeigt, die im Rahmen des Checks durchgeführt wurden. So erkennen Sie immer auf einen Blick den aktuellen Status des Checks bzw. welche Aktionen Sie oder weitere Teilnehmer des Checks bereits durchgeführt haben.
+## Was ist Checks im Detail?
+Sobald Sie einen neuen Check erstellt haben, erscheint dieser auf dem Dashboard unter **Checks im Detail**. Auf der rechten Seite werden Ihnen zu jedem Check und je nach Status der Check-Durchführung unterschiedliche **Aktionsmöglichkeiten** angeboten. 
+So erkennen Sie immer auf einen Blick den aktuellen Status des Checks bzw. welche Aktionen Sie oder weitere Check-Partnern bzw. Check-Partnerinnen des Checks bereits durchgeführt haben.
 
-Zudem stehen Ihnen zu jedem Kompetenz-Check verschiedene
-Bearbeitungsfunktionen zur Verfügung. Dem aktuellen
-Status des Checks entsprechend, können Sie diesen u. a. bearbeiten,
+Ein Check im Detail zeigt Ihnen Informationen zum Check an:
+
+* Titel des Checks
+* Verwendungszweck
+* Der zugrunde liegende Arbeitsauftrag
+* Evtl. zugewiesene Schlagwörter 
+* Eine Verlaufsdarstellung aller Aktionen, die im Rahmen des Checks von Ihnen oder Check-Partnern bzw. Check-Partnerinnen durchgeführt wurden. 
+
+Zudem können Sie verschiedene Bearbeitungsfunktionen nutzen. Dem aktuellen
+Status des Checks entsprechend (laufend oder abgeschlossen), können Sie diesen u. a. bearbeiten,
 duplizieren oder löschen.
 
 ## Was sind Aktionsmöglichkeiten?
