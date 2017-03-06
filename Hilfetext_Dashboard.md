@@ -1,6 +1,8 @@
 # Das Dashboard
 
 - - - 
+Auf dieser Seite erstellen und verwalten Sie Ihre Checks.
+
 ![Darstellung der Struktur und der Funktionen auf dem Dashboard](media/dashboard.png)
 
 ## Was ist das Dashboard?
