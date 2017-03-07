@@ -2,7 +2,7 @@
 
 - - -
 
-In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernprozess anhand der Check-Auswertung und leiten Handlungsalternativen für sich selber, aber auch für die Gestaltung der Lernsituation ab. Auf Grundlage der Reflexionen der Lernenden kann die Lehrperson dann in einen zielgerichteten Austausch über anvisierte Lernergebnisse, subjektiv wahrgenommene Lernerfolge und Hürden sowie die Gestaltung der Lehrveranstaltung mit den Lernenden treten.
+In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernprozess anhand der Check-Auswertung und leiten Handlungsalternativen für sich selber, aber auch für die Gestaltung der Lernsituation ab. Auf Grundlage der Reflexionen der Lernenden kann die Lehrperson dann in einen zielgerichteten Austausch über anvisierte Lernergebnisse, subjektiv wahrgenommene Lernerfolge und Hürden sowie die Gestaltung der Lehrveranstaltung mit den Lernenden treten. Daraus können individuelle Förderangebote für die Lernenden abgeleitet und die Lehrveranstaltung weiterentwickelt werden.
 
 **Rahmen der Szenarioentwicklung**
 
@@ -56,3 +56,9 @@ Im ersten Bachelor-Semester führte das Einsatzszenario zu folgenden Ergebnissen
 Die einzelnen Punkte wurden von den 2er Teams vorgestellt und um persönliche Erfahrungen ergänzt. Andere Lerner konnten sich dem anschließen und es entstand eine konstruktive Diskussion.
 
 ## 6. Reflexion: Herausforderungen und Entwicklungspotenziale bzw. Erweiterungsmöglichkeiten
+Die erfolgreiche Durchführung des Szenarios ist sicherlich von der Lerngruppe, der Lernkultur und des Grades an Reflexivität abhängig: Eine konstruktive und wertschätzende Kultur innerhalb der Lerngruppe und im Zusammenspiel mit den Lehrenden bilden die Grundlage. 
+
+**Ideen**
+
+* Üben des konstruktiven Austausches zu Stärken und Entwicklungsmöglichkeiten in Reflexions-Teams: Evtl. kann es erforderlich sein, einen geschützten Raum zur Reflexion über den eigenen Lernprozess, die Erfolge und Herausforderungen zu bieten. Dafür könnten evtl. die Reflexions-Teams schon mit Beginn der Lehrveranstaltung zusammenarbeit, sich gegenseitig fremdeinschätzen und dadurch den konstruktiven Umgang miteinander üben. 
+* Besprechung der Ergebnisse im Rahmen von Lernstandsgesprächen: Anstelle der Besprechung der Ergebnisse im Plenum, könnten die Ergebnisse der Reflexions-Teams dann im Rahmen von Lernstandsgesprächen einzeln mit den Lehrpersonen besprochen werden.
