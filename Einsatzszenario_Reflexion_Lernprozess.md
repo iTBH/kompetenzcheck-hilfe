@@ -18,31 +18,41 @@ Das Szenario eignet sich im Rahmen der Reflexion am Ende einer Lernsituation. Im
 **Erste Selbsteinschätzung**: Der Kompetenz-Check wird in den Lehrveranstaltungen in der ersten Sitzung vorgestellt, die Lernenden registrieren sich und führen die erste Selbsteinschätzung in der Sitzung durch. Sie werden gebeten ihre Selbsteinschätzungen zu kommentieren, um später nachvollziehen zu können, warum sie sich zu Beginn so eingeschätzt haben (Bezug zu Vorerfahrungen).
 Erfahrungen haben gezeigt, dass vor der ersten Selbsteinschätzung eine Einführung in die Lehrveranstaltung (Lernergebnisse, Inhalte, Ablauf, Prüfung) wichtig für die Lernenden ist, um das Ziel des Kompetenz-Checks nachvollziehen und die formulierten Kompetenzbeschreibungen verstehen zu können. Die Kompetenzbeschreibungen im Check sind mit den Lernergebnissen der Lehrveranstaltung identisch.
 
-**Zweite Selbsteinschätzung**: Die zweite Selb
 
-## 4. Aufgabenstellung und Sequenzierung
+**Zweite Selbsteinschätzung**: Die zweite Selbsteinschätzungen führen die Lernenden nach der vorletzten Sitzung zuhause durch. Auch hier sind sie angehalten, ihre Einschätzungen zu kommentieren. Für die letzte Sitzung bringen die Lernenden ihre Check-Auswertungen digital oder ausgedruckt mit.
 
-Arbeitsauftrag:
+## 4. Aufgabenstellungen
+
+
+**4.1 Arbeitsauftrag Reflexions-Teams**:
+
 Findet Euch in 2er Gruppen zusammen
+
 1. Schaut euch gemeinsam eure KC-Auswertung an und identifiziert Auffälligkeiten, z. B. eine sehr
 positive Veränderung bzw. starker Kompetenzzuwachs oder keine Veränderung bzw. sehr geringer
 Kompetenzzuwachs
 2. Fokus Entwicklungsbedarfe: Diskutiert, woran es liegen könnte, dass kein bzw. wenig Kompetenzzuwachs
 erfolgt ist
-3. Stellt die von euch identifizierten Auffälligkeiten und Begründungen im Plenum vor
-Haltet eure Diskussionsergebnisse stichpunktartig fest
+3. Haltet die von euch identifizierten Auffälligkeiten und Begründungen stichpunktartig fest
 
-Arbeitsauftrag:
+
+**4.2 Arbeitsauftrag Reflexion des Lernprozesses**:
+
 Schaut jetzt zurück auf euren Lernprozess im ersten Semester und überlegt
-• Was ihr gebraucht hättet, um einen größeren Lern- oder Kompetenzzuwachs zu erreichen
+
+1. Was ihr gebraucht hättet, um einen größeren Lern- oder Kompetenzzuwachs zu erreichen
 (z. B. spezifische Inhalte)
-• Welche Rahmenbedingungen wären hilfreich gewesen (z. B. mehr Zeit, Tutorium)
-• Was hättet ihr tun können, um euren Lernprozess/Kompetenzzuwachs erfolgreicher zu
+2. Welche Rahmenbedingungen wären hilfreich gewesen (z. B. mehr Zeit, Tutorium)
+3. Was hättet ihr tun können, um euren Lernprozess/Kompetenzzuwachs erfolgreicher zu
 gestalten? (z. B. nachfragen)
-Wir sammeln die Aspekte an der MKW
+
+Schreibt eure Überlegungen auf Metaplankarten und ordnet sie an der Metaplanwand an, clustert falls möglich. Wir besprechen die Punkte anschließend im Plenum.
 
 ## 5. Ergebnisse
+Im ersten Bachelor-Semester führte das Einsatzszenario zu folgenden Ergebnissen:
 
 ![Ergebnisse im ersten Bachelor-Semester](media/IMAG1407.jpg)
 
-## 6. Herausforderungen und Entwicklungspotenziale bzw. Erweiterungsmöglichkeiten
+Die einzelnen Punkte wurden von den 2er Teams vorgestellt und um persönliche Erfahrungen ergänzt. Andere Lerner konnten sich dem anschließen und es entstand eine konstruktive Diskussion.
+
+## 6. Reflexion: Herausforderungen und Entwicklungspotenziale bzw. Erweiterungsmöglichkeiten
