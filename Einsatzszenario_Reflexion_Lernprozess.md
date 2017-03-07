@@ -60,5 +60,5 @@ Die erfolgreiche Durchführung des Szenarios ist sicherlich von der Lerngruppe, 
 
 **Ideen**
 
-* Üben des konstruktiven Austausches zu Stärken und Entwicklungsmöglichkeiten in Reflexions-Teams: Evtl. kann es erforderlich sein, einen geschützten Raum zur Reflexion über den eigenen Lernprozess, die Erfolge und Herausforderungen zu bieten. Dafür könnten evtl. die Reflexions-Teams schon mit Beginn der Lehrveranstaltung zusammenarbeit, sich gegenseitig fremdeinschätzen und dadurch den konstruktiven Umgang miteinander üben. 
+* Üben des konstruktiven Austausches zu Stärken und Entwicklungsmöglichkeiten in Reflexions-Teams: Evtl. kann es erforderlich sein, einen geschützten Raum zur Reflexion über den eigenen Lernprozess, die Erfolge und Herausforderungen zu bieten. Dafür könnten die Reflexions-Teams schon mit Beginn der Lehrveranstaltung zusammenarbeiten, sich gegenseitig fremdeinschätzen und dadurch den konstruktiven Umgang miteinander üben. 
 * Besprechung der Ergebnisse im Rahmen von Lernstandsgesprächen: Anstelle der Besprechung der Ergebnisse im Plenum, könnten die Ergebnisse der Reflexions-Teams dann im Rahmen von Lernstandsgesprächen einzeln mit den Lehrpersonen besprochen werden.
