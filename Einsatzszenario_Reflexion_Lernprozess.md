@@ -12,8 +12,13 @@ Das Szenario wurde im Wintersemester 2016/17 im ersten Bachelorsemester in den b
 Das Einsatzszenario wurde zunächst mit Studierenden der beruflichen Fachrichtungen Elektrotechnik-Informationstechnik, Medientechnik und Medientechnik im ersten Bachelor-Semester und ersten Master-Semester erprobt. Ein Transfer auf den berufsschulischen Kontext erscheint möglich.
 
 ## 2. Verwendungszweck
+Das Szenario eignet sich im Rahmen der Reflexion am Ende einer Lernsituation. Im Gegensatz zu "üblichen" Reflexionen oder Evaluationen, die einzig die Lehrveranstaltung in den Blick nehmen, ermöglicht das Szenario eine Verknüpfung des individuellen Lernprozesses mit anvisierten Lernergebnissen und der Gestaltung der Lernsituation. Als Ergebnis liegen sowohl für die Lerner, als auch für die Lehrenden Handlungsalternativen und Ideen vor.
 
-## 3. Vorbereitung
+## 3. Vorbereitung: Durchführung des Kompetenz-Checks in der Lehrveranstaltung
+**Erste Selbsteinschätzung**: Der Kompetenz-Check wird in den Lehrveranstaltungen in der ersten Sitzung vorgestellt, die Lernenden registrieren sich und führen die erste Selbsteinschätzung in der Sitzung durch. Sie werden gebeten ihre Selbsteinschätzungen zu kommentieren, um später nachvollziehen zu können, warum sie sich zu Beginn so eingeschätzt haben (Bezug zu Vorerfahrungen).
+Erfahrungen haben gezeigt, dass vor der ersten Selbsteinschätzung eine Einführung in die Lehrveranstaltung (Lernergebnisse, Inhalte, Ablauf, Prüfung) wichtig für die Lernenden ist, um das Ziel des Kompetenz-Checks nachvollziehen und die formulierten Kompetenzbeschreibungen verstehen zu können. Die Kompetenzbeschreibungen im Check sind mit den Lernergebnissen der Lehrveranstaltung identisch.
+
+**Zweite Selbsteinschätzung**: Die zweite Selb
 
 ## 4. Aufgabenstellung und Sequenzierung
 
