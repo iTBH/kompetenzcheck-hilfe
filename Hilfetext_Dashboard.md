@@ -7,19 +7,19 @@ Auf dieser Seite erstellen und verwalten Sie Ihre Checks.
 
 ## Was ist das Dashboard?
 
-Das Dashboard, auch **Checks im Überblick** genannt, ist das Herzstück des Kompetenz-Checks. Hier führen Sie alle zentralen Aktionen durch: **Importieren eines Checks**, **Erstellung eines neuen Checks**, **Durchführung eines Checks mit den Aktionsmöglichkeiten**, **Verwaltung und Bearbeitung** von laufenden und bereits abgeschlossenewn Checks. Verschiedene **Filtermöglichkeiten** (nach Partnern und Schlagwörtern) unterstützen Sie in der Organisation und Anzeige Ihrer Checks auf dem Dashboard.
+Das Dashboard, auch **Checks im Überblick** genannt, ist das Herzstück des Kompetenz-Checks. Hier führen Sie alle zentralen Aktionen durch: **Importieren eines Checks**, **Erstellung eines neuen Checks**, **Durchführung eines Checks mit den Aktionsmöglichkeiten**, **Verwaltung und Bearbeitung** von laufenden und bereits abgeschlossenen Checks. Verschiedene **Filtermöglichkeiten** (nach Partnern und Schlagwörtern) unterstützen Sie in der Organisation und Anzeige Ihrer Checks auf dem Dashboard.
 
 Das Dashboard gliedert sich in drei Bereiche: 
 
 * Oben rechts: Hier können Sie einen **neuen Check erstellen** oder einen **Check importieren**.
-* Filterleiste: Hier können Sie Ihre die Anzeige der Checks auf dem Dashboard anpassen, indem Sie **Nach Schlagworten suchen** oder **nach Partnern oder Partnerinnen suchen**. Mit Anklicken der Checkbox **auch abgeschlossene Checks anzeigen** werden laufende und abgeschlossene Checks angezeigt.
+* Filterleiste: Hier können Sie die Anzeige der Checks auf dem Dashboard anpassen, indem Sie **nach Schlagworten suchen** oder **nach Partnern oder Partnerinnen suchen**. Mit Anklicken der Checkbox **auch abgeschlossene Checks anzeigen** werden laufende und abgeschlossene Checks angezeigt.
 * **Checks im Detail**: Hier sehen Sie alle laufenden und falls gewünscht (Checkbox) auch abgeschlossenen Checks.
 * **Aktionsmöglichkeiten**: Diese zeigen pro Check an, was Sie nun tun können.
 
 
 ## Was sind Checks im Detail?
-Sobald Sie einen neuen Check erstellt haben, erscheint dieser auf dem Dashboard unter **Checks im Detail**. Auf der rechten Seite werden Ihnen zu jedem Check und je nach Status der Check-Durchführung unterschiedliche **Aktionsmöglichkeiten** angeboten. 
-So erkennen Sie immer auf einen Blick den aktuellen Status des Checks bzw. welche Aktionen Sie oder weitere Check-Partnern bzw. Check-Partnerinnen des Checks bereits durchgeführt haben.
+Sobald Sie einen neuen Check erstellt haben erscheint dieser auf dem Dashboard unter **Checks im Detail**. Auf der rechten Seite werden Ihnen zu jedem Check und je nach Status der Check-Durchführung unterschiedliche **Aktionsmöglichkeiten** angeboten. 
+So erkennen Sie immer auf einen Blick den aktuellen Status des Checks bzw. welche Aktionen Sie oder weitere Check-Partner bzw. Check-Partnerinnen des Checks bereits durchgeführt haben.
 
 ![Funktionen der Detailansicht eines Checks](media/dashboard-check.png)
 
