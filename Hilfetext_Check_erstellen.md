@@ -47,19 +47,19 @@ Auftragsbeschreibung und Verwendungszweck beschrieben:
 Der Titel sollte kurz und für weitere Personen nachvollziehbar sein.
 
 **Der Verwendungszweck:** Ein Check kann mit unterschiedlichen Zielsetzungen durchgeführt werden, z. B. zur Selbstevaluation, zur Prüfungsvorbereitung, als 
-Assesment, um Feedback einzuholen etc. Formulieren Sie den Verwendungszweck treffend. Es sollte deutlich werden, mit welcher Zielsetzung der Kompetenzcheck 
+Assessment, um Feedback einzuholen etc. Formulieren Sie den Verwendungszweck treffend. Es sollte deutlich werden mit welcher Zielsetzung der Kompetenzcheck 
 durchgeführt wird.
 
 **Die Auftragsbeschreibung:** Hier wird die Situation beschrieben, in der gehandelt werden soll, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages. 
-Eine detaillierte Auftragsbeschreibung unterstützt alle Check-Partner und Check-Partnerinnen bei der Einschätzung von Stärkung und Bedarfen während der 
-Auftragsbearbeitung. Es muss deutlich werden, in welchem Zusammenhang die Kompetenzbeschreibungen geckeckt werden sollen.
+Eine detaillierte Auftragsbeschreibung unterstützt alle Check-Partner und Check-Partnerinnen bei der Einschätzung von Stärken und Bedarfen während der 
+Auftragsbearbeitung. Es muss deutlich werden in welchem Zusammenhang die Kompetenzbeschreibungen geckeckt werden sollen.
 
 Eine Auftragsbeschreibung kann folgende Aspekte umfassen:
 * Welche Rahmenbedingungen sind gegeben bzw. müssen beachtet werden?
 * Mit wem wird zusammengearbeitet? 
 * Welche Regeln, Normen, Vorschriften müssen beachtet werden? 
 * Welche Werkzeuge, Instrumente, Methoden oder Materialien sollen eingesetzt werden?
-* Gibt es Qualitätsansprüche an das Arbeitsprodukt/-dienstleistung bzw. das Forschungsprodukt? 
+* Gibt es Qualitätsansprüche an das Arbeitsprodukt/ die Dienstleistung bzw. das Forschungsprodukt? 
 
 **Schlagwörter:** Fügen Sie dem Check Schlagwörter hinzu, um Ihre Checks später sortieren und filtern zu können. Unter dem **Menüpunkt Schlagwörter** 
 können Sie Ihre Schlagwörter verwalten, bearbeiten und neue hinzufügen.
@@ -86,8 +86,8 @@ die Fertigkeiten verstanden, die zur Bearbeitung des Auftrages benötigt werden.
 Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Arbeits- oder Forschungsauftrag haben und möglichst genau die auszuführende, 
 bzw. zu beobachtende Handlung beschreiben. Eine Kompetenzbeschreibung muss immer in der 3. Person singular formuliert werden.  
 
-Die Kompetenzbeschreibung sollt konkret und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren)
-formuliert werden, das heißt sie sollte „beobachtbar“ sein. Tipps für beobachtbare Verben für Fach- und Personale Kompetenz: 
+Die Kompetenzbeschreibung soll konkret und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren)
+formuliert werden, das heißt sie soll „beobachtbar“ sein. Tipps für beobachtbare Verben für Fach- und Personale Kompetenz: 
 <a href="media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Verben für die Kompetenzbeschreibung: Beispiele</a>
 
 **Formulierung einer Kompetenzbeschreibung:**
