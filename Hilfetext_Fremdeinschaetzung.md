@@ -7,7 +7,7 @@ Sie wurden zu einer Fremdeinschätzung im Kompetenz-Check eingeladen. Hier könn
 ![Übersicht der Funktionen zur Durchführung einer Fremdeinschätzung](media/Fremdeinschaetzung.jpg)
 
 ## Was ist eine Fremdeinschätzung?
-Sie wurden dazu eingeladen, eine Fremdeinschätzung abzugeben. Dies bedeutet, dass Sie einschätzen sollen, wie weit die Person, die Sie zum Kompetenz-Check eingeladen hat, die beschriebenen Kompetenzen bereits entwickelt hat. Sie können Ihre Fremdeinschätzung entweder auf Grundlage Ihrer Wahrnehmung der Person, oder auf Basis Ihrer Beobachtungen während der Auftragsbearbeitung durchführen. Ihre Fremdeinschätzung ist dann aussagekräftig, wenn Sie die Person bei der Auftragsdurchführung begleiten und regelmäßig Feedback zu durchgeführten Handlungen geben. 
+Sie wurden dazu eingeladen eine Fremdeinschätzung abzugeben. Dies bedeutet, dass Sie einschätzen sollen wie weit die Person, die Sie zum Kompetenz-Check eingeladen hat, die beschriebenen Kompetenzen bereits entwickelt hat. Sie können Ihre Fremdeinschätzung entweder auf Grundlage Ihrer Wahrnehmung der Person oder auf Basis Ihrer Beobachtungen während der Auftragsbearbeitung durchführen. Ihre Fremdeinschätzung ist dann aussagekräftig, wenn Sie die Person bei der Auftragsdurchführung begleiten und regelmäßig Feedback zu durchgeführten Handlungen geben. 
 
 Sie können Ihre Fremdeinschätzung immer wieder bearbeiten und an Ihre Beobachtungen anpassen. **Tipp: Speichern Sie sich den Link als Lesezeichen!**
 
@@ -26,8 +26,8 @@ Zur Fremdeinschätzung des Könnens einer weiteren Person wählen Sie pro Kompet
 
 * **Der Lerner/die Lernerin kann das noch nicht und braucht umfassende Unterstützung**: Der Lerner/die Lernerin habt bisher noch keine Erfahrungen gesammelt und führt die Handlungen zum ersten Mal durch, daher benötigt er bzw. sie Hilfestellung oder Anleitung durch eine weitere Person
 * **Der Lerner/die Lernerin kann das erst ein bischen und braucht noch relativ viel Unterstützung**: Der Lerner/die Lernerin verfügt bereits über erste Erfahrungen, fühlt sich aber sicherer, wenn eine weitere Person ihn bzw. sie unterstützt z.B. durch Anleitung oder Beantwortung von Fragen
-* **Der Lerner/die Lernerin kann das schon relativ gut und braucht nurnoch wenig Unterstützung**: Der Lerner/die Lernerin hat schon viele Erfahrungen gesammelt, kann die Handlungen selbstständig durchführen und möchte evtl. nur einzelne Rückfragen stellen.
-* **Der Lerner/die Lernerin kann das sehr gut und braucht keine weitere Unterstützung**: Der Lerner/die Lernerin hat schon so viele Erfahrungen gesammelt, dass er bzw. sie die Handlungen selbständig und ohne weitere Hilfestellung durchführen kann.
+* **Der Lerner/die Lernerin kann das schon relativ gut und braucht nur noch wenig Unterstützung**: Der Lerner/die Lernerin hat schon viele Erfahrungen gesammelt, kann die Handlungen selbstständig durchführen und möchte evtl. nur einzelne Rückfragen stellen.
+* **Der Lerner/die Lernerin kann das sehr gut und braucht keine weitere Unterstützung**: Der Lerner/die Lernerin hat schon so viele Erfahrungen gesammelt, dass er bzw. sie die Handlungen selbstständig und ohne weitere Hilfestellung durchführen kann.
 
 Indem Sie eine Niveausstufe (Kreissymbol) anklicken halten Sie Ihrer Wahrnehmung nach fest, wie gut die von Ihnen beobachtete bzw. einzuschätzende Person die beschriebene Kompetenz zum aktuellen Zeitpunkt beherrscht. 
 
