@@ -26,7 +26,7 @@ Erfahrungen haben gezeigt, dass vor der ersten Selbsteinschätzung eine Einführ
 
 **4.1 Arbeitsauftrag Reflexions-Teams**:
 
-Findet Euch in 2er Gruppen zusammen
+Findet euch in 2er Gruppen zusammen
 
 1. Schaut euch gemeinsam eure KC-Auswertung an und identifiziert Auffälligkeiten, z. B. eine sehr
 positive Veränderung bzw. starker Kompetenzzuwachs oder keine Veränderung bzw. sehr geringer
