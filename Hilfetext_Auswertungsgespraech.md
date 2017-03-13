@@ -8,7 +8,7 @@ Arbeitsauftrag.
 
 ## Was ist die Check-Auswertung?
 Diese Seite zeigt die Ergebnisse des Checks aus zwei Perspektiven:
-* **Die Prozessansicht des Checks** visualisiert die Summe aller Selbst- und Fremdeinschätzungen pro Checkphase und Kompetenzdimension (Fach- und Personale Kompetenz). 
+* **Die Prozessansicht des Checks** visualisiert die Summe aller Selbst- und Fremdeinschätzungen pro Check-Phase und Kompetenzdimension (Fach- und Personale Kompetenz). 
 Hier erkennen Sie bereits auf einen Blick erste Unterschiede und Gemeinsamkeiten der Selbst- sowie Fremdeinschätzungen.
 * **Die Detaillansicht eines Checks** zeigt die einzelnen Selbst- und Fremdeinschätzungen pro Check-Phase mit Kommentaren an. 
 
@@ -18,7 +18,7 @@ Nutzen Sie sowohl die Prozessansicht, als auch die Detailansicht für das **Ausw
 
 ## Wie und mit wem führe ich das Auswertungsgespräch?
 
-Bitten Sie die Person(en), die Sie fremdeingeschätzt hat/haben, zu einen Gespräch, um gemeinsam die Ergebnisse des Kompetenz-Checks zu besprechen. 
+Bitten Sie die Person(en), die Sie fremdeingeschätzt hat/haben, zu einem Gespräch, um gemeinsam die Ergebnisse des Kompetenz-Checks zu besprechen. 
 Im Auswertungsgespräch besprechen Sie zunächst auf Grundlage der Prozessansicht und der Detailansicht mit Ihren Check-Partnern und Check-Partnerinnen (z. B. Fremdeinschätzer) den durchgeführten Arbeitsauftrag, aufgetretene Herausforderungen und Erfolge.
 Dieser offene und ehrliche Dialog zielt darauf ab, Entwicklungspotenziale zu identifizieren und den Kompetenzentwicklungsprozess des Selbsteinschätzers bzw. der Selbsteinschätzerin gemeinsam zu gestalten.
 Um dieses Ziel zu erreichen, tauschen Sie sich mit den Check-Partnern, oder dem Check-Partner bzw. der Check-Partnerin über Ihre Wahrnehmungen und Beobachtungen während der 
