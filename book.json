@@ -1,11 +1,16 @@
 {
   "plugins":  [
-        "image-captions"
+        "image-captions","downloadpdf"
   ],
   "pluginsConfig": {
     "image-captions": {
         "align": "left",
          "caption": "Abbildung: _CAPTION_"
+    },
+    "downloadpdf": {
+      "base": "https://collaborating.tuhh.de/itbh/kompetenzcheck-gitbook/raw/master/media/book.pdf",
+      "label": "PDF laden",
+      "multilingual": false
     }
   },
   "language": "de",
