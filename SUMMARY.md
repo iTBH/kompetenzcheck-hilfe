@@ -1,5 +1,6 @@
 # Summary
 
+- [Einführung](README.md)
 - [Dashboard](Hilfetext_Dashboard.md)
 
 - [Check erstellen](Hilfetext_Check_erstellen.md)
