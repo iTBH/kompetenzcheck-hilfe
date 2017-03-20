@@ -22,6 +22,7 @@ build:
         name: "${CI_BUILD_NAME}_${CI_BUILD_REF_NAME}"
         paths:
             - _book
+            - media/book.pdf
             
 start_review:
     stage: review
