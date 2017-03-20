@@ -8,7 +8,7 @@
          "caption": "Abbildung: _CAPTION_"
     },
     "downloadpdf": {
-      "base": "http://fizban.rz.tu-harburg.de:47081/production/book.pdf?",
+      "base": "./book_pdf/book.pdf?",
       "label": "PDF laden",
       "multilingual": false
     }

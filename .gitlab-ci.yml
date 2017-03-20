@@ -13,24 +13,30 @@ build:
     tags:
         - development
     script:
+        - pwd
         - gitbook install
         - gitbook build
-        # Quick and dirty hack: The creation of the PDF document does not always work. This seems to be a bug.         
-        - mkdir -p ./media; until gitbook pdf ./ ./media/book.pdf; do printf "$s\n" "failure, next try"; done
+        # Quick and dirty hack: The creation of the PDF document does not always work. This seems to be a bug.
+        - mkdir -p book_pdf; until gitbook pdf ./ ./book_pdf/book.pdf; do printf "$s\n" "failure, next try …"; done
 
     artifacts:
         name: "${CI_BUILD_NAME}_${CI_BUILD_REF_NAME}"
         paths:
+            # Was hier nicht gelistet ist, landet auch nicht in der `review`-Phase
             - _book
+            - book_pdf
+
             
 start_review:
     stage: review
     script:
-        - sshpass -p "$SSH_PASSWD" ssh -p "$SSH_PORT" $SSH_USER@fizban.rz.tu-harburg.de "mkdir -p /usr/share/nginx/html/review/$CI_BUILD_REF_NAME"
-        - sshpass -p "$SSH_PASSWD" scp -P "$SSH_PORT" -r _book/* $SSH_USER@fizban.rz.tu-harburg.de:/usr/share/nginx/html/review/$CI_BUILD_REF_NAME
+        - sshpass -p "$SSH_PASSWD" ssh -p "$SSH_PORT" $SSH_USER@$HOST_NAME "mkdir -p /usr/share/nginx/html/review/$CI_BUILD_REF_NAME"
+        - sshpass -p "$SSH_PASSWD" scp -P "$SSH_PORT" -r _book/* $SSH_USER@$HOST_NAME:/usr/share/nginx/html/review/$CI_BUILD_REF_NAME
+        - sshpass -p "$SSH_PASSWD" scp -P "$SSH_PORT" -r book_pdf $SSH_USER@$HOST_NAME:/usr/share/nginx/html/review/${CI_BUILD_REF_NAME}
     environment:
         name: review/$CI_BUILD_REF_NAME
-        url: http://fizban.rz.tu-harburg.de$COLON$HTTP_PORT/review/$CI_BUILD_REF_NAME/
+        url: http://$HOST_NAME$COLON$HTTP_PORT/review/$CI_BUILD_REF_NAME/
+        #url: https://$PROXY_HOST_NAME/reviews/$CI_PROJECT_PATH/$CI_BUILD_REF_NAME/
         on_stop: stop_review
     only:
         - branches
@@ -44,7 +50,7 @@ stop_review:
     variables:
         GIT_STRATEGY: none
     script:
-        - sshpass -p "$SSH_PASSWD" ssh -p "$SSH_PORT" $SSH_USER@fizban.rz.tu-harburg.de "rm -rf /usr/share/nginx/html/review/$CI_BUILD_REF_NAME"
+        - sshpass -p "$SSH_PASSWD" ssh -p "$SSH_PORT" $SSH_USER@$HOST_NAME "rm -rf /usr/share/nginx/html/review/$CI_BUILD_REF_NAME"
     when: manual
     environment:
         name: review/$CI_BUILD_REF_NAME
@@ -63,9 +69,10 @@ deploy:
     tags:
         - production
     script:
-        - sshpass -p "$SSH_PASSWD" ssh -p "$SSH_PORT" $SSH_USER@fizban.rz.tu-harburg.de "mkdir -p /usr/share/nginx/html/production"
-        - sshpass -p "$SSH_PASSWD" scp -P "$SSH_PORT" -r _book/* $SSH_USER@fizban.rz.tu-harburg.de:/usr/share/nginx/html/production
+        - sshpass -p "$SSH_PASSWD" ssh -p "$SSH_PORT" $SSH_USER@$HOST_NAME "mkdir -p /usr/share/nginx/html/production"
+        - sshpass -p "$SSH_PASSWD" scp -P "$SSH_PORT" -r _book/* $SSH_USER@$HOST_NAME:/usr/share/nginx/html/production
+        - sshpass -p "$SSH_PASSWD" scp -P "$SSH_PORT" -r book_pdf $SSH_USER@$HOST_NAME:/usr/share/nginx/html/production
     environment:
         name: production
-        url: http://fizban.rz.tu-harburg.de$COLON$HTTP_PORT/production/
-    #when: manual
+        #url: http://$HOST_NAME$COLON$HTTP_PORT/production/
+        url: https://$PROXY_HOST_NAME/$CI_PROJECT_PATH/
