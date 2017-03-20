@@ -8,7 +8,7 @@
          "caption": "Abbildung: _CAPTION_"
     },
     "downloadpdf": {
-      "base": "media/book.pdf?",
+      "base": "./media/book.pdf?",
       "label": "PDF laden",
       "multilingual": false
     }
