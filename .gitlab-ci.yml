@@ -20,6 +20,7 @@ build:
 
     artifacts:
         name: "${CI_BUILD_NAME}_${CI_BUILD_REF_NAME}"
+        # Was hier nicht gelistet ist, landet auch nicht in der `review`-Phase
         paths:
             - _book
             - media/book.pdf
