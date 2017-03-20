@@ -9,7 +9,7 @@
     }
   },
   "language": "de",
-  "gitbook": ">=3.0.0"
+  "gitbook": "3.2.2"
 
 
 }
