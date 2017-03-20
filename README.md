@@ -4,4 +4,4 @@ Willkommen im Kompetenz-Check der Kompetenzwerkstatt - Mein Beruf. Der Kompetenz
 
 **Hier sehen Sie den idealtypischen Ablauf eines Kompetenz-Checks, oder einfach kurz Checks:**
 
-![Übersicht der Rollen und Schritte im Kompetenz-Check](media/AblaufKC.png)
+![Übersicht der Rollen und Schritte im Kompetenz-Check](media/KCAblauf.jpg)
