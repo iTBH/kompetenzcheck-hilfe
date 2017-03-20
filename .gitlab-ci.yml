@@ -15,6 +15,8 @@ build:
     script:
         - gitbook install
         - gitbook build
+        # Quick and dirty hack: The creation of the PDF document does not always work. This seems to be a bug.         
+        - mkdir -p ./media; until gitbook pdf ./ ./media/book.pdf; do printf "$s\n" "failure, next try"; done
 
     artifacts:
         name: "${CI_BUILD_NAME}_${CI_BUILD_REF_NAME}"
