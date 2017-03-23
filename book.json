@@ -1,6 +1,6 @@
 {
   "plugins":  [
-        "image-captions","downloadpdf"
+        "image-captions","downloadpdf","-search"
   ],
   "pluginsConfig": {
     "image-captions": {
