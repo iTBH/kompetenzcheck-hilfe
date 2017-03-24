@@ -1,7 +1,5 @@
-### 2. Schritt: Kompetenzbeschreibungen hinzufügen
-Im nächsten Schritt fügen Sie Ihrem Check Kompetenzbeschreibungen hinzu, indem Sie den **Plus-Button** in einer Check-Phase anklicken:
+# Kompetenzbeschreibungen hinzufügen
 
-![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen hinzu](media/AP_Phasen_markiert.jpg)
 
 Sie müssen nicht allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
 
