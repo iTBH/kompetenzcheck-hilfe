@@ -14,7 +14,11 @@
     }
   },
   "language": "de",
-  "gitbook": "3.2.2"
+  "gitbook": "3.2.2",
+  "pdf": {
+    "fontSize": 13,
+    "fontFamily": "Arial"
+  }
 
 
 }
