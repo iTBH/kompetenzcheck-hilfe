@@ -30,3 +30,4 @@
 
 ## Weiterführende Informationen
 - [Weiterführende Informationen](Informationen.md)
+- [Impressum](Impressum.md)
