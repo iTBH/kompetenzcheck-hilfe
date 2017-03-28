@@ -48,3 +48,5 @@ im Verlauf der Check-Durchführung verändert haben, oder ob es Unterschiede zwi
 ## Wer sieht meine Selbsteinschätzungen?
 Ihre Selbsteinschätzungen gehören Ihnen! Keine weitere Person kann diese einsehen. Bei der Auswertung des Checks bestimmen Sie über die Zusammenstellung der Daten für das Auswertungsgespräch.
 
+- - - 
+Nicht die richtige Hilfe? Hier finden Sie weitere Informationen zur Selbsteinschätzung: [Die Selbsteinschätzung](Hilfetext_Selbsteinschaetzung.md)
