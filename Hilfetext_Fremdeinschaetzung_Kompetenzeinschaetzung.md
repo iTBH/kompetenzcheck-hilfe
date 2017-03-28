@@ -29,4 +29,4 @@ kann beginnen.
 * **Zum Auswertungsgespräch auffordern**: Fordern Sie die Person, welche Sie zur Fremdeinschätzung eingeladen hat auf, den Check abzuschließen und gemeinsam mit Ihnen im Auswertungsgespräch die Selbst- und Fremdeinschätzungen zu besprechen.
 
 - - - 
-Nicht die richtige Hilfe? Hier finden Sie weitere Informationen zur Fremdeinschätzung: [Die Fremdeinschätzung](Hilfetext_Fremdeinschätzung.md)
+Nicht die richtige Hilfe? Hier finden Sie weitere Informationen zur Fremdeinschätzung: [Die Fremdeinschätzung](Hilfetext_Fremdeinschaetzung.md)
