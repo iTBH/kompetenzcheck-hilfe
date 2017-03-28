@@ -46,4 +46,4 @@ Rechts neben dem Check werden Ihnen nun weitere **Aktionsmöglichkeiten** angebo
 * Den Check einer weiteren Person zuweisen: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Check zuweisen**.
 
 - - - 
-Nicht die richtige Hilfe? Hier finden Sie weitere Informationen zum Erstellen eines neuen Checks: [Check anlegen](Hilfetext_Check_erstellen.md)
+Nicht die richtige Hilfe? Hier finden Sie weitere Informationen zum Erstellen eines neuen Checks: [Check erstellen](Hilfetext_Check_erstellen.md)
