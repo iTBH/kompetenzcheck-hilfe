@@ -1,4 +1,4 @@
-# Check anlegen
+# Check erstellen
 - - -
 Auf dieser Seite erstellen Sie einen neuen Check.
 
