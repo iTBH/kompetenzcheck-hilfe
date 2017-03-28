@@ -45,4 +45,5 @@ Rechts neben dem Check werden Ihnen nun weitere **Aktionsmöglichkeiten** angebo
 * Eine Selbsteinschätzung durchführen: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Selbsteinschätzung durchführen**.
 * Den Check einer weiteren Person zuweisen: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Check zuweisen**.
 
-
+- - - 
+Nicht die richtige Hilfe? Hier finden Sie weitere Informationen zum Erstellen eines Checks: [Check erstellen](Hilfetext_Check_erstellen.md)
