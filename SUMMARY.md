@@ -14,3 +14,6 @@
 - [Fremdeinschätzung: Kompetenz einschätzen](Hilfetext_Fremdeinschaetzung_Kompetenzeinschaetzung.md)
 - [Auswertung](Hilfetext_Auswertungsgespraech.md)
 - [Einsatzszenario](Einsatzszenario_Reflexion_Lernprozess.md)
+- Weiterführende Informationen
+- [Weiterführende Informationen]
+- [Weiterführende Informationen](Informationen.md)
