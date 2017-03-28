@@ -30,4 +30,5 @@ Folgende Aktionsmöglichkeiten stehen Ihnen insgesamt zur Verfügung:
 * **Check-Auswertung betrachten**: Nutzen Sie die Visualisierung der Check-Ergebnisse als Grundlage Ihres Auswertungsgesprächs.
 * **Auswertungsgespräch geführt: Check beenden**: Löschen Sie alle personenbezogenen Daten des Checks. Der Check an sich (Arbeitsauftrag und Kompetenzbeschreibungen) bleibt bestehen.
 
-
+- - - 
+Nicht die richtige Hilfe? Hier finden Sie weitere Informationen zum Dashboard: [Das Dashboard](Hilfetext_Dashboard.md)
