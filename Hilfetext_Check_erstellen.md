@@ -88,7 +88,7 @@ bzw. zu beobachtende Handlung beschreiben. Eine Kompetenzbeschreibung muss immer
 
 Die Kompetenzbeschreibung soll konkret und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren)
 formuliert werden, das heißt sie soll „beobachtbar“ sein. Tipps für beobachtbare Verben für Fach- und Personale Kompetenz: 
-<a href="https://collaborating.tuhh.de/itbh/kompetenzcheck-hilfe/raw/master/media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Verben für die Kompetenzbeschreibung: Beispiele</a>
+<a href="/media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Verben für die Kompetenzbeschreibung: Beispiele</a>
 
 **Formulierung einer Kompetenzbeschreibung:**
 
