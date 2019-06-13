@@ -5,7 +5,7 @@ Nachfolgend haben wir für Sie weiterführende Informationen zum Kompetenz-Check
 Weitere Informationen rund um den Kompetenz-Check finden Sie unter dem folgenden Link: http://www.kompetenzwerkstatt.net/tools/kompetenz-check
 
 ## Hilfe zur Installation und Nutzung des Kompetenz-Checks
-Für die Installation und Nutzung des Kompetenz-Checks steht Ihnen ein umfassendes GitBook mit Hinweisen zu vier verschiedenen Installationsszenarien zur Verfügung. Dieses finden Sie unter dem folgenden Link: https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-installationen/
+Für die Installation und Nutzung des Kompetenz-Checks werden wir Ihnen in Kürze weitere Informationen zur Verfügung stellen.
 
 ## Das Projekt Kompetenzwerkstatt - Mein Beruf
 Der Kompetenz-Check ist eines von mehreren Tools des Projekts Kompetenzwerkstatt - Mein Beruf. Die Kompetenzwerkstatt ist ein Konzept, welches das Bildungspersonal an allen Lernorten der beruflichen Bildung bei der Gestaltung und Umsetzung prozess- sowie kompetenzorientierter Lehr-Lernprozesse unter Einsatz digitaler Medien unterstützt. Weitere Informationen finden Sie auf der Internetseite der Kompetenzwerkstatt: http://www.kompetenzwerkstatt.net/.
