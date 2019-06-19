@@ -23,7 +23,9 @@ strukturiert, die sich an typischen Arbeits- oder Forschungsprozessen orientiere
 
 ### Kompetenzbeschreibungen
 Jeder Check-Phase können Sie ausgewählte Kompetenzbeschreibungen hinzufügen.
+
 Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
+
 Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
 der Selbstevaluation bestmöglich erfassen zu können.
 Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (Selbsteinschätzung) und zur Beobachtung des Könnens einer anderen Person (Fremdeinschätzung). 
