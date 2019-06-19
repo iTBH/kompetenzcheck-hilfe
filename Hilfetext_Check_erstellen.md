@@ -22,10 +22,11 @@ strukturiert, die sich an typischen Arbeits- oder Forschungsprozessen orientiere
 * **Der Abschluss:** In der Abschlussphase geht es darum, das erreichte Ergebnis mit der Ziel- und Fragestellung abzugleichen bzw. das erstellte Produkt dem Auftraggeber zu übergeben und den durchlaufenen Prozess zu reflektieren. 
 
 ### Kompetenzbeschreibungen
-Jeder Check-Phase können Sie ausgewählte Kompetenzbeschreibungen hinzugefügen: Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
-des Selbsteinschätzers bzw. der Selbsteinschätzerin bestmöglich erfassen zu können.
-Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (aus Sicht des Selbsteinschätzers bzw. 
-der Selbsteinschätzerin) und zur Beobachtung des Könnens einer anderen Person (aus Sicht des Fremdeinschätzers bzw. der Fremdeinschätzerin). 
+Jeder Check-Phase können Sie ausgewählte Kompetenzbeschreibungen hinzufügen.
+Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
+Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
+der Selbstevaluation bestmöglich erfassen zu können.
+Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (Selbsteinschätzung) und zur Beobachtung des Könnens einer anderen Person (Fremdeinschätzung). 
 
 Ein Check kann alleine, mit einer weiteren Person, oder auch mit einer Gruppe durchgeführt werden.
 Mit Abschluss aller gewünschten Selbst- und Fremdeinschätzungen können der Check beendet und die erfassten Daten ausgewertet werden. 
