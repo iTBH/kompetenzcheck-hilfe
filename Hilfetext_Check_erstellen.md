@@ -52,7 +52,7 @@ durchgeführt wird.
 
 **Die Auftragsbeschreibung:** Hier wird die Situation beschrieben, in der gehandelt werden soll, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages. 
 Eine detaillierte Auftragsbeschreibung unterstützt alle Check-Partner und Check-Partnerinnen bei der Einschätzung von Stärken und Bedarfen während der 
-Auftragsbearbeitung. Es muss deutlich werden in welchem Zusammenhang die Kompetenzbeschreibungen geckeckt werden sollen.
+Auftragsbearbeitung. Es muss deutlich werden in welchem Zusammenhang die Kompetenzbeschreibungen gecheckt werden sollen.
 
 Eine Auftragsbeschreibung kann folgende Aspekte umfassen:
 * Welche Rahmenbedingungen sind gegeben bzw. müssen beachtet werden?
