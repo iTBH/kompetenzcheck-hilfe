@@ -17,6 +17,40 @@ Das Dashboard gliedert sich in drei Bereiche:
 * **Aktionsmöglichkeiten**: Diese zeigen pro Check an, was Sie nun tun können.
 
 
+## Was ist ein Check?
+
+Ein Check stellt die Grundlage für einen Dialog über das Kompetenzvermögen einer Person, also des Selbsteinschätzers bzw. der Selbsteinschätzerin dar.
+
+![Übersicht der Funktionen zur Erstellung eines Checks](media/check-erstellen.png)
+
+### Arbeits- bzw. Forschungsauftrag
+Dabei bezieht sich ein Check immer auf eine **spezifische Handlungssituation**, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages, und beinhaltet die in der 
+jeweiligen Situation benötigten **Handlungskompetenzen**. Zusätzlich zur Beschreibung der Situation können einem Check Schlagwörter hinzugefügt werden.
+
+Die Durchführung eines Checks erfolgt idealerweise prozessorientiert, also parallel zur Bearbeitung des Arbeits- oder Forschungsauftrages. Daher ist ein Check immer durch vier Phasen 
+strukturiert, die sich an typischen Arbeits- oder Forschungsprozessen orientieren:
+
+![Die vier Phasen eines Checks](media/AP_Phasen.jpg)
+ 
+* **Die Auftragsanalyse:** In der Auftragsanalyse werden die Rahmenbedingungen, Anforderungen und Zielsetzungen des Arbeits- oder Forschungsauftrages geklärt. 
+* **Die Planungsphase:** In der Planungsphase geht es darum, den Auftrag z. B. durch die Bereitstellung von Materialien, Instrumenten und Werkzeugen vorzubereiten bzw. geeignete Methoden und Verfahren passend zur Zielsetzung und Forschungsfrage auszuwählen.
+* **Die Durchführungsphase:** In dieser Phase wird der Auftrag praktisch umgesetzt, indem z. B. ein Produkt erstellt, Daten erhoben oder Experimente durchgeführt werden.
+* **Der Abschluss:** In der Abschlussphase geht es darum, das erreichte Ergebnis mit der Ziel- und Fragestellung abzugleichen bzw. das erstellte Produkt dem Auftraggeber zu übergeben und den durchlaufenen Prozess zu reflektieren. 
+
+### Kompetenzbeschreibungen
+Jeder Check-Phase können Sie ausgewählte Kompetenzbeschreibungen hinzufügen.
+
+Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
+
+Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
+der Selbstevaluation bestmöglich erfassen zu können.
+Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (Selbsteinschätzung) und zur Beobachtung des Könnens einer anderen Person (Fremdeinschätzung). 
+
+Ein Check kann alleine, mit einer weiteren Person, oder auch mit einer Gruppe durchgeführt werden.
+Mit Abschluss aller gewünschten Selbst- und Fremdeinschätzungen können der Check beendet und die erfassten Daten ausgewertet werden. 
+Diese Check-Auswertung dient dann als Grundlage zur Besprechung und Reflexion des Arbeits- bzw. Forschungsprozesses.
+
+
 ## Was sind Checks im Detail?
 Sobald Sie einen neuen Check erstellt haben erscheint dieser auf dem Dashboard unter **Checks im Detail**. Auf der rechten Seite werden Ihnen zu jedem Check und je nach Status der Check-Durchführung unterschiedliche **Aktionsmöglichkeiten** angeboten. 
 So erkennen Sie immer auf einen Blick den aktuellen Status des Checks bzw. welche Aktionen Sie oder weitere Check-Partner bzw. Check-Partnerinnen des Checks bereits durchgeführt haben.
