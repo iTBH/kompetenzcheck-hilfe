@@ -37,8 +37,7 @@ Diese Check-Auswertung dient dann als Grundlage zur Besprechung und Reflexion de
 
 ## Wie erstelle ich einen Check?
 
-Sie können einen Check zur Selbstevaluation oder für weitere Personen, Check-Partner bzw. Check-Partnerinnen genannt, erstellen. 
-Wenn Sie einen Check für eine oder mehrere Check-Partner und Check-Partnerinnen anlegen wollen ist es sinnvoll, diese in die folgenden Schritte miteinzubeziehen.
+Sie können einen Check zur Selbstevaluation oder für weitere Personen erstellen, aber sollten diese in die folgenden Schritte miteinzubeziehen.
 
 ### 1. Schritt: Arbeits- bzw. Forschungsauftrag beschreiben
 Um ein gemeinsames Verständnis aller Beteiligten über den Check zu erreichen, wird die zugrunde liegende Handlungssituation ausführlich in den Punkten Kurztitel, 
