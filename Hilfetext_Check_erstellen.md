@@ -11,6 +11,10 @@ Ein Check stellt die Grundlage für einen Dialog über das Kompetenzvermögen ei
 Dabei bezieht sich ein Check immer auf eine **spezifische Handlungssituation**, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages, und beinhaltet die in der 
 jeweiligen Situation benötigten **Handlungskompetenzen**. Zusätzlich zur Beschreibung der Situation können einem Check Schlagwörter hinzugefügt werden.
 
+Fügen Sie hier Kompetenzen hinzu. Sie können die Kompetenzen bis zu
+vier Phasen (Reitern) zuordnen, um Lern- bzw. Arbeitsprozesse abzubilden oder das
+Kompetenzprofil zu gliedern.
+
 Die Durchführung eines Checks erfolgt idealerweise prozessorientiert, also parallel zur Bearbeitung des Arbeits- oder Forschungsauftrages. Daher ist ein Check immer durch vier Phasen 
 strukturiert, die sich an typischen Arbeits- oder Forschungsprozessen orientieren:
 
