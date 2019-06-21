@@ -99,7 +99,7 @@ formuliert werden, das heißt sie soll „beobachtbar“ sein. Tipps für beobac
 Der Lerner + Verb (Operator) + Inhalt/Bezug der Handlung + Situation + Kontext der Handlung +
 ggf. spezifisches Kriterium
 
-Beispiel: Der Lernende <span style="color:red">analysiert Probleme</span> durch Recherche in gängigen Foren und erarbeitet Lösungen
+Beispiel: Der Lernende analysiert Probleme durch Recherche in gängigen Foren und erarbeitet Lösungen
 auch in englischer Sprache.
 
   **Beispiele:** 
