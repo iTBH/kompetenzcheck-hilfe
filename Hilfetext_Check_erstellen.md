@@ -12,7 +12,7 @@ Auftragsbeschreibung und Verwendungszweck beschrieben:
 
 ![Beschreibung der Rahmenbedingungen eines Checks](media/Screen_Checkerstellen_Auftrag.jpg)
 
-**Der Kurztitel des Checks:** Zunächst geben Sie dem Check einen prägnanten Namen, der sich auf den durchzuführenden Arbeits- oder Forschungsauftrag bezieht. 
+**Der Kurztitel des Checks:** (titel ändern, ohne checks) Zunächst geben Sie dem Check einen prägnanten Namen, der sich auf den durchzuführenden Arbeits- oder Forschungsauftrag bezieht. 
 Der Titel sollte kurz und für weitere Personen nachvollziehbar sein.
 
 **Der Verwendungszweck:** Ein Check kann mit unterschiedlichen Zielsetzungen durchgeführt werden, z. B. zur Selbstevaluation, zur Prüfungsvorbereitung, als 
