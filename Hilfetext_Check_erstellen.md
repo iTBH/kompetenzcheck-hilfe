@@ -1,6 +1,6 @@
 # Check erstellen
 - - -
-Auf dieser Seite erstellen Sie einen neuen Check. Sie können einen Check zur Selbstevaluation oder für weitere Personen erstellen, aber sollten diese in die folgenden Schritte miteinzubeziehen.
+Auf dieser Seite erstellen Sie einen neuen Check. Sie können einen Check zur Selbstevaluation oder für weitere Personen erstellen, aber sollten diese in die folgenden Schritte miteinzubeziehen. Die Durchführung eines Checks erfolgt idealerweise parallel zur Bearbeitung des Arbeits- oder Forschungsauftrages. 
 
 ![Übersicht der Funktionen zur Erstellung eines Checks](media/check-erstellen.png)
 
@@ -12,16 +12,15 @@ Auftragsbeschreibung und Verwendungszweck beschrieben:
 
 ![Beschreibung der Rahmenbedingungen eines Checks](media/Screen_Checkerstellen_Auftrag.jpg)
 
-**Der Kurztitel des Checks:** (titel ändern, ohne checks) Zunächst geben Sie dem Check einen prägnanten Namen, der sich auf den durchzuführenden Arbeits- oder Forschungsauftrag bezieht. 
-Der Titel sollte kurz und für weitere Personen nachvollziehbar sein.
+**Der Kurztitel des Checks:** (titel ändern, ohne checks) Zunächst geben Sie dem Check einen prägnanten und kurzen Namen, der sich auf den durchzuführenden Arbeits- oder Forschungsauftrag bezieht.
 
 **Der Verwendungszweck:** Ein Check kann mit unterschiedlichen Zielsetzungen durchgeführt werden, z. B. zur Selbstevaluation, zur Prüfungsvorbereitung, als 
-Assessment, um Feedback einzuholen etc. Formulieren Sie den Verwendungszweck treffend. Es sollte deutlich werden mit welcher Zielsetzung der Kompetenzcheck 
+Assessment, um Feedback einzuholen etc. Formulieren Sie deutlich, mit welcher Zielsetzung der Kompetenzcheck 
 durchgeführt wird.
 
 **Die Auftragsbeschreibung:** Hier wird die Situation beschrieben, in der gehandelt werden soll, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages. 
-Eine detaillierte Auftragsbeschreibung unterstützt alle Check-Partner und Check-Partnerinnen bei der Einschätzung von Stärken und Bedarfen während der 
-Auftragsbearbeitung. Es muss deutlich werden in welchem Zusammenhang die Kompetenzbeschreibungen gecheckt werden sollen.
+Eine detaillierte Auftragsbeschreibung unterstützt alle Check-Beteiligten bei der Einschätzung von Stärken und Bedarfen während der 
+Auftragsbearbeitung. ???Es muss deutlich werden in welchem Zusammenhang die Kompetenzbeschreibungen gecheckt werden sollen.???
 
 Eine Auftragsbeschreibung kann folgende Aspekte umfassen:
 * Welche Rahmenbedingungen sind gegeben bzw. müssen beachtet werden?
@@ -30,8 +29,7 @@ Eine Auftragsbeschreibung kann folgende Aspekte umfassen:
 * Welche Werkzeuge, Instrumente, Methoden oder Materialien sollen eingesetzt werden?
 * Gibt es Qualitätsansprüche an das Arbeitsprodukt/ die Dienstleistung bzw. das Forschungsprodukt? 
 
-**Schlagwörter:** Fügen Sie dem Check Schlagwörter hinzu, um Ihre Checks später sortieren und filtern zu können. Unter dem **Menüpunkt Schlagwörter** 
-können Sie Ihre Schlagwörter verwalten, bearbeiten und neue hinzufügen.
+**Schlagwörter:** Fügen Sie dem Check Schlagwörter hinzu, um sie später sortieren und filtern zu können. Unter dem Menüpunkt Schlagwörter können Sie Schlagwörter hinzufügen, verwalten und bearbeiten.
 
 ### 2. Schritt: Kompetenzbeschreibungen hinzufügen
 
@@ -39,11 +37,9 @@ Im nächsten Schritt fügen Sie Ihrem Check Kompetenzbeschreibungen hinzu, indem
 
 ![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen oder den Text-Button hinzu](media/AP_Phasen_markiert.jpg)
 
-Die Durchführung eines Checks erfolgt idealerweise parallel zur Bearbeitung des Arbeits- oder Forschungsauftrages. Sie können die Kompetenzen bis zu vier Phasen (Reitern) zuordnen, um Lern- bzw. Arbeitsprozesse abzubilden oder das Kompetenzprofil zu gliedern. Sie müssen nicht allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
+Sie können die Kompetenzen bis zu vier Phasen (Reitern) zuordnen, um Lern- bzw. Arbeitsprozesse abzubilden oder das Kompetenzprofil zu gliedern. Sie müssen nicht allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
 
-Sie können den Check z.B. folgend strukturieren:
-
-![Die vier Phasen eines Checks](media/AP_Phasen.jpg)
+Sie können den Check, wie im Beispiel, folgend strukturieren:
  
 * **Die Auftragsanalyse:** In der Auftragsanalyse werden die Rahmenbedingungen, Anforderungen und Zielsetzungen des Arbeits- oder Forschungsauftrages geklärt. 
 * **Die Planungsphase:** In der Planungsphase geht es darum, den Auftrag z. B. durch die Bereitstellung von Materialien, Instrumenten und Werkzeugen vorzubereiten bzw. geeignete Methoden und Verfahren passend zur Zielsetzung und Forschungsfrage auszuwählen.
@@ -54,17 +50,16 @@ Sie können den Check z.B. folgend strukturieren:
 
 Jede Kompetenzbeschreibung muss einem Kompetenzbereich zugeordnet werden. Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
 
+![Der Kompetenz-Check orientiert sich an dem Kompetenzverständnis des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR: http://www.dqr.de/index.php)](media/DQR.jpg)
+
 Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
 der Selbstevaluation bestmöglich erfassen zu können.
 Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (Selbsteinschätzung) und zur Beobachtung des Könnens einer anderen Person (Fremdeinschätzung). 
 
-![Der Kompetenz-Check orientiert sich an dem Kompetenzverständnis des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR: http://www.dqr.de/index.php)](media/DQR.jpg)
-
 ## Wie formuliere ich eine Kompetenzbeschreibung?
 
 Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Arbeits- oder Forschungsauftrag haben und möglichst genau die auszuführende, bzw. zu beobachtende Handlung beschreiben. 
-Eine Kompetenzbeschreibung muss immer in der 3. Person singular und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren) formuliert werden. Tipps für beobachtbare Verben für Fach- und Personale Kompetenz: 
-<a href="https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-hilfe/media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Verben für die Kompetenzbeschreibung: Beispiele</a>
+Eine Kompetenzbeschreibung muss immer in der 3. Person singular und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren) formuliert werden. <a href="https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-hilfe/media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Beispielverben für die Kompetenzbeschreibung</a>
 
 **Formulierung einer Kompetenzbeschreibung:**
 
