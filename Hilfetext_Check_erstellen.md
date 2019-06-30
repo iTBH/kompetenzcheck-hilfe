@@ -4,39 +4,6 @@ Auf dieser Seite erstellen Sie einen neuen Check.
 
 ![Übersicht der Funktionen zur Erstellung eines Checks](media/check-erstellen.png)
 
-## Was ist ein Check?
-Ein Check stellt die Grundlage für einen Dialog über das Kompetenzvermögen einer Person, also des Selbsteinschätzers bzw. der Selbsteinschätzerin dar.
-
-### Arbeits- bzw. Forschungsauftrag
-Dabei bezieht sich ein Check immer auf eine **spezifische Handlungssituation**, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages, und beinhaltet die in der 
-jeweiligen Situation benötigten **Handlungskompetenzen**. Zusätzlich zur Beschreibung der Situation können einem Check Schlagwörter hinzugefügt werden.
-
-#### Fügen Sie hier Kompetenzen hinzu. Sie können die Kompetenzen bis zu vier Phasen (Reitern) zuordnen, um Lern- bzw. Arbeitsprozesse abzubilden oder das Kompetenzprofil zu gliedern.
-
-Die Durchführung eines Checks erfolgt idealerweise prozessorientiert, also parallel zur Bearbeitung des Arbeits- oder Forschungsauftrages. Daher ist ein Check immer durch vier Phasen 
-strukturiert, die sich an typischen Arbeits- oder Forschungsprozessen orientieren:
-
-![Die vier Phasen eines Checks](media/AP_Phasen.jpg)
- 
-* **Die Auftragsanalyse:** In der Auftragsanalyse werden die Rahmenbedingungen, Anforderungen und Zielsetzungen des Arbeits- oder Forschungsauftrages geklärt. 
-* **Die Planungsphase:** In der Planungsphase geht es darum, den Auftrag z. B. durch die Bereitstellung von Materialien, Instrumenten und Werkzeugen vorzubereiten bzw. geeignete Methoden und Verfahren passend zur Zielsetzung und Forschungsfrage auszuwählen.
-* **Die Durchführungsphase:** In dieser Phase wird der Auftrag praktisch umgesetzt, indem z. B. ein Produkt erstellt, Daten erhoben oder Experimente durchgeführt werden.
-* **Der Abschluss:** In der Abschlussphase geht es darum, das erreichte Ergebnis mit der Ziel- und Fragestellung abzugleichen bzw. das erstellte Produkt dem Auftraggeber zu übergeben und den durchlaufenen Prozess zu reflektieren. 
-
-### Kompetenzbeschreibungen
-Jeder Check-Phase können Sie ausgewählte Kompetenzbeschreibungen hinzufügen.
-
-Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
-
-Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
-der Selbstevaluation bestmöglich erfassen zu können.
-Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (Selbsteinschätzung) und zur Beobachtung des Könnens einer anderen Person (Fremdeinschätzung). 
-
-Ein Check kann alleine, mit einer weiteren Person, oder auch mit einer Gruppe durchgeführt werden.
-Mit Abschluss aller gewünschten Selbst- und Fremdeinschätzungen können der Check beendet und die erfassten Daten ausgewertet werden. 
-Diese Check-Auswertung dient dann als Grundlage zur Besprechung und Reflexion des Arbeits- bzw. Forschungsprozesses.
-
-
 ## Wie erstelle ich einen Check?
 
 Sie können einen Check zur Selbstevaluation oder für weitere Personen erstellen, aber sollten diese in die folgenden Schritte miteinzubeziehen.
@@ -69,29 +36,36 @@ Eine Auftragsbeschreibung kann folgende Aspekte umfassen:
 können Sie Ihre Schlagwörter verwalten, bearbeiten und neue hinzufügen.
 
 ### 2. Schritt: Kompetenzbeschreibungen hinzufügen
-Im nächsten Schritt fügen Sie Ihrem Check Kompetenzbeschreibungen hinzu, indem Sie den **Plus-Button** in einer Check-Phase anklicken:
 
-![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen hinzu](media/AP_Phasen_markiert.jpg)
+Im nächsten Schritt fügen Sie Ihrem Check Kompetenzbeschreibungen hinzu, indem Sie den **Plus-Button** oder den **Kompetenzbeschreibung hinzufügen-Button** in einer Check-Phase (hier im Beispiel "Abschluss", blau makiert) anklicken:
 
-Sie müssen nicht allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
+![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen oder den Text-Button hinzu](media/AP_Phasen_markiert.jpg)
+
+Die Durchführung eines Checks erfolgt idealerweise parallel zur Bearbeitung des Arbeits- oder Forschungsauftrages. Sie können die Kompetenzen bis zu vier Phasen (Reitern) zuordnen, um Lern- bzw. Arbeitsprozesse abzubilden oder das Kompetenzprofil zu gliedern. Sie müssen nicht allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
+
+Sie können den Check z.B. folgend strukturieren:
+
+![Die vier Phasen eines Checks](media/AP_Phasen.jpg)
+ 
+* **Die Auftragsanalyse:** In der Auftragsanalyse werden die Rahmenbedingungen, Anforderungen und Zielsetzungen des Arbeits- oder Forschungsauftrages geklärt. 
+* **Die Planungsphase:** In der Planungsphase geht es darum, den Auftrag z. B. durch die Bereitstellung von Materialien, Instrumenten und Werkzeugen vorzubereiten bzw. geeignete Methoden und Verfahren passend zur Zielsetzung und Forschungsfrage auszuwählen.
+* **Die Durchführungsphase:** In dieser Phase wird der Auftrag praktisch umgesetzt, indem z. B. ein Produkt erstellt, Daten erhoben oder Experimente durchgeführt werden.
+* **Der Abschluss:** In der Abschlussphase geht es darum, das erreichte Ergebnis mit der Ziel- und Fragestellung abzugleichen bzw. das erstellte Produkt dem Auftraggeber zu übergeben und den durchlaufenen Prozess zu reflektieren. 
 
 ![Übersicht der Funktionen zum Hinzufügen oder Bearbeiten von Kompetenzbeschreibungen](media/check-erstellen-kompetenzen.png)
 
-Jede Kompetenzbeschreibung muss einem Kompetenzbereich zugeordnet werden. Unter Fachkompetenz wird das Wissen und
-die Fertigkeiten verstanden, die zur Bearbeitung des Auftrages benötigt werden. Die Personale Kompetenz gliedert sich in
-„Sozialkompetenz“ (u. a. Zusammenarbeit und Kommunikation mit Anderen) und
-"Selbstständigkeit" (u. a. Zeit- und Aufgabenmanagement, Bereitschaft zum Lernen, Fähigkeit und Bereitschaft zum Feedback Geben und Nehmen).
+Jede Kompetenzbeschreibung muss einem Kompetenzbereich zugeordnet werden. Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
+
+Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
+der Selbstevaluation bestmöglich erfassen zu können.
+Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (Selbsteinschätzung) und zur Beobachtung des Könnens einer anderen Person (Fremdeinschätzung). 
 
 ![Der Kompetenz-Check orientiert sich an dem Kompetenzverständnis des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR: http://www.dqr.de/index.php)](media/DQR.jpg)
 
-
-
 ## Wie formuliere ich eine Kompetenzbeschreibung?
-Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Arbeits- oder Forschungsauftrag haben und möglichst genau die auszuführende, 
-bzw. zu beobachtende Handlung beschreiben. Eine Kompetenzbeschreibung muss immer in der 3. Person singular formuliert werden.  
 
-Die Kompetenzbeschreibung soll konkret und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren)
-formuliert werden, das heißt sie soll „beobachtbar“ sein. Tipps für beobachtbare Verben für Fach- und Personale Kompetenz: 
+Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Arbeits- oder Forschungsauftrag haben und möglichst genau die auszuführende, bzw. zu beobachtende Handlung beschreiben. 
+Eine Kompetenzbeschreibung muss immer in der 3. Person singular und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren) formuliert werden. Tipps für beobachtbare Verben für Fach- und Personale Kompetenz: 
 <a href="https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-hilfe/media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Verben für die Kompetenzbeschreibung: Beispiele</a>
 
 **Formulierung einer Kompetenzbeschreibung:**
