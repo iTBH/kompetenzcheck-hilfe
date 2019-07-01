@@ -1,6 +1,6 @@
 # Check erstellen
 - - -
-Auf dieser Seite erstellen Sie einen neuen Check. Sie können einen Check zur Selbstevaluation oder für weitere Personen erstellen, aber sollten diese in die folgenden Schritte miteinzubeziehen. Die Durchführung eines Checks erfolgt idealerweise parallel zur Bearbeitung des Arbeits- oder Forschungsauftrages. 
+Auf dieser Seite erstellen Sie einen neuen Check. Sie können einen Check zur Selbstevaluation oder für weitere Personen erstellen, aber sollten diese in die folgenden Schritte miteinzubeziehen *// welche Sie dann in die folgenden Schritte miteinbeziehen sollten*. Die Durchführung eines Checks erfolgt idealerweise parallel zur Bearbeitung des Arbeits- oder Forschungsauftrages. 
 
 ![Übersicht der Funktionen zur Erstellung eines Checks](media/check-erstellen.png)
 
@@ -12,15 +12,15 @@ Auftragsbeschreibung und Verwendungszweck beschrieben:
 
 ![Beschreibung der Rahmenbedingungen eines Checks](media/Screen_Checkerstellen_Auftrag.jpg)
 
-**Der Kurztitel des Checks:** (titel ändern, ohne checks) Zunächst geben Sie dem Check einen prägnanten und kurzen Namen, der sich auf den durchzuführenden Arbeits- oder Forschungsauftrag bezieht.
+**Der Kurztitel des Checks:** (titel ändern, ohne checks *// stimmt, in der nächsten Iteration*) Zunächst geben Sie dem Check einen prägnanten und kurzen Namen, der sich auf den durchzuführenden Arbeits- oder Forschungsauftrag bezieht.
 
 **Der Verwendungszweck:** Ein Check kann mit unterschiedlichen Zielsetzungen durchgeführt werden, z. B. zur Selbstevaluation, zur Prüfungsvorbereitung, als 
-Assessment, um Feedback einzuholen etc. Formulieren Sie deutlich, mit welcher Zielsetzung der Kompetenzcheck 
+Assessment, um Feedback einzuholen etc. Formulieren Sie deutlich, mit welcher Zielsetzung der Kompetenz-Check *// bitte immer mit Bindestrich*
 durchgeführt wird.
 
 **Die Auftragsbeschreibung:** Hier wird die Situation beschrieben, in der gehandelt werden soll, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages. 
 Eine detaillierte Auftragsbeschreibung unterstützt alle Check-Beteiligten bei der Einschätzung von Stärken und Bedarfen während der 
-Auftragsbearbeitung. ???Es muss deutlich werden in welchem Zusammenhang die Kompetenzbeschreibungen gecheckt werden sollen.???
+Auftragsbearbeitung. ???*Es muss deutlich werden in welchem Zusammenhang die Kompetenzen eingeschätzt werden sollen*.???
 
 Eine Auftragsbeschreibung kann folgende Aspekte umfassen:
 * Welche Rahmenbedingungen sind gegeben bzw. müssen beachtet werden?
@@ -39,7 +39,7 @@ Im nächsten Schritt fügen Sie Ihrem Check Kompetenzbeschreibungen hinzu, indem
 
 Sie können die Kompetenzen bis zu vier Phasen (Reitern) zuordnen, um Lern- bzw. Arbeitsprozesse abzubilden oder das Kompetenzprofil zu gliedern. Sie müssen nicht allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
 
-Sie können den Check, wie im Beispiel, folgend strukturieren:
+Sie können den Check, wie im Beispiel, folgend strukturieren: *// hier darauf hinweisen, dass z.B. auch die Phasen des DQR oder Phasen des Forschungsprozesses zur Strukturierung genutzt werden können*
  
 * **Die Auftragsanalyse:** In der Auftragsanalyse werden die Rahmenbedingungen, Anforderungen und Zielsetzungen des Arbeits- oder Forschungsauftrages geklärt. 
 * **Die Planungsphase:** In der Planungsphase geht es darum, den Auftrag z. B. durch die Bereitstellung von Materialien, Instrumenten und Werkzeugen vorzubereiten bzw. geeignete Methoden und Verfahren passend zur Zielsetzung und Forschungsfrage auszuwählen.
