@@ -12,9 +12,9 @@ Das Dashboard, auch **Checks im Überblick** genannt, ist das Herzstück des Kom
 Das Dashboard gliedert sich in drei Bereiche: 
 
 * Oben rechts: Hier können Sie einen **neuen Check erstellen** oder einen **Check importieren**.
-* Filterleiste: Hier können Sie die Anzeige der Checks auf dem Dashboard anpassen, indem Sie **nach Schlagworten suchen** oder **nach Partnern oder Partnerinnen suchen**. Mit Anklicken der Checkbox **auch abgeschlossene Checks anzeigen** werden laufende und abgeschlossene Checks angezeigt.
+* Filterleiste: Hier können Sie die Anzeige der Checks auf dem Dashboard anpassen, indem Sie **nach Schlagworten suchen** oder **nach Partnern oder Partnerinnen suchen**. Mit Anklicken der Checkbox **auch abgeschlossene Checks anzeigen** werden laufende und abgeschlossene Checks angezeigt.// *Gibt es nicht mehr*
 * **Checks im Detail**: Hier sehen Sie alle laufenden und falls gewünscht (Checkbox) auch abgeschlossenen Checks.
-* **Aktionsmöglichkeiten**: Diese zeigen pro Check an, was Sie nun tun können.
+* **Aktionsmöglichkeiten**: Diese zeigen pro Check an, was Sie nun tun können.// *Gibt es nicht mehr*
 
 
 ## Was ist ein Check?
@@ -28,7 +28,7 @@ Dabei bezieht sich ein Check immer auf eine **spezifische Handlungssituation**, 
 jeweiligen Situation benötigten **Handlungskompetenzen**. Zusätzlich zur Beschreibung der Situation können einem Check Schlagwörter hinzugefügt werden.
 
 Die Durchführung eines Checks erfolgt idealerweise prozessorientiert, also parallel zur Bearbeitung des Arbeits- oder Forschungsauftrages. Daher ist ein Check immer durch vier Phasen 
-strukturiert, die sich an typischen Arbeits- oder Forschungsprozessen orientieren:
+strukturiert, die sich an typischen Arbeits- oder Forschungsprozessen orientieren:// *Als Beispiel kennzeichnen, es kann ja auch nur eine Phase ausgewählt werden, oder anstatt Phasen die Kompetenzdimensionen des DQR (Deutscher Qualifikationsrahmen für Lebenslanges Lernen) zur Strukturierung genutzt werden*
 
 ![Die vier Phasen eines Checks](media/AP_Phasen.jpg)
  
@@ -51,7 +51,7 @@ Mit Abschluss aller gewünschten Selbst- und Fremdeinschätzungen können der Ch
 Diese Check-Auswertung dient dann als Grundlage zur Besprechung und Reflexion des Arbeits- bzw. Forschungsprozesses.
 
 
-## Was sind Checks im Detail?
+## Was sind Checks im Detail?// *Gibt es nicht mehr als Unterüberschrift, Checks werden grundsätzlich im Detail auf dem Dashboard angezeigt, evtl. bessere Überschrift: Darstellung eines Checks*
 Sobald Sie einen neuen Check erstellt haben erscheint dieser auf dem Dashboard unter **Checks im Detail**. Auf der rechten Seite werden Ihnen zu jedem Check und je nach Status der Check-Durchführung unterschiedliche **Aktionsmöglichkeiten** angeboten. 
 So erkennen Sie immer auf einen Blick den aktuellen Status des Checks bzw. welche Aktionen Sie oder weitere Check-Partner bzw. Check-Partnerinnen des Checks bereits durchgeführt haben.
 
