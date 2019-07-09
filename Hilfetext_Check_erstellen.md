@@ -43,9 +43,11 @@ Wenn Sie einen Lernprozess im Sinne des Forschenden Lernens abbilden möchten, k
 
 Wenn Sie ein Kompetenzprofil anlegen möchten, können Sie bspw. die Dimensionen des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR) nutzen und die Kompetenzbeschreibungen diesen zuordnen: Wissen, Fertigkeiten, Sozialkompetenz, Selbständigkeit.
 
-Bild DQR
+![Der Kompetenz-Check orientiert sich an dem Kompetenzverständnis des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR: http://www.dqr.de/index.php)](media/DQR.jpg)
 
 Sie müssen nicht allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
+
+
 
 Im nächsten Schritt fügen Sie Ihrem Check Kompetenzbeschreibungen hinzu, indem Sie den **Plus-Button** oder den **Kompetenzbeschreibung hinzufügen-Button** in einer Check-Phase (hier im Beispiel "Abschluss", blau makiert) anklicken:
 
