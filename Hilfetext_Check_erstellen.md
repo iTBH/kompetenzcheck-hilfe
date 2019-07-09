@@ -30,7 +30,22 @@ Eine Auftragsbeschreibung kann folgende Aspekte umfassen:
 
 **Schlagwörter:** Fügen Sie dem Check Schlagwörter hinzu, um sie später sortieren und filtern zu können. Unter dem Menüpunkt Schlagwörter können Sie Schlagwörter hinzufügen, verwalten und bearbeiten.
 
-### 2. Schritt: Kompetenzbeschreibungen hinzufügen
+### 2. Schritt: Strukturierung der Kompetenzbeschreibungen
+
+Sie können die Kompetenzen bis zu vier Phasen (Reitern) zuordnen, um Lern- bzw. Arbeitsprozesse abzubilden oder das Kompetenzprofil zu gliedern. 
+
+Wenn Sie einen Lernprozess im Sinne des Forschenden Lernens abbilden möchten, können Sie den Check wie folgt strukturieren:
+
+* **Themenfindung:** In dieser Phase erfolgt die Themenfindung & -aushandlung, je nach in der Praxis erfahrenen Problemstellungen.
+* **Forschungsdesign:** Die Formulierung von Forschungsfragen bzw. Hypothesen leitet über zur Gestaltung eines entsprechenden Forschungsdesigns.
+* **Durchführung & Auswertung:** In dieser Phase erfolgt die Datenerhebung und -auswertung.
+* **Reflexion & Transfer:** Die Reflexion gewonnener Erkenntnisse und ihr Transfer in die zu untersuchende Praxis beschließen den Lernprozess.
+
+Wenn Sie ein Kompetenzprofil anlegen möchten, können Sie bspw. die Dimensionen des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR) nutzen und die Kompetenzbeschreibungen diesen zuordnen: Wissen, Fertigkeiten, Sozialkompetenz, Selbständigkeit.
+
+Bild DQR
+
+Sie müssen nicht allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
 
 Im nächsten Schritt fügen Sie Ihrem Check Kompetenzbeschreibungen hinzu, indem Sie den **Plus-Button** oder den **Kompetenzbeschreibung hinzufügen-Button** in einer Check-Phase (hier im Beispiel "Abschluss", blau makiert) anklicken:
 
@@ -55,6 +70,8 @@ Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beac
 der Selbstevaluation bestmöglich erfassen zu können.
 Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (Selbsteinschätzung) und zur Beobachtung des Könnens einer anderen Person (Fremdeinschätzung). 
 
+
+### 2. Schritt: Kompetenzbeschreibungen hinzufügen Button
 ## Wie formuliere ich eine Kompetenzbeschreibung?
 
 Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Arbeits- oder Forschungsauftrag haben und möglichst genau die auszuführende, bzw. zu beobachtende Handlung beschreiben. 
