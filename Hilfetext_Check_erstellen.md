@@ -2,8 +2,6 @@
 - - -
 Auf dieser Seite erstellen Sie einen neuen Check. Sie können einen Check zur Selbstevaluation oder für weitere Personen erstellen, welche Sie dann in die folgenden Schritte miteinbeziehen sollten. Die Durchführung eines Checks erfolgt idealerweise parallel zur Bearbeitung des Arbeits- oder Forschungsauftrages. 
 
-![Übersicht der Funktionen zur Erstellung eines Checks](media/check-erstellen.png)
-
 ## Wie erstelle ich einen Check?
 
 ### 1. Schritt: Arbeits- bzw. Forschungsauftrag beschreiben
