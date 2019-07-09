@@ -61,7 +61,7 @@ Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beac
 der Selbstevaluation bestmöglich erfassen zu können.
 Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (Selbsteinschätzung) und zur Beobachtung des Könnens einer anderen Person (Fremdeinschätzung). 
 
-## Wie formuliere ich eine Kompetenzbeschreibung?
+#### Wie formuliere ich eine Kompetenzbeschreibung?
 Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Lern- oder Arbeitsprozess haben und möglichst genau die auszuführende, bzw. zu beobachtende Handlung beschreiben. 
 Eine Kompetenzbeschreibung muss immer in der 3. Person singular und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren) formuliert werden. <a href="https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-hilfe/media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Beispielverben für die Kompetenzbeschreibung</a>
 
