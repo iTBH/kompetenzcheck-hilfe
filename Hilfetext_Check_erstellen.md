@@ -70,8 +70,6 @@ Eine Kompetenzbeschreibung muss immer in der 3. Person singular und in ganzen S�
 Der Lerner + Verb (Operator) + Inhalt/Bezug der Handlung + Situation + Kontext der Handlung +
 ggf. spezifisches Kriterium
 
-Beispiel: Der Lernende analysiert Probleme durch Recherche in gängigen Foren und erarbeitet Lösungen
-auch in englischer Sprache.
 
   **Beispiele:** 
   
@@ -80,7 +78,6 @@ kooperativ in der Gruppe und stimmt sich ab.
 
 * Fachkompetenz: Der Lernende erstellt einen Projektplan fachgerecht.
 
-![Übersicht der Funktionen zum Hinzufügen oder Bearbeiten von Kompetenzbeschreibungen](media/check-erstellen-kompetenzen.png)
 
 ## Wie geht es nach dem Anlegen des Checks weiter?
 Sobald Sie Ihren Check gespeichert haben, gelangen Sie wieder auf die Seite **Dashboard**. 
