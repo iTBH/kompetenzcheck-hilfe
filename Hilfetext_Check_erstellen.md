@@ -31,8 +31,9 @@ Eine Auftragsbeschreibung kann folgende Aspekte umfassen:
 **Schlagwörter:** Fügen Sie dem Check Schlagwörter hinzu, um sie später sortieren und filtern zu können. Unter dem Menüpunkt Schlagwörter können Sie Schlagwörter hinzufügen, verwalten und bearbeiten.
 
 ### 2. Schritt: Strukturierung der Kompetenzbeschreibungen
-
 Sie können die Kompetenzen bis zu vier Phasen (Reitern) zuordnen, um Lern- bzw. Arbeitsprozesse abzubilden oder das Kompetenzprofil zu gliedern. 
+
+![Fügen Sie, wie in diesem Beispiel, den Reitern die Lernprozesse des Forschenden Lernens zu.](media/AP_Reiter.png)
 
 Wenn Sie einen Lernprozess im Sinne des Forschenden Lernens abbilden möchten, können Sie den Check wie folgt strukturieren:
 
@@ -45,38 +46,23 @@ Wenn Sie ein Kompetenzprofil anlegen möchten, können Sie bspw. die Dimensionen
 
 ![Der Kompetenz-Check orientiert sich an dem Kompetenzverständnis des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR: http://www.dqr.de/index.php)](media/DQR.jpg)
 
-Sie müssen nicht allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
+Sie müssen **nicht** allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
 
-
-
-Im nächsten Schritt fügen Sie Ihrem Check Kompetenzbeschreibungen hinzu, indem Sie den **Plus-Button** oder den **Kompetenzbeschreibung hinzufügen-Button** in einer Check-Phase (hier im Beispiel "Abschluss", blau makiert) anklicken:
+### 3. Schritt: Kompetenzbeschreibungen den Phasen zuordnen
+Im nächsten Schritt fügen Sie den einzelnen Phasen Kompetenzbeschreibungen hinzu, indem Sie den **Plus-Button** oder den **Kompetenzbeschreibung hinzufügen-Button** in einer Check-Phase anklicken:
 
 ![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen oder den Text-Button hinzu](media/AP_Phasen_markiert.jpg)
 
-Sie können die Kompetenzen bis zu vier Phasen (Reitern) zuordnen, um Lern- bzw. Arbeitsprozesse abzubilden oder das Kompetenzprofil zu gliedern. Sie müssen nicht allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
-
-Sie können den Check, wie im Beispiel, folgend strukturieren: *// hier darauf hinweisen, dass z.B. auch die Phasen des DQR oder Phasen des Forschungsprozesses zur Strukturierung genutzt werden können*
- 
-* **Die Auftragsanalyse:** In der Auftragsanalyse werden die Rahmenbedingungen, Anforderungen und Zielsetzungen des Arbeits- oder Forschungsauftrages geklärt. 
-* **Die Planungsphase:** In der Planungsphase geht es darum, den Auftrag z. B. durch die Bereitstellung von Materialien, Instrumenten und Werkzeugen vorzubereiten bzw. geeignete Methoden und Verfahren passend zur Zielsetzung und Forschungsfrage auszuwählen.
-* **Die Durchführungsphase:** In dieser Phase wird der Auftrag praktisch umgesetzt, indem z. B. ein Produkt erstellt, Daten erhoben oder Experimente durchgeführt werden.
-* **Der Abschluss:** In der Abschlussphase geht es darum, das erreichte Ergebnis mit der Ziel- und Fragestellung abzugleichen bzw. das erstellte Produkt dem Auftraggeber zu übergeben und den durchlaufenen Prozess zu reflektieren. 
-
-![Übersicht der Funktionen zum Hinzufügen oder Bearbeiten von Kompetenzbeschreibungen](media/check-erstellen-kompetenzen.png)
-
 Jede Kompetenzbeschreibung muss einem Kompetenzbereich zugeordnet werden. Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
 
-![Der Kompetenz-Check orientiert sich an dem Kompetenzverständnis des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR: http://www.dqr.de/index.php)](media/DQR.jpg)
+![Übersicht der Funktionen zum Hinzufügen oder Bearbeiten von Kompetenzbeschreibungen](media/check-erstellen-kompetenzen.png)
 
 Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
 der Selbstevaluation bestmöglich erfassen zu können.
 Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (Selbsteinschätzung) und zur Beobachtung des Könnens einer anderen Person (Fremdeinschätzung). 
 
-
-### 2. Schritt: Kompetenzbeschreibungen hinzufügen Button
 ## Wie formuliere ich eine Kompetenzbeschreibung?
-
-Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Arbeits- oder Forschungsauftrag haben und möglichst genau die auszuführende, bzw. zu beobachtende Handlung beschreiben. 
+Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Lern- oder Arbeitsprozess haben und möglichst genau die auszuführende, bzw. zu beobachtende Handlung beschreiben. 
 Eine Kompetenzbeschreibung muss immer in der 3. Person singular und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren) formuliert werden. <a href="https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-hilfe/media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Beispielverben für die Kompetenzbeschreibung</a>
 
 **Formulierung einer Kompetenzbeschreibung:**
