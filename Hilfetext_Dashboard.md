@@ -1,11 +1,10 @@
-# Das Dashboard
-
+# Checks im Überblick
 - - - 
 Auf dieser Seite erstellen und verwalten Sie Ihre Checks.
 
 ![Darstellung der Struktur und der Funktionen auf dem Dashboard](media/dashboard.png)
 
-## Was ist das Dashboard?
+## Was ist "Checks im Überblick"?
 
 Das Dashboard, auch **Checks im Überblick** genannt, ist das Herzstück des Kompetenz-Checks. Hier führen Sie alle zentralen Aktionen durch: **Importieren eines Checks**, **Erstellung eines neuen Checks**, **Durchführung eines Checks mit den Aktionsmöglichkeiten**, **Verwaltung und Bearbeitung** von laufenden und bereits abgeschlossenen Checks. Verschiedene **Filtermöglichkeiten** (nach Partnern und Schlagwörtern) unterstützen Sie in der Organisation und Anzeige Ihrer Checks auf dem Dashboard.
 
