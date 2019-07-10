@@ -78,7 +78,7 @@ kooperativ in der Gruppe und stimmt sich ab.
 
 
 ## Wie geht es nach dem Anlegen des Checks weiter?
-Sobald Sie Ihren Check gespeichert haben, gelangen Sie wieder auf die Seite **Dashboard**. 
+Sobald Sie Ihren Check gespeichert haben, gelangen Sie wieder auf die Seite **Checks im Überblick**. 
 Rechts neben dem Check werden Ihnen nun weitere **Aktionsmöglichkeiten** angeboten:
 * Eine Selbsteinschätzung durchführen: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Selbsteinschätzung durchführen**.
 * Den Check einer weiteren Person zuweisen: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Check zuweisen**.
