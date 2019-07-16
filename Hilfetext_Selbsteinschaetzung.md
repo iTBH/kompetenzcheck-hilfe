@@ -1,6 +1,6 @@
 # Selbsteinschätzung
 - - -
-Auf dieser Seite führen Sie eine Selbsteinschätzung zu den im Check beschriebenen Kompetenzen durch.
+Auf dieser Seite führen Sie eine Selbsteinschätzung zu den im Check beschriebenen Kompetenzen durch.(brauchen wir den satz)
 
 ## Was ist eine Selbsteinschätzung?
 
@@ -9,7 +9,7 @@ Es handelt sich somit um eine Bestandsaufnahme Ihres Könnens im Rahmen einer be
 z. B. wärend der Bearbeitung eines spezifischen Arbeitsauftrages.
 
 Im ContinuING Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen: 
-* Die **erste Selbsteinschätzung** führen Sie, je nach Szenario, **vor** der Auftragsbearbeitung oder dem Auswertungsgespräch durch. Mit der ersten Selbsteinschätzung startet die Durchführung eines Checks. Die erste Selbsteinschätzung kann nach dem Speichern nicht mehr bearbeitet werden.
+* Die **erste Selbsteinschätzung** führen Sie, je nach Szenario, **vor** der Auftragsbearbeitung oder dem Auswertungsgespräch durch. Mit der ersten Selbsteinschätzung startet die Durchführung eines Checks. Die erste Selbsteinschätzung kann nach dem Speichern **nicht** mehr bearbeitet werden.
 * Nachdem Sie die erste Selbsteinschätzung durchgeführt haben, können Sie beliebig viele **weitere Selbsteinschätzungen** durchführen. Fügen Sie jeder Einschätzung einen **Kommentar** hinzu, um festzuhalten, warum Sie sich zu diesem Zeitpunkt so einschätzen. Weitere Selbsteinschätzungen können Sie bis zum Abschluss des Checks immer wieder bearbeiten.
 
 ## Wie führe ich eine Selbsteinschätzung durch?
