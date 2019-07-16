@@ -14,7 +14,7 @@ Klicken Sie auf jeder einzelnen Phase (blau hinterlegt) den Button **einschätze
 
 ![Klicken Sie diesen Button, um eine Fremdeinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Fremdeinschaetzung.jpg)
 
-Zur Einschätzung des Kompetenzvermögens der anderen Person stehen Ihnen vier Niveaustufen zur Verfügung. Wenn Sie eine Kompetenz nicht einschätzen können, wählen Sie die Checkbox **Einschätzung nicht möglich**. 
+Zur Einschätzung des Kompetenzvermögens der anderen Person stehen Ihnen vier Niveaustufen zur Verfügung. Wenn Sie eine Kompetenz nicht einschätzen können, wählen Sie nichts aus oder deaktivieren Sie die Auswahl durch erneutes klicken in der Niveaustufe. Sichern Sie Ihre angaben durch klicken auf den Button **speichern**.
 
 ![Übersicht der Funktionen zur Durchführung einer Fremdeinschätzung](media/Fremdeinschaetzung_Deatail.jpg)
 
