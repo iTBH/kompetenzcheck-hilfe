@@ -21,7 +21,7 @@ Klicken Sie auf jeder einzelnen Phase (blau hinterlegt) den Button **einschätze
 
 Zur Einschätzung Ihres Könnens wählen Sie pro Kompetenzbeschreibung eines der vier Kreissymbole aus. Jedes Kreissymbol steht exemplarisch für eine Könnensstufe bzw. Niveaustufe: 
 
-![Klicken Sie diesen Button, um eine Selbsteinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Selbsteinschaetzung.jpg)
+![Klicken Sie diesen Button, um eine Selbsteinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Fremdeinschaetzung_Deatail.jpg)
 
 * **Ich kann das noch nicht und brauche umfassende Unterstützung**: Sie haben bisher noch keine Erfahrungen gesammelt und führen die Handlungen zum ersten Mal durch, daher benötigen Sie Hilfestellung oder Anleitung durch eine weitere Person
 * **Ich kann das erst ein bisschen und brauche noch relativ viel Unterstützung**: Sie verfügen bereits über erste Erfahrungen, fühlen sich aber sicherer, wenn eine weitere Person Sie unterstützt z.B. durch Anleitung oder Beantwortung von Fragen
@@ -34,7 +34,7 @@ Führen Sie eine Selbsteinschätzung bestmöglich eigenständig und ohne die Hil
 Schreiben Sie einen **Kommentar** zu jeder Einschätzung, damit Sie im Auswertungsgespräch nachvollziehen können, warum Sie sich so eingeschätzt haben. 
 
 Speichern Sie Ihre Einschätzung, indem Sie den Button **Einschätzung speichern** klicken.
-Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen im Check und beenden Sie die gesamte Selbsteinschätzung, indem Sie den Button **Einschätzung abschließen** klicken. Ihre erste Selbsteinschätzung ist nun gespeichert und kann nicht mehr bearbeitet werden. Die Durchführung des ContinuING Kompetenz-Check kann beginnen.
+Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen (Phasen) im Check und beenden Sie die gesamte Selbsteinschätzung, indem Sie den Button **Einschätzung abschließen** klicken. Ihre erste Selbsteinschätzung ist nun gespeichert und kann nicht mehr bearbeitet werden. Die Durchführung des ContinuING Kompetenz-Check kann beginnen.
 
 ## Wie geht es nach der ersten Selbsteinschätzung weiter?
 Sobald Sie Ihre erste Selbsteinschätzung bzw. eine weitere Selbsteinschätzung gespeichert haben, gelangen Sie wieder auf die Seite **Dashboard**. 
