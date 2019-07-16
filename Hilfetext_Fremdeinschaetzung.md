@@ -2,23 +2,21 @@
 
 - - -
 
-Sie wurden zu einer Fremdeinschätzung im Kompetenz-Check eingeladen. Hier können Sie die Stärken und Entwicklungsmöglichkeiten einer weiteren Person einschätzen.
-
-![Übersicht der Funktionen zur Durchführung einer Fremdeinschätzung](media/Fremdeinschaetzung.jpg)
-
 ## Was ist eine Fremdeinschätzung?
-Sie wurden dazu eingeladen eine Fremdeinschätzung abzugeben. Dies bedeutet, dass Sie einschätzen sollen wie weit die Person, die Sie zum Kompetenz-Check eingeladen hat, die beschriebenen Kompetenzen bereits entwickelt hat. Sie können Ihre Fremdeinschätzung entweder auf Grundlage Ihrer Wahrnehmung der Person oder auf Basis Ihrer Beobachtungen während der Auftragsbearbeitung durchführen. Ihre Fremdeinschätzung ist dann aussagekräftig, wenn Sie die Person bei der Auftragsdurchführung begleiten und regelmäßig Feedback zu durchgeführten Handlungen geben. 
+Sie wurden dazu eingeladen eine Fremdeinschätzung abzugeben. Dies bedeutet, dass Sie einschätzen sollen wie weit die Person, die Sie zum ContinuING Kompetenz-Check eingeladen hat, die beschriebenen Kompetenzen bereits entwickelt hat. Sie können Ihre Fremdeinschätzung entweder auf Grundlage Ihrer Wahrnehmung der Person oder auf Basis Ihrer Beobachtungen während der Auftragsbearbeitung durchführen. Ihre Fremdeinschätzung ist dann aussagekräftig, wenn Sie die Person bei der Auftragsdurchführung begleiten und regelmäßig Feedback zu durchgeführten Handlungen geben. 
 
-Sie können Ihre Fremdeinschätzung immer wieder bearbeiten und an Ihre Beobachtungen anpassen. **Tipp: Speichern Sie sich den Link als Lesezeichen!**
+Sie können Ihre Fremdeinschätzung immer wieder bearbeiten und an Ihre Beobachtungen anpassen. 
+
+**Tipp: Speichern Sie sich den Link als Lesezeichen!**
 
 ## Wie führe ich eine Fremdeinschätzung durch?
-Klicken Sie auf den **Button rechts neben einer Kompetenzbeschreibung**, um eine Selbsteinschätzung zu dieser Kompetenz durchzuführen. 
+Klicken Sie auf jeder einzelnen Phase (blau hinterlegt) den Button **einschätzen**, um eine Fremdeinschätzung zu dieser Kompetenz durchzuführen. 
 
-![Klicken Sie diesen Button, um eine Fremdeinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Fremdeinschaetzung_Deatail.jpg)
+![Klicken Sie diesen Button, um eine Fremdeinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Fremdeinschaetzung.jpg)
 
 Zur Einschätzung des Kompetenzvermögens der anderen Person stehen Ihnen vier Niveaustufen zur Verfügung. Wenn Sie eine Kompetenz nicht einschätzen können, wählen Sie die Checkbox **Einschätzung nicht möglich**. 
 
-![Übersicht der Funktionen zur Durchführung einer Fremdeinschätzung](media/Fremdeinschaetzung.jpg)
+![Übersicht der Funktionen zur Durchführung einer Fremdeinschätzung](media/Fremdeinschaetzung_Deatail.jpg)
 
 Die Niveaustufen beziehen sich auf beobachtbare Handlungen im Rahmen der Auftragsbearbeitung, zu deren Ausführung die beschriebenen Kompetenzen benötigt werden. 
 
