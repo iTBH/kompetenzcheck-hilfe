@@ -1,12 +1,12 @@
 # Selbsteinschätzung
 - - -
-Auf dieser Seite führen Sie eine Selbsteinschätzung zu den im Check beschriebenen Kompetenzen durch.(brauchen wir den satz)
+Auf dieser Seite führen Sie eine Selbsteinschätzung zu den im Check beschriebenen Kompetenzen durch.(brauchen wir den Satz)
 
 ## Was ist eine Selbsteinschätzung?
 
 Bei einer Selbsteinschätzung bewerten Sie bzw. schätzen Sie Ihre Fähigkeiten und Kompetenzen zu einem bestimmten Zeitpunkt ein. 
 Es handelt sich somit um eine Bestandsaufnahme Ihres Könnens im Rahmen einer bestimmten Situation: 
-z. B. wärend der Bearbeitung eines spezifischen Arbeitsauftrages.
+z. B. während der Bearbeitung eines spezifischen Arbeitsauftrages.
 
 Im ContinuING Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen: 
 * Die **erste Selbsteinschätzung** führen Sie, je nach Szenario, **vor** der Auftragsbearbeitung oder dem Auswertungsgespräch durch. Mit der ersten Selbsteinschätzung startet die Durchführung eines Checks. Die erste Selbsteinschätzung kann nach dem Speichern **nicht** mehr bearbeitet werden.
@@ -24,11 +24,11 @@ Zur Einschätzung Ihres Könnens wählen Sie pro Kompetenzbeschreibung eines der
 ![Klicken Sie diesen Button, um eine Selbsteinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Selbsteinschaetzung.jpg)
 
 * **Ich kann das noch nicht und brauche umfassende Unterstützung**: Sie haben bisher noch keine Erfahrungen gesammelt und führen die Handlungen zum ersten Mal durch, daher benötigen Sie Hilfestellung oder Anleitung durch eine weitere Person
-* **Ich kann das erst ein bischen und brauche noch relativ viel Unterstützung**: Sie verfügen bereits über erste Erfahrungen, fühlen sich aber sicherer, wenn eine weitere Person Sie unterstützt z.B. durch Anleitung oder Beantwortung von Fragen
+* **Ich kann das erst ein bisschen und brauche noch relativ viel Unterstützung**: Sie verfügen bereits über erste Erfahrungen, fühlen sich aber sicherer, wenn eine weitere Person Sie unterstützt z.B. durch Anleitung oder Beantwortung von Fragen
 * **Ich kann das schon relativ gut und brauche nur noch wenig Unterstützung**: Sie haben schon viele Erfahrungen gesammelt, können die Handlungen selbstständig durchführen und möchten evtl. nur einzelne Rückfragen stellen.
 * **Ich kann das sehr gut und brauche keine weitere Unterstützung**: Sie haben schon so viele Erfahrungen gesammelt, dass Sie die Handlungen selbstständig und ohne weitere Hilfestellung durchführen können.
 
-Indem Sie eine Niveausstufe (Kreissymbol) anklicken halten Sie fest, wie gut Sie die beschriebene Kompetenz zum aktuellen Zeitpunkt beherrschen. 
+Indem Sie eine Niveaustufe (Kreissymbol) anklicken halten Sie fest, wie gut Sie die beschriebene Kompetenz zum aktuellen Zeitpunkt beherrschen. 
 Führen Sie eine Selbsteinschätzung bestmöglich eigenständig und ohne die Hilfe Dritter durch.
 
 Schreiben Sie einen **Kommentar** zu jeder Einschätzung, damit Sie im Auswertungsgespräch nachvollziehen können, warum Sie sich so eingeschätzt haben. 
