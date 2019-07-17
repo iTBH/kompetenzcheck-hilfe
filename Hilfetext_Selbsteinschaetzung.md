@@ -1,6 +1,6 @@
 # Selbsteinschätzung
 - - -
-Auf dieser Seite führen Sie eine Selbsteinschätzung zu den im Check beschriebenen Kompetenzen durch.(brauchen wir den Satz)
+Auf dieser Seite führen Sie eine Selbsteinschätzung zu den im Check beschriebenen Kompetenzen durch.(brauchen wir den Satz// Nein)
 
 ## Was ist eine Selbsteinschätzung?
 
@@ -15,7 +15,7 @@ Im ContinuING Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen:
 ## Wie führe ich eine Selbsteinschätzung durch?
 Um eine Selbsteinschätzung durchzuführen schätzen Sie z. B. auf Grundlage Ihrer Vorerfahrungen zu dem Thema oder Arbeitsauftrag ein, wie gut Sie die beschriebenen Kompetenzen beherrschen. Erinnern Sie sich hierfür an Situationen oder Arbeitsaufträge, in denen sie diese oder ähnliche Handlungen bereits durchgeführt haben. Um welche Auftragssituation es sich handelt erfahren Sie unter dem Punkt **Auftragsbeschreibung**.  
 
-Klicken Sie auf jeder einzelnen Phase (blau hinterlegt) den Button **einschätzen**, um eine Selbsteinschätzung zu dieser Kompetenz durchzuführen. Durch klicken der einzelnen Phasen wechseln Sie diese. 
+Klicken Sie auf jeder einzelnen Phase (blau hinterlegt) den Button **einschätzen**, um eine Selbsteinschätzung zu dieser Kompetenz durchzuführen. Durch klicken der einzelnen Phasen wechseln Sie diese. *// Wie bei Fremdeinschätzung. Bitte umformulieren*
 
 ![Klicken Sie diesen Button, um eine Selbsteinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Selbsteinschaetzung.jpg)
 
