@@ -1,6 +1,5 @@
 # Selbsteinschätzung
 - - -
-Auf dieser Seite führen Sie eine Selbsteinschätzung zu den im Check beschriebenen Kompetenzen durch.(brauchen wir den Satz// Nein)
 
 ## Was ist eine Selbsteinschätzung?
 
