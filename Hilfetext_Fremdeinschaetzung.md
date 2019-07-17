@@ -29,8 +29,7 @@ Indem Sie eine Niveausstufe (Kreissymbol) anklicken, halten Sie Ihrer Wahrnehmun
 
 Schreiben Sie einen **Kommentar** zu jeder Einschätzung, damit Sie im Auswertungsgespräch nachvollziehen können, warum Sie die Person so eingeschätzt haben. 
 
-Beenden Sie die gesamte Fremdeinschätzung, indem Sie den Button **Einschätzung abschließen** klicken. Ihre erste Fremdeinschätzung ist nun gespeichert und kann **nicht** mehr bearbeitet werden. // *Die Durchführung des ContinuING Kompetenz-Check kann beginnen. Löschen*
-
+Beenden Sie die gesamte Fremdeinschätzung, indem Sie den Button **Einschätzung abschließen** klicken. Ihre erste Fremdeinschätzung ist nun gespeichert und kann **nicht** mehr bearbeitet werden.
 
 ## Wie geht es nach der Fremdeinschätzung weiter?
 * **Zum Auswertungsgespräch auffordern**: Fordern Sie die Person, welche Sie zur Fremdeinschätzung eingeladen hat auf, den Check abzuschließen und gemeinsam mit Ihnen im Auswertungsgespräch die Selbst- und Fremdeinschätzungen zu besprechen.
