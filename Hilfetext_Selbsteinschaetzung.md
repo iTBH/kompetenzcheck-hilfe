@@ -38,9 +38,9 @@ Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen (Phasen) im Check un
 ## Wie geht es nach der ersten Selbsteinschätzung weiter?
 Sobald Sie Ihre erste Selbsteinschätzung bzw. eine weitere Selbsteinschätzung gespeichert haben, gelangen Sie wieder auf die Seite **Dashboard**. 
 Rechts neben dem Check werden Ihnen nun weitere **Aktionsmöglichkeiten** angeboten:
-* Eine weitere Selbsteinschätzung durchführen: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Weitere Selbsteinschätzung durchführen**.
-* Eine Fremdeinschätzung einfordern: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Jemanden zu einer Fremdeinschätzung einladen**.
-* Den ContinuING Kompetenz-Check beenden und die Auswertung starten: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Alle Einschätzungen abschließen: Auswertung beginnen**.
+* Eine weitere Selbsteinschätzung durchführen: Wählen Sie bei "Checks im Überblick" die Aktionsmöglichkeit **Weitere Selbsteinschätzung durchführen**.
+* Eine Fremdeinschätzung einfordern: Wählen Sie bei "Checks im Überblick" die Aktionsmöglichkeit **Jemanden zu einer Fremdeinschätzung einladen**.
+* Den ContinuING Kompetenz-Check beenden und die Auswertung starten: Wählen Sie bei "Checks im Überblick" die Aktionsmöglichkeit **Alle Einschätzungen abschließen: Auswertung beginnen**.
 
 ## Warum sollte ich weitere Selbsteinschätzungen durchführen?
 
