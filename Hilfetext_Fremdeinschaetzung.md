@@ -10,7 +10,7 @@ Sie können Ihre Fremdeinschätzung immer wieder bearbeiten und an Ihre Beobacht
 **Tipp: Speichern Sie sich den Link als Lesezeichen!**
 
 ## Wie führe ich eine Fremdeinschätzung durch?
-Klicken Sie auf jeder einzelnen Phase (blau hinterlegt) den Button **einschätzen**, um eine Fremdeinschätzung zu dieser Kompetenz durchzuführen. Durch klicken der einzelnen Phasen wechseln Sie diese.
+Klicken Sie rechts neben jeder Kompetenzbeschreibung auf den Button einschätzen, um eine Fremdeinschätzung zu dieser Kompetenz durchzuführen. Evtl. sind die Kompetenzbeschreibungen des Checks mehreren Phasen bzw. Reitern zugeordnet. Wechseln Sie zwischen den einzelnen Phasen, um alle Kompetenzen einzuschätzen (aktivierte Reiter sind blau).
 
 ![Klicken Sie diesen Button, um eine Fremdeinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Fremdeinschaetzung.jpg)
 
