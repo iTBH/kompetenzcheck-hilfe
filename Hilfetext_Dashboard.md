@@ -10,7 +10,7 @@ Ein Check kann alleine, mit einer weiteren Person, oder auch mit einer Gruppe du
 Mit Abschluss aller gewünschten Selbst- und Fremdeinschätzungen können der Check beendet und die erfassten Daten ausgewertet werden. 
 Diese Check-Auswertung dient dann als Grundlage zur Besprechung und Reflexion des Arbeits- bzw. Forschungsprozesses.
 
-![Übersicht der Funktionen zur Erstellung eines Checks](media/check_erstellen_klein.png =200x200)
+![Übersicht der Funktionen zur Erstellung eines Checks](media/check_erstellen_klein.png)
 
 Dabei bezieht sich ein Check immer auf eine **spezifische Handlungssituation**, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages, und beinhaltet die in der 
 jeweiligen Situation benötigten **Handlungskompetenzen**.
