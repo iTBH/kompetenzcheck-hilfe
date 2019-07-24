@@ -2,7 +2,7 @@
 - - -
 Auf dieser Seite erstellen Sie einen neuen Check. Sie können einen Check zur Selbstevaluation oder für weitere Personen erstellen, welche Sie dann in die folgenden Schritte miteinbeziehen sollten. Die Durchführung eines Checks erfolgt idealerweise parallel zur Bearbeitung des Arbeits- oder Forschungsauftrages. 
 
-## Wie erstelle ich einen Check?
+## Wie erstellen Sie einen Check?
 
 ### 1. Schritt: Arbeits- bzw. Forschungsauftrag beschreiben
 Um ein gemeinsames Verständnis aller Beteiligten über den Check zu erreichen, wird die zugrunde liegende Handlungssituation ausführlich in den Punkten Kurztitel, 
@@ -59,7 +59,7 @@ Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beac
 der Selbstevaluation bestmöglich erfassen zu können.
 Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (Selbsteinschätzung) und zur Beobachtung des Könnens einer anderen Person (Fremdeinschätzung). 
 
-#### Wie formuliere ich eine Kompetenzbeschreibung?
+#### Wie formulieren Sie eine Kompetenzbeschreibung?
 Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Lern- oder Arbeitsprozess haben und möglichst genau die auszuführende, bzw. zu beobachtende Handlung beschreiben. 
 Eine Kompetenzbeschreibung muss immer in der 3. Person singular und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren) formuliert werden. <a href="https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-hilfe/media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Beispielverben für die Kompetenzbeschreibung</a>
 
