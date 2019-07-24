@@ -3,12 +3,12 @@
 Check-Partner/innen sind die Personen, denen Sie einen Check zuweisen oder die Sie zur Fremdeinschätzung einladen wollen bzw. von denen Sie bereits einen Check zugewiesen bekommen haben oder zur Fremdeinschätzung eingeladen wurden. Die Verwaltung erleichtert Ihnen die Arbeit mit dem ContinuING Kompetenz-Check, indem Sie schnell auf häufig genutzte Kontakte zugreifen können.
 
 
-## Wie lege ich einen neuen Kontakt an?
+## Wie legen Sie einen neuen Kontakt an?
 
 Sie legen neue Check-Partner/innen durch Angabe des Vor- und Nachnamens sowie der E-Mail-Adresse an. 
 
 
-## Wie bearbeite ich bereits vorhandene Partner/innen?
+## Wie bearbeiten Sie bereits vorhandene Partner/innen?
 
 Zur Verwaltung bereits angelegter Partner/innen stehen Ihnen zwei Aktionen zur Verfügung: **Bearbeiten** oder **Löschen**.
 
