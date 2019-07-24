@@ -1,3 +1,7 @@
+### Schlagwörter
+
+---
+
 ## Was sind Schlagwörter?
 Ein Schlagwort ist ein frei zu vergebener Begriff, um Inhalte zu kategorisieren und zu kennzeichnen. Schlagworte werden auch als "Tags" bezeichnet. Im ContinuING Kompetenz-Check können Sie einem Check Schlagwörter hinzufügen, um Ihre Checks inhaltlich zu sortieren. Als Schlagwörter eignen sich z.B. Begriffe, die sich inhaltlich auf den Titel, den Verwendungszweck, den Arbeitsauftrag zum Check oder die Zielgruppe des Checks beziehen.
 
