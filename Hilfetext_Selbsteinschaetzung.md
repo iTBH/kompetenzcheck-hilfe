@@ -11,7 +11,7 @@ Im ContinuING Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen:
 * Die **erste Selbsteinschätzung** führen Sie, je nach Szenario, **vor** der Auftragsbearbeitung oder dem Auswertungsgespräch durch. Mit der ersten Selbsteinschätzung startet die Durchführung eines Checks. Die erste Selbsteinschätzung kann nach dem Speichern **nicht** mehr bearbeitet werden.
 * Nachdem Sie die erste Selbsteinschätzung durchgeführt haben, können Sie beliebig viele **weitere Selbsteinschätzungen** durchführen. Fügen Sie jeder Einschätzung einen **Kommentar** hinzu, um festzuhalten, warum Sie sich zu diesem Zeitpunkt so einschätzen. Weitere Selbsteinschätzungen können Sie bis zum Abschluss des Checks immer wieder bearbeiten.
 
-## Wie führe ich eine Selbsteinschätzung durch?
+## Wie führen Sie eine Selbsteinschätzung durch?
 Um eine Selbsteinschätzung durchzuführen schätzen Sie z. B. auf Grundlage Ihrer Vorerfahrungen zu dem Thema oder Arbeitsauftrag ein, wie gut Sie die beschriebenen Kompetenzen beherrschen. Erinnern Sie sich hierfür an Situationen oder Arbeitsaufträge, in denen sie diese oder ähnliche Handlungen bereits durchgeführt haben. Um welche Auftragssituation es sich handelt erfahren Sie unter dem Punkt **Auftragsbeschreibung**.  
 
 Klicken Sie rechts neben jeder Kompetenzbeschreibung auf den Button einschätzen, um eine Selbsteinschäzung zu dieser Kompetenz durchzuführen. Evtl. sind die Kompetenzbeschreibungen des Checks mehreren Phasen bzw. Reitern zugeordnet. Wechseln Sie zwischen den einzelnen Phasen, um alle Kompetenzen einzuschätzen (aktivierte Reiter sind blau).
@@ -42,17 +42,17 @@ Rechts neben dem Check werden Ihnen nun weitere **Aktionsmöglichkeiten** angebo
 * Eine Fremdeinschätzung einfordern: Wählen Sie die Aktionsmöglichkeit **Jemanden zu einer Fremdeinschätzung einladen**.
 * Den ContinuING Kompetenz-Check beenden und die Auswertung starten: Wählen Sie die Aktionsmöglichkeit **Alle Einschätzungen abschließen: Auswertung beginnen**.
 
-## Warum sollte ich weitere Selbsteinschätzungen durchführen?
+## Warum sollten Sie weitere Selbsteinschätzungen durchführen?
 
 Führen Sie weitere Selbsteinschätzungen während der Auftragsbearbeitung durch, wenn Sie herausfinden wollen, wie sich Ihr Können bzw. die Wahrnehmung Ihres Könnens über einen bestimmten Zeitraum verändert. 
 Schätzen Sie dann nur die Kompetenzen ein, die Sie gerade in der Auftragsbearbeitung eingesetzt haben, z. B. nur in der Auftragsanalyse oder Planungsphase.
 Führen Sie eine weitere Selbsteinschätzung durch, **bevor Sie den Check abschließen**. So erfahren Sie, ob sich Ihr Können im Vergleich zur ersten Selbsteinschätzung verändert hat.
 Sie können jede weitere Selbsteinschätzung bis zum Abschluss des Checks immer wieder bearbeiten. Notieren Sie dann die Begründungen zur Veränderung Ihrer Selbsteinschätzung im Kommentarfeld.
 
-## Warum kann ich meine erste Selbsteinschätzung nach dem Speichern nicht mehr einsehen oder bearbeiten?
+## Warum können Sie Ihre erste Selbsteinschätzung nach dem Speichern nicht mehr einsehen oder bearbeiten?
 Ihre erste Selbsteinschätzung ist eine Momentaufnahme Ihres Könnens zu Beginn jedes Checks. Typischerweise führen Sie die erste Selbsteinschätzung vor der Bearbeitung eines Auftrages oder eines längeren Lernprozesses durch. Wir wollen Ihnen die Möglichkeit geben, Ihr Können in weiteren Selbsteinschätzungen immer wieder neu einzuschätzen. Das Ergebnis Ihrer ersten Selbsteinschätzung sehen Sie, **wenn Sie den Check abschließen**.
 In der Check-Auswertung werden alle Selbst- und Fremdeinschätzungen der ersten Selbsteinschätzung gegenüber gestellt. So erfahren Sie, ob sich Ihre Einschätzungen im Verlauf der Check-Durchführung verändert haben, oder ob es Unterschiede zwischen Selbst- und Fremdeinschätzungen gibt.
 
-## Wer sieht meine Selbsteinschätzungen?
+## Wer sieht Ihre Selbsteinschätzungen?
 Ihre Selbsteinschätzungen gehören Ihnen! Keine weitere Person kann diese einsehen. Bei der Auswertung des Checks bestimmen Sie über die Zusammenstellung der Daten für das Auswertungsgespräch.
 
