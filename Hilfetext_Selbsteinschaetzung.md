@@ -36,11 +36,11 @@ Speichern Sie Ihre Einschätzung, indem Sie den Button **Einschätzung speichern
 Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen (Phasen) im Check und beenden Sie die gesamte Selbsteinschätzung, indem Sie den Button **Einschätzung abschließen** klicken. Ihre erste Selbsteinschätzung ist nun gespeichert und kann nicht mehr bearbeitet werden. Die Durchführung des ContinuING Kompetenz-Check kann beginnen.
 
 ## Wie geht es nach der ersten Selbsteinschätzung weiter?
-Sobald Sie Ihre erste Selbsteinschätzung bzw. eine weitere Selbsteinschätzung gespeichert haben, gelangen Sie wieder auf die Seite **Dashboard**. 
+Sobald Sie Ihre erste Selbsteinschätzung bzw. eine weitere Selbsteinschätzung gespeichert haben, gelangen Sie wieder auf die Seite **Checks im Überblick**. 
 Rechts neben dem Check werden Ihnen nun weitere **Aktionsmöglichkeiten** angeboten:
-* Eine weitere Selbsteinschätzung durchführen: Wählen Sie bei "Checks im Überblick" die Aktionsmöglichkeit **Weitere Selbsteinschätzung durchführen**.
-* Eine Fremdeinschätzung einfordern: Wählen Sie bei "Checks im Überblick" die Aktionsmöglichkeit **Jemanden zu einer Fremdeinschätzung einladen**.
-* Den ContinuING Kompetenz-Check beenden und die Auswertung starten: Wählen Sie bei "Checks im Überblick" die Aktionsmöglichkeit **Alle Einschätzungen abschließen: Auswertung beginnen**.
+* Eine weitere Selbsteinschätzung durchführen: Wählen Sie die Aktionsmöglichkeit **Weitere Selbsteinschätzung durchführen**.
+* Eine Fremdeinschätzung einfordern: Wählen Sie die Aktionsmöglichkeit **Jemanden zu einer Fremdeinschätzung einladen**.
+* Den ContinuING Kompetenz-Check beenden und die Auswertung starten: Wählen Sie die Aktionsmöglichkeit **Alle Einschätzungen abschließen: Auswertung beginnen**.
 
 ## Warum sollte ich weitere Selbsteinschätzungen durchführen?
 
