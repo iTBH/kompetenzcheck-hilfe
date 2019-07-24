@@ -33,7 +33,7 @@ Führen Sie eine Selbsteinschätzung bestmöglich eigenständig und ohne die Hil
 Schreiben Sie einen **Kommentar** zu jeder Einschätzung, damit Sie im Auswertungsgespräch nachvollziehen können, warum Sie sich so eingeschätzt haben. 
 
 Speichern Sie Ihre Einschätzung, indem Sie den Button **Einschätzung speichern** klicken.
-Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen (Phasen) im Check und beenden Sie die gesamte Selbsteinschätzung, indem Sie den Button **Einschätzung abschließen** klicken. Ihre erste Selbsteinschätzung ist nun gespeichert und kann nicht mehr bearbeitet werden. Die Durchführung des ContinuING Kompetenz-Check kann beginnen.
+Verfahren Sie so mit allen weiteren Kompetenzbeschreibungen (Phasen) im Check und beenden Sie die gesamte Selbsteinschätzung, indem Sie den Button **Einschätzung abschließen** klicken. Ihre erste Selbsteinschätzung ist nun gespeichert und kann **nicht** mehr bearbeitet werden. Die Durchführung des ContinuING Kompetenz-Check kann beginnen.
 
 ## Wie geht es nach der ersten Selbsteinschätzung weiter?
 Sobald Sie Ihre erste Selbsteinschätzung bzw. eine weitere Selbsteinschätzung gespeichert haben, gelangen Sie wieder auf die Seite **Checks im Überblick**. 
