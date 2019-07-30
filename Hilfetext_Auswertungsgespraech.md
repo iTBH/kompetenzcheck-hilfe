@@ -1,20 +1,20 @@
 # Auswertung des Checks
 - - -
-Sie haben den Check beendet und somit alle Selbst- und Fremdeinschätzungen abgeschlossen. Auf dieser Seite sehen Sie die Auswertung der erfassten Daten zum durchgeführten 
-Arbeitsauftrag. 
-
-![Übersicht der Auswertungsseite](media/Auswertung_Screen.jpg)
-
+Sie haben den Check beendet und somit alle Selbst- und Fremdeinschätzungen abgeschlossen. Auf dieser Seite sehen Sie die Auswertung der erfassten Daten zum durchgeführten Arbeitsauftrag. 
 
 ## Was ist die Check-Auswertung?
 Diese Seite zeigt die Ergebnisse des Checks aus zwei Perspektiven:
-* **Die Prozessansicht des Checks** visualisiert die Summe aller Selbst- und Fremdeinschätzungen pro Check-Phase und Kompetenzdimension (Fach- und Personale Kompetenz). 
-Hier erkennen Sie bereits auf einen Blick erste Unterschiede und Gemeinsamkeiten der Selbst- sowie Fremdeinschätzungen.
+* **Die Prozessansicht des Checks** visualisiert die Summe aller Selbst- und Fremdeinschätzungen pro Check-Phase und Kompetenzdimension (Fach- und Personale Kompetenz).
+
+![Übersicht der Auswertungsseite](media/auswertung_prozessansicht.png)
+
+* Hier erkennen Sie bereits auf einen Blick erste Unterschiede und Gemeinsamkeiten der Selbst- sowie Fremdeinschätzungen.
+
 * **Die Detaillansicht eines Checks** zeigt die einzelnen Selbst- und Fremdeinschätzungen pro Check-Phase mit Kommentaren an. 
 
-Nutzen Sie sowohl die Prozessansicht, als auch die Detailansicht für das **Auswertungsgespräch**
+![Übersicht der Auswertungsseite](media/auswertung_detailansicht.png)
 
-![Übersicht über das Material zum Auswertungsgespräch](media/Auswertung.jpg)
+Nutzen Sie sowohl die Prozessansicht, als auch die Detailansicht für das **Auswertungsgespräch**
 
 ## Wie und mit wem führe ich das Auswertungsgespräch?
 
