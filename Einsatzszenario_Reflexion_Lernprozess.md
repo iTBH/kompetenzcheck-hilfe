@@ -6,23 +6,23 @@ In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernproz
 
 ## Das Einsatzszenario ist für folgende Lehr-Lernkontexte im Hochschulbereich geeignet
 
-**Verwendungszweck:** Das Szenario eignet sich im Rahmen der Reflexion am Ende einer Lehrveranstaltung. Im Gegensatz zu "üblichen" Reflexionen oder Evaluationen, die einzig die Lehrveranstaltung in den Blick nehmen, ermöglicht das Szenario eine Verknüpfung des individuellen Lernprozesses mit anvisierten Lernergebnissen und der Gestaltung der Lehrveranstaltung. 
+* **Verwendungszweck:** Das Szenario eignet sich im Rahmen der Reflexion am Ende einer Lehrveranstaltung. Im Gegensatz zu "üblichen" Reflexionen oder Evaluationen, die einzig die Lehrveranstaltung in den Blick nehmen, ermöglicht das Szenario eine Verknüpfung des individuellen Lernprozesses mit anvisierten Lernergebnissen und der Gestaltung der Lehrveranstaltung. 
 
-**Ziel Lehrende:** Einblick in Lernprozess, begründetes Veranstaltungsfeedback, Ideen zur kompetenzorientierten Weiterentwicklung der Lehrveranstaltung.
+* **Ziel Lehrende:** Einblick in Lernprozess, begründetes Veranstaltungsfeedback, Ideen zur kompetenzorientierten Weiterentwicklung der Lehrveranstaltung.
 
-**Ziel Lernende:** Reflexion von Kompetenzentwicklung, Entwicklung von Handlungsalternativen im Lernprozess
+* **Ziel Lernende:** Reflexion von Kompetenzentwicklung, Entwicklung von Handlungsalternativen im Lernprozess
 
-**Format:** Jede Lehrveranstaltung, jedes Weiterbildungsangebot
+* **Format:** Jede Lehrveranstaltung, jedes Weiterbildungsangebot
 
-**Verortung im Lehr-Lernprozess:** Beginn (Präsenz oder Online) & Ende (Präsenz)
+* **Verortung im Lehr-Lernprozess:** Beginn (Präsenz oder Online) & Ende (Präsenz)
 
-**Anzahl Lernende: **Studierendengruppen und Einzelpersonen
+* **Anzahl Lernende:** Studierendengruppen und Einzelpersonen
 
-**Anzahl Selbsteinschätzungen:** 2
+* **Anzahl Selbsteinschätzungen:** 2
 
-**Anzahl Fremdeinschätzungen:** 0 bzw. individuell nach Bedarf
+* **Anzahl Fremdeinschätzungen:** 0 bzw. individuell nach Bedarf
 
-**Zeitumfang:** Bei Studierendengruppen: Auftaktveranstaltung ca. 30 Min., Abschlussveranstaltung ca. 45 Min.
+* **Zeitumfang:** Bei Studierendengruppen: Auftaktveranstaltung ca. 30 Min., Abschlussveranstaltung ca. 45 Min.
 
 
 ## Vorbereitung des Einsatzszenarios
