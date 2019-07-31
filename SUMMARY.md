@@ -1,8 +1,8 @@
-# Summary
+## Einführung
 
-- [Einführung](README.md)
+- [Der Kompetenz-Check stellt sich vor](README.md)
 
-## Handhabung 
+## Arbeit mit dem Kompetenz-Check 
 - [Dashboard](Hilfetext_Dashboard.md)
 
     - [Dashboard: Check im Detail](Hilfetext_Check_Detail.md)
@@ -21,13 +21,10 @@
     
 - [Auswertung](Hilfetext_Auswertungsgespraech.md)
 
-- [Profil](Hilfetext_Profil.md)
+- [Profil, Passwort ändern & Account löschen](Hilfetext_Profil.md)
 - [Partner und Partnerinnen](Hilfetext_Partner_und_Partnerinnen.md)
 - [Schlagwörter](Hilfetext_Schlagwoerter.md)
 
-## Didaktische Einsatzszenarien
+## Ideen für den didaktischen Einsatz
 - [Lernprozessreflexion & Veranstaltungsfeedback](Einsatzszenario_Reflexion_Lernprozess.md)
 
-## Weiterführende Informationen
-- [Weiterführende Informationen](Informationen.md)
-- [Impressum](Impressum.md)
