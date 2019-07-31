@@ -4,6 +4,8 @@
 
 In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernprozess anhand der Check-Auswertung und leiten Handlungsalternativen für sich selber, aber auch für die Gestaltung der Lernsituation ab. Auf Grundlage der Reflexionen der Lernenden kann die Lehrperson dann in einen zielgerichteten Austausch über anvisierte Lernergebnisse, subjektiv wahrgenommene Lernerfolge und Hürden sowie die Gestaltung der Lehrveranstaltung mit den Lernenden treten. Daraus können individuelle Förderangebote für die Lernenden abgeleitet und die Lehrveranstaltung weiterentwickelt werden.
 
+
+
 **Rahmen der Szenarioentwicklung**
 
 Das Szenario wurde im Wintersemester 2016/17 im ersten Bachelorsemester in den beruflichen Fachrichtungen Elektrotechnik-Informationstechnik und Medientechnik zuerst in der Veranstaltung "Begleitband" durchgeführt und im zweiten Mastersemester mit Studierenden der beruflichen Fachrichtungen Elektrotechnik-Informationstechnik, Metalltechnik und Medientechnik leicht angepasst erneut erprobt. 
