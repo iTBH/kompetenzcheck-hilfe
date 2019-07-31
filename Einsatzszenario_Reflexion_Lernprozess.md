@@ -1,22 +1,31 @@
-# Einsatzszenario zur Reflexion des individuellen Lernprozesses in einer Lernsituation
+# Einsatzszenario: Reflexion des individuellen Lernprozesses & Veranstaltungsfeedback
 
 - - -
 
-In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernprozess anhand der Check-Auswertung und leiten Handlungsalternativen für sich selber, aber auch für die Gestaltung der Lernsituation ab. Auf Grundlage der Reflexionen der Lernenden kann die Lehrperson dann in einen zielgerichteten Austausch über anvisierte Lernergebnisse, subjektiv wahrgenommene Lernerfolge und Hürden sowie die Gestaltung der Lehrveranstaltung mit den Lernenden treten. Daraus können individuelle Förderangebote für die Lernenden abgeleitet und die Lehrveranstaltung weiterentwickelt werden.
+In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernprozess und den Grad der Kompetenzentwicklung anhand der Check-Auswertung und leiten Handlungsalternativen für sich selber, aber auch für die Gestaltung der Lehrveranstaltung ab. Auf Grundlage der Reflexionen der Lernenden kann die Lehrperson dann in einen zielgerichteten Austausch über anvisierte Lernergebnisse, subjektiv wahrgenommene Lernerfolge und Hürden sowie die Gestaltung der Lehrveranstaltung mit den Lernenden treten. Daraus können individuelle Förderangebote für die Lernenden abgeleitet und das Lehrangebot weiterentwickelt werden.
+
+## Das Einsatzszenario ist für folgende Lehr-Lernkontexte im Hochschulbereich geeignet
+
+**Verwendungszweck:** Das Szenario eignet sich im Rahmen der Reflexion am Ende einer Lehrveranstaltung. Im Gegensatz zu "üblichen" Reflexionen oder Evaluationen, die einzig die Lehrveranstaltung in den Blick nehmen, ermöglicht das Szenario eine Verknüpfung des individuellen Lernprozesses mit anvisierten Lernergebnissen und der Gestaltung der Lehrveranstaltung. 
+
+**Ziel Lehrende:** Einblick in Lernprozess, begründetes Veranstaltungsfeedback, Ideen zur kompetenzorientierten Weiterentwicklung der Lehrveranstaltung.
+
+**Ziel Lernende:** Reflexion von Kompetenzentwicklung, Entwicklung von Handlungsalternativen im Lernprozess
+
+**Format:** Jede Lehrveranstaltung, jedes Weiterbildungsangebot
+
+**Verortung im Lehr-Lernprozess:** Beginn (Präsenz oder Online) & Ende (Präsenz)
+
+**Anzahl Lernende: **Studierendengruppen und Einzelpersonen
+
+**Anzahl Selbsteinschätzungen:** 2
+
+**Anzahl Fremdeinschätzungen:** 0 bzw. individuell nach Bedarf
+
+**Zeitumfang:** Bei Studierendengruppen: Auftaktveranstaltung ca. 30 Min., Abschlussveranstaltung ca. 45 Min.
 
 
-
-**Rahmen der Szenarioentwicklung**
-
-Das Szenario wurde im Wintersemester 2016/17 im ersten Bachelorsemester in den beruflichen Fachrichtungen Elektrotechnik-Informationstechnik und Medientechnik zuerst in der Veranstaltung "Begleitband" durchgeführt und im zweiten Mastersemester mit Studierenden der beruflichen Fachrichtungen Elektrotechnik-Informationstechnik, Metalltechnik und Medientechnik leicht angepasst erneut erprobt. 
-
-## 1. Zielgruppe des Einsatzszenarios
-Das Einsatzszenario wurde zunächst mit Studierenden der beruflichen Fachrichtungen Elektrotechnik-Informationstechnik, Medientechnik und Medientechnik im ersten Bachelor-Semester und ersten Master-Semester erprobt. Ein Transfer auf den berufsschulischen Kontext erscheint möglich.
-
-## 2. Verwendungszweck
-Das Szenario eignet sich im Rahmen der Reflexion am Ende einer Lernsituation. Im Gegensatz zu "üblichen" Reflexionen oder Evaluationen, die einzig die Lehrveranstaltung in den Blick nehmen, ermöglicht das Szenario eine Verknüpfung des individuellen Lernprozesses mit anvisierten Lernergebnissen und der Gestaltung der Lernsituation. Als Ergebnis liegen sowohl für die Lerner, als auch für die Lehrenden Handlungsalternativen und Ideen vor.
-
-## 3. Vorbereitung: Durchführung des Kompetenz-Checks in der Lehrveranstaltung
+## Vorbereitung des Einsatzszenarios
 **Erste Selbsteinschätzung**: Der Kompetenz-Check wird in den Lehrveranstaltungen in der ersten Sitzung vorgestellt, die Lernenden registrieren sich und führen die erste Selbsteinschätzung in der Sitzung durch. Sie werden gebeten ihre Selbsteinschätzungen zu kommentieren, um später nachvollziehen zu können, warum sie sich zu Beginn so eingeschätzt haben (Bezug zu Vorerfahrungen).
 Erfahrungen haben gezeigt, dass vor der ersten Selbsteinschätzung eine Einführung in die Lehrveranstaltung (Lernergebnisse, Inhalte, Ablauf, Prüfung) wichtig für die Lernenden ist, um das Ziel des Kompetenz-Checks nachvollziehen und die formulierten Kompetenzbeschreibungen verstehen zu können. Die Kompetenzbeschreibungen im Check sind mit den Lernergebnissen der Lehrveranstaltung identisch.
 
