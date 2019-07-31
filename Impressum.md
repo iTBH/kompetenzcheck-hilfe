@@ -4,7 +4,11 @@ Institut für Technische Bildung und Hochschuldidaktik (G-3)
 Am Irrgarten 3-9 (Gebäude Q)  
 21073 Hamburg
 
-**März 2017**
+**Webseite:** [www.itbh-hh.de](http://itbh-hh.de/)
+
+**Kontakt:** <h.klaffke@tuhh.de>
+
+Juli 2019
 
 ## Nutzungsbedingungen
 
