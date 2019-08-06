@@ -18,13 +18,21 @@ Nutzen Sie sowohl die Prozessansicht, als auch die Detailansicht für das **Ausw
 
 ## Wie und mit wem führe ich das Auswertungsgespräch?
 
-Bitten Sie die Person(en), die Sie fremdeingeschätzt hat/haben, zu einem Gespräch, um gemeinsam die Ergebnisse des ContinuING Kompetenz-Check zu besprechen. 
-Im Auswertungsgespräch besprechen Sie zunächst auf Grundlage der Prozessansicht und der Detailansicht mit Ihren Check-Partnern/innen (z. B. Fremdeinschätzer) den durchgeführten Prozess, aufgetretene Herausforderungen und Erfolge.
+### Sie haben den Check selber durchgeführt und möchten nun gemeinsam mit den Check-Partnern und Check-Partnerinnen, die Sie fremdeingeschätzt haben, Ihren Kompetenzentwicklungsprozess besprechen:
 
-Dieser offene und ehrliche Dialog zielt darauf ab, Entwicklungspotenziale zu identifizieren und den Kompetenzentwicklungsprozess der Selbsteinschätzungperson gemeinsam zu gestalten.
-Um dieses Ziel zu erreichen, tauschen Sie sich über Ihre Wahrnehmungen und Beobachtungen während der Check-Durchführung aus und besprechen die Begründungen, die zu den jeweiligen Kompetenzeinschätzungen geführt haben. 
+Bitten Sie die Person(en), die Sie fremdeingeschätzt hat/haben, zu einem Gespräch. Im Auswertungsgespräch besprechen Sie auf Grundlage der **Prozessansicht** und der **Detailansicht** den durchgeführten Prozess, aufgetretene Herausforderungen und Erfolge.
 
-Das Ergebnis des Auswertungsgespräches sind Ihre Entwicklungsziele bzw. die Entwicklungsziele des Selbsteinschätzers bzw. der Selbsteinschätzerin, die Sie im **Arbeitsblatt Zielvereinbarung** festhalten.
+Dieser offene und ehrliche Dialog zielt darauf ab, Entwicklungspotenziale zu identifizieren und Ihren Kompetenzentwicklungsprozess gemeinsam zu gestalten. Um dieses Ziel zu erreichen, tauschen Sie sich über Ihre Wahrnehmungen und Beobachtungen während der Check-Durchführung aus und besprechen die Begründungen, die zu den jeweiligen Einschätzungen geführt haben.
+
+Das Ergebnis des Auswertungsgespräches sind Ihre Entwicklungsziele, die Sie im **Arbeitsblatt Zielvereinbarung** festhalten.
+
+### Sie haben den Check einer Person zugewiesen, oder haben eine Person fremdeingeschätzt:
+
+Bitten Sie diese Person (Selbsteinschätzender) nun zu einem Gespräch, um gemeinsam auf Grundlage der **Prozessansicht** und der **Detailansicht** den durchgeführten Prozess, aufgetretene Herausforderungen und Erfolge zu reflektieren.
+
+Dieser offene und ehrliche Dialog zielt darauf ab, Entwicklungspotenziale zu identifizieren und den Kompetenzentwicklungsprozess der Person gemeinsam zu gestalten. Um dieses Ziel zu erreichen, tauschen Sie sich über Ihre Wahrnehmungen und Beobachtungen während der Check-Durchführung aus und besprechen die Begründungen, die zu den jeweiligen Einschätzungen geführt haben.
+
+Das Ergebnis des Auswertungsgespräches sind individuelle Entwicklungsziele, die Sie im **Arbeitsblatt Zielvereinbarung** festhalten.
 
 ## Diese Materialien unterstützen Sie in der Durchführung des Auswertungsgespräches:
 * **Der Leitfaden zur Durchführung des Auswertungsgespräches** gibt Ihnen nützliche Hinweise und Anregungen zum Gespräch über die Ergebnisse des ContinuING Kompetenz-Checks: <a href="https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-hilfe/media/Hilfetext_Auswertungsgespraech_Leitfaden.pdf" target="_blank">Leitfaden zur Durchführung des Auswertungsgesprächs</a>
