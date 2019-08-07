@@ -18,5 +18,5 @@ Vergeben Sie ein langes und komplexes Passwort mit Buchstaben, Sonderzeichen und
 
 ![Funktionsübersicht der Profilseite](media/passwort_aendern.png)
 
-## Wie löschen Sie Ihren Kompetenz-Check Account?
+## Wie löschen Sie Ihren ContinuING Kompetenz-Check Account?
 Bitte schreiben Sie eine E-Mail mit dem Betreff **Kompetenz-Check Account löschen** unter Angabe Ihrer registrierten E-Mail-Adresse an team@ausbildungsportfolio.net. Sobald Ihre Daten gelöscht wurden, melden wir uns umgehend bei Ihnen zurück.
