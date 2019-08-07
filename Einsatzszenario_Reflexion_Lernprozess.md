@@ -4,6 +4,8 @@
 
 In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernprozess und den Grad der Kompetenzentwicklung anhand der Check-Auswertung und leiten Handlungsalternativen für sich selber, aber auch für die Gestaltung der Lehrveranstaltung ab. Auf Grundlage der Reflexionen der Lernenden kann die Lehrperson dann in einen zielgerichteten Austausch über anvisierte Lernergebnisse, subjektiv wahrgenommene Lernerfolge und Hürden sowie die Gestaltung der Lehrveranstaltung mit den Lernenden treten. Daraus können individuelle Förderangebote für die Lernenden abgeleitet und das Lehrangebot weiterentwickelt werden.
 
+![Einbettung des ContinuING Kompetenz-Check in ein weiterbildendes Studienformat](media/Grafik_KC.jpg)
+
 ## Das Einsatzszenario ist für folgende Lehr-Lernkontexte im Hochschulbereich geeignet
 
 * **Verwendungszweck:** Das Szenario eignet sich im Rahmen der Reflexion am Ende einer Lehrveranstaltung. Im Gegensatz zu "üblichen" Reflexionen oder Evaluationen, die einzig die Lehrveranstaltung in den Blick nehmen, ermöglicht das Szenario eine Verknüpfung des individuellen Lernprozesses mit anvisierten Lernergebnissen und der Gestaltung der Lehrveranstaltung. 
