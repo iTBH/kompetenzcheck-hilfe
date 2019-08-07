@@ -52,42 +52,26 @@ Die zweite Selbsteinschätzung führen die Lernenden vor der Abschlussveranstalt
 
 Die folgende Aufgabenstellung bezieht sich auf eine Studierendengruppe, kann aber auch auf Einzelpersonen übertragen werden.
 
+**a) Arbeitsauftrag Reflexions-Teams**
 
-**4.1 Arbeitsauftrag Reflexions-Teams**:
+Findet euch in 2er-Teams zusammen.
 
-Findet euch in 2er Gruppen zusammen
+Schaut euch gemeinsam eure Check-Auswertung an und identifiziert Auffälligkeiten, z. B. eine sehr positive Veränderung bzw. starker Kompetenzzuwachs oder keine Veränderung bzw. sehr geringer Kompetenzzuwachs.
+* Diskutiert, woran es liegen könnte, dass kein bzw. wenig Kompetenzzuwachs erfolgt ist
+* Haltet die von euch identifizierten Auffälligkeiten und Begründungen stichpunktartig fest
 
-1. Schaut euch gemeinsam eure KC-Auswertung an und identifiziert Auffälligkeiten, z. B. eine sehr
-positive Veränderung bzw. starker Kompetenzzuwachs oder keine Veränderung bzw. sehr geringer
-Kompetenzzuwachs
-2. Fokus Entwicklungsbedarfe: Diskutiert, woran es liegen könnte, dass kein bzw. wenig Kompetenzzuwachs
-erfolgt ist
-3. Haltet die von euch identifizierten Auffälligkeiten und Begründungen stichpunktartig fest
+**b) Arbeitsauftrag Reflexion des Lernprozesses**
 
+Schaut jetzt zurück auf euren Lernprozess und überlegt:
+* Was ihr gebraucht hättet, um einen größeren Lern- oder Kompetenzzuwachs zu erreichen (z. B. spezifische Inhalte oder Methoden)
+* Welche Rahmenbedingungen wären hilfreich gewesen (z. B. mehr Zeit, Tutorium)
+* Was hättet ihr selber tun können, um euren Lernprozess/Kompetenzzuwachs erfolgreicher zu gestalten? 
 
-**4.2 Arbeitsauftrag Reflexion des Lernprozesses**:
+Schreibt eure Überlegungen auf Metaplankarten und ordnet sie an der Metaplanwand an, clustert falls möglich. Eure Ergebnisse werden anschließend im Plenum besprochen.
 
-Schaut jetzt zurück auf euren Lernprozess im ersten Semester und überlegt
+### Varianten des Einsatzszenarios
 
-1. Was ihr gebraucht hättet, um einen größeren Lern- oder Kompetenzzuwachs zu erreichen
-(z. B. spezifische Inhalte)
-2. Welche Rahmenbedingungen wären hilfreich gewesen (z. B. mehr Zeit, Tutorium)
-3. Was hättet ihr tun können, um euren Lernprozess/Kompetenzzuwachs erfolgreicher zu
-gestalten? (z. B. nachfragen)
-
-Schreibt eure Überlegungen auf Metaplankarten und ordnet sie an der Metaplanwand an, clustert falls möglich. Wir besprechen die Punkte anschließend im Plenum.
-
-## 5. Ergebnisse
-Im ersten Bachelor-Semester führte das Einsatzszenario zu folgenden Ergebnissen:
-
-![Ergebnisse im ersten Bachelor-Semester](media/IMAG1407.jpg)
-
-Die einzelnen Punkte wurden von den 2er Teams vorgestellt und um persönliche Erfahrungen ergänzt. Andere Lerner konnten sich dem anschließen und es entstand eine konstruktive Diskussion.
-
-## 6. Reflexion: Herausforderungen und Entwicklungspotenziale bzw. Erweiterungsmöglichkeiten
-Die erfolgreiche Durchführung des Szenarios ist sicherlich von der Lerngruppe, der Lernkultur und des Grades an Reflexivität abhängig: Eine konstruktive und wertschätzende Kultur innerhalb der Lerngruppe und im Zusammenspiel mit den Lehrenden bilden die Grundlage. 
-
-**Ideen**
-
-* Üben des konstruktiven Austausches zu Stärken und Entwicklungsmöglichkeiten in Reflexions-Teams: Evtl. kann es erforderlich sein, einen geschützten Raum zur Reflexion über den eigenen Lernprozess, die Erfolge und Herausforderungen zu bieten. Dafür könnten die Reflexions-Teams schon mit Beginn der Lehrveranstaltung zusammenarbeiten, sich gegenseitig fremdeinschätzen und dadurch den konstruktiven Umgang miteinander üben. 
-* Besprechung der Ergebnisse im Rahmen von Lernstandsgesprächen: Anstelle der Besprechung der Ergebnisse im Plenum, könnten die Ergebnisse der Reflexions-Teams dann im Rahmen von Lernstandsgesprächen einzeln mit den Lehrpersonen besprochen werden.
+* Üben des konstruktiven Austausches zu Stärken und Entwicklungsmöglichkeiten in Reflexions-Teams: Evtl. kann es erforderlich sein, einen geschützten Raum zur Reflexion über den eigenen Lernprozess, die Erfolge und Herausforderungen zu bieten. Dafür könnten die Reflexions-Teams schon mit Beginn der Lehrveranstaltung zusammenarbeiten, sich gegenseitig fremdeinschätzen und dadurch den konstruktiven Umgang miteinander üben.
+* Besprechung der Ergebnisse im Rahmen von Lernstandsgesprächen: Anstelle der Besprechung der Ergebnisse im Plenum, könnten die Ergebnisse der Reflexions-Teams dann im Rahmen von Lernstandsgesprächen einzeln mit den Lehrpersonen bzw. Lernbegleitenden besprochen werden.
+* Den Selbsteinschätzungen können Fremdeinschätzung von Peers, der Lernbegleitung oder weiteren Akteuren gegenüber gestellt werden.
+* Die Lernenden formulieren eigene Lernergebnisse, die sie Im Rahmen des Lehr-Lernprozesses erreichen möchten.
