@@ -9,7 +9,7 @@ Hier können Sie Ihre persönlichen Einstellungen verwalten.
 ## Wie bearbeite Sie Ihre persönlichen Einstellungen?
 Klicken Sie auf das **Bearbeiten-Symbol** oben Rechts. Nun können Sie alle Formularfelder bearbeiten. Schließen Sie die Bearbeitung durch Anklicken des Buttons **Speichern** ab.
 
-## Wie ändern Sie Ihr Passwort
+## Wie ändern Sie Ihr Passwort?
 Unten auf der Seite können Sie Ihr **Passwort ändern**. 
 
 ![Funktionsübersicht der Profilseite](media/profil_aendern.png)
@@ -18,5 +18,5 @@ Vergeben Sie ein langes und komplexes Passwort mit Buchstaben, Sonderzeichen und
 
 ![Funktionsübersicht der Profilseite](media/passwort_aendern.png)
 
-## Wie lösche ich meinen Kompetenz-Check Account?
-Bitte schreiben Sie eine E-Mail mit dem Betreff **Kompetenz-Check Account löschen** an team@ausbildungsportfolio.net. Sobald Ihre Daten gelöscht wurden, melden wir uns umgehend bei Ihnen zurück.
+## Wie löschen Sie Ihren Kompetenz-Check Account?
+Bitte schreiben Sie eine E-Mail mit dem Betreff **Kompetenz-Check Account löschen** unter Angabe Ihrer registrierten E-Mail-Adresse an team@ausbildungsportfolio.net. Sobald Ihre Daten gelöscht wurden, melden wir uns umgehend bei Ihnen zurück.
