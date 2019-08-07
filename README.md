@@ -6,4 +6,4 @@ Willkommen im Kompetenz-Check des Projekts ContinuING@TUHH. Der Kompetenz-Check 
 
 **Hier sehen Sie den idealtypischen Ablauf eines Kompetenz-Checks, oder einfach kurz Checks:**
 
-![Übersicht der Rollen und Schritte im Kompetenz-Check](media/KCAblauf.jpg)
+![Übersicht der Rollen und Schritte im Kompetenz-Check](media/KCAblauf.png)
