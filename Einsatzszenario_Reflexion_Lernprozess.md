@@ -28,15 +28,29 @@ In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernproz
 ## Ausführliche Beschreibung des didaktischen Einsatzszenarios
 
 ### Vorbereitung des Einsatzszenarios
-Im ersten Schritt ist es Aufgabe der Lehrenden bzw. Lernbegleitenden, die Funktionalitäten des Kompetenz-Checks selber kennenzulernen. Dies ist bedeutsam, um später auf Nachfragen der Lernenden Hilfestellung in der Arbeit mit dem Kompetenz-Check leisten zu können.
-Im zweiten Schritt legt die Lehrperson bzw. die Lernbegleitung einen Check mit dem Namen und den anvisier-ten Lernergebnissen des Studienformats im Tool an. Je nach Studienformat und Struktur der Lehrveranstaltung kann es sinnvoll sein, unterschiedliche Lern- bzw. Arbeitsphasen (wie Planung, Durchführung, Abschluss etc.) anzulegen und die Lernergebnisse diesen zuzuordnen. Abschließend notiert die Lehrperson bzw. die Lernbe-gleitung die spezifische Checknummer, um den erstellten Check mit den Lernenden teilen zu können. Dies be-deutet, dass die Lernenden den Check in ihr Kompetenz-Check Profil durch Eingabe der Nummer importieren können.
-Je nach Studienformat (reine Präsenzveranstaltung oder Blended Learning) erfolgt die Vorstellung der Metho-de der Selbsteinschätzung zur Reflexion des Lern- und Kompetenzentwicklungsprozesses und des Tools Kom-petenz-Check in der Einführungsveranstaltung eines Studienformats. Bei Präsenzveranstaltungen sollte die Lehrperson ca. 15 Minuten zur Erläuterung der Methode, ihres Mehrwertes und für die Vorstellung der Arbeit mit dem Kompetenz-Check am Beamer einplanen. Weitere 15 Minuten sollten zur Durchführung der 1. Selbst-einschätzung durch die Lernenden eingeplant werden. Evtl. ist es im Vorfeld sinnvoll die Studierenden zu bitten, Laptops zur Veranstaltung mitzubringen. 
+Im ersten Schritt ist es Aufgabe der Lehrenden bzw. Lernbegleitenden, die Funktionalitäten des ContinuING Kompetenz-Checks selber kennenzulernen. Dies ist bedeutsam, um später auf Nachfragen der Lernenden Hilfestellung in der Arbeit mit dem ContinuING Kompetenz-Check leisten zu können.
+
+Im zweiten Schritt legt die Lehrperson bzw. die Lernbegleitung einen Check mit dem Namen und den anvisierten Lernergebnissen des Studienformats im Tool an. Je nach Studienformat und Struktur der Lehrveranstaltung kann es sinnvoll sein, unterschiedliche Lern- bzw. Arbeitsphasen (wie Planung, Durchführung, Abschluss etc.) anzulegen und die Lernergebnisse diesen zuzuordnen. Abschließend notiert die Lehrperson bzw. die Lernbegleitung die spezifische Checknummer, um den erstellten Check mit den Lernenden teilen zu können. Dies bedeutet, dass die Lernenden den Check in ihr Kompetenz-Check Profil durch Eingabe der Nummer importieren können.
+
+Je nach Studienformat (reine Präsenzveranstaltung oder Blended Learning) erfolgt die Vorstellung der Methode der Selbsteinschätzung zur Reflexion des Lern- und Kompetenzentwicklungsprozesses und des ContinuING Kompetenz-Check in der Einführungsveranstaltung. Bei Präsenzveranstaltungen sollte die Lehrperson ca. 15 Minuten zur Erläuterung der Methode, ihres Mehrwertes und für die Vorstellung der Arbeit mit dem ContinuING Kompetenz-Check einplanen. Weitere 15 Minuten sollten zur Durchführung der 1. Selbsteinschätzung durch die Lernenden eingeplant werden. Evtl. ist es im Vorfeld sinnvoll, die Studierenden zu bitten, Laptops zur Veranstaltung mitzubringen. 
 
 In Blended Learning-Szenarien muss die Methode, ihr Mehrwert und die Arbeit mit dem ContinuING Kompetenz-Check in der Lernplattform verständlich beschrieben werden. Dies umfasst ebenfalls die Checknummer. 
 
 ![Prozess der Check-Durchführung](media/KC_Selbsteinschaetzung_prozess.png)
 
-## 4. Aufgabenstellungen
+### Durchführung der 1. Selbsteinschätzung: Erste Veranstaltung (Präsenz oder Online, ca. 30 Min.)
+
+Der ContinuING Kompetenz-Check wird in der ersten Veranstaltung vorgestellt, die Checknummer wird z.B. an ein Whiteboard geschrieben. Die Lernenden registrieren sich und führen die erste Selbsteinschätzung in der Veranstaltung durch. Sie werden gebeten, pro Lernergebnis und Einschätzung im Kommentarbereich festzuhalten, warum sie sich so einschätzen (z.B. aufgrund von Vorerfahrungen). Diese Kommentare helfen den Lernenden am Ende des Lernprozesses, um nachvollziehen zu können, warum sie sich zu Beginn wie eingeschätzt haben.
+
+Erfahrungen haben gezeigt, dass vor der ersten Selbsteinschätzung eine inhaltliche Auseinandersetzung mit dem Studienformat (Lernergebnisse, Inhalte, Ablauf, Prüfung) wichtig für die Lernenden ist, um das Ziel des ContinuING Kompetenz-Check nachvollziehen und die formulierten Kompetenzbeschreibungen verstehen zu können. Die Kompetenzbeschreibungen im Check sind mit den Lernergebnissen des Studienformats identisch.
+
+### Durchführung der 2. Selbsteinschätzung: Vor der Abschlussveranstaltung (Online)
+
+Die zweite Selbsteinschätzung führen die Lernenden vor der Abschlussveranstaltung des Studienformats online durch. Auch hier sind sie angehalten, ihre Einschätzungen zu kommentieren. Für die letzte Veranstaltung bringen die Lernenden ihre Check-Auswertungen digital oder ausgedruckt mit.
+
+### Reflexion der Kompetenzentwicklung und Feedback: Abschlussveranstaltung bzw. Auswertungs- und Reflexionsgespräch (ca. 45 Min.)
+
+Die folgende Aufgabenstellung bezieht sich auf eine Studierendengruppe, kann aber auch auf Einzelpersonen übertragen werden.
 
 
 **4.1 Arbeitsauftrag Reflexions-Teams**:
