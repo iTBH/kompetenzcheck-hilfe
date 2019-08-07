@@ -25,12 +25,16 @@ In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernproz
 * **Zeitumfang:** Bei Studierendengruppen: Auftaktveranstaltung ca. 30 Min., Abschlussveranstaltung ca. 45 Min.
 
 
-## Vorbereitung des Einsatzszenarios
-**Erste Selbsteinschätzung**: Der Kompetenz-Check wird in den Lehrveranstaltungen in der ersten Sitzung vorgestellt, die Lernenden registrieren sich und führen die erste Selbsteinschätzung in der Sitzung durch. Sie werden gebeten ihre Selbsteinschätzungen zu kommentieren, um später nachvollziehen zu können, warum sie sich zu Beginn so eingeschätzt haben (Bezug zu Vorerfahrungen).
-Erfahrungen haben gezeigt, dass vor der ersten Selbsteinschätzung eine Einführung in die Lehrveranstaltung (Lernergebnisse, Inhalte, Ablauf, Prüfung) wichtig für die Lernenden ist, um das Ziel des Kompetenz-Checks nachvollziehen und die formulierten Kompetenzbeschreibungen verstehen zu können. Die Kompetenzbeschreibungen im Check sind mit den Lernergebnissen der Lehrveranstaltung identisch.
+## Ausführliche Beschreibung des didaktischen Einsatzszenarios
 
+### Vorbereitung des Einsatzszenarios
+Im ersten Schritt ist es Aufgabe der Lehrenden bzw. Lernbegleitenden, die Funktionalitäten des Kompetenz-Checks selber kennenzulernen. Dies ist bedeutsam, um später auf Nachfragen der Lernenden Hilfestellung in der Arbeit mit dem Kompetenz-Check leisten zu können.
+Im zweiten Schritt legt die Lehrperson bzw. die Lernbegleitung einen Check mit dem Namen und den anvisier-ten Lernergebnissen des Studienformats im Tool an. Je nach Studienformat und Struktur der Lehrveranstaltung kann es sinnvoll sein, unterschiedliche Lern- bzw. Arbeitsphasen (wie Planung, Durchführung, Abschluss etc.) anzulegen und die Lernergebnisse diesen zuzuordnen. Abschließend notiert die Lehrperson bzw. die Lernbe-gleitung die spezifische Checknummer, um den erstellten Check mit den Lernenden teilen zu können. Dies be-deutet, dass die Lernenden den Check in ihr Kompetenz-Check Profil durch Eingabe der Nummer importieren können.
+Je nach Studienformat (reine Präsenzveranstaltung oder Blended Learning) erfolgt die Vorstellung der Metho-de der Selbsteinschätzung zur Reflexion des Lern- und Kompetenzentwicklungsprozesses und des Tools Kom-petenz-Check in der Einführungsveranstaltung eines Studienformats. Bei Präsenzveranstaltungen sollte die Lehrperson ca. 15 Minuten zur Erläuterung der Methode, ihres Mehrwertes und für die Vorstellung der Arbeit mit dem Kompetenz-Check am Beamer einplanen. Weitere 15 Minuten sollten zur Durchführung der 1. Selbst-einschätzung durch die Lernenden eingeplant werden. Evtl. ist es im Vorfeld sinnvoll die Studierenden zu bitten, Laptops zur Veranstaltung mitzubringen. 
 
-**Zweite Selbsteinschätzung**: Die zweite Selbsteinschätzungen führen die Lernenden nach der vorletzten Sitzung zuhause durch. Auch hier sind sie angehalten, ihre Einschätzungen zu kommentieren. Für die letzte Sitzung bringen die Lernenden ihre Check-Auswertungen digital oder ausgedruckt mit.
+In Blended Learning-Szenarien muss die Methode, ihr Mehrwert und die Arbeit mit dem ContinuING Kompetenz-Check in der Lernplattform verständlich beschrieben werden. Dies umfasst ebenfalls die Checknummer. 
+
+![Prozess der Check-Durchführung](media/KC_Selbsteinschaetzung_prozess.png)
 
 ## 4. Aufgabenstellungen
 
