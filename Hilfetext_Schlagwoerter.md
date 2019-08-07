@@ -9,7 +9,6 @@ Fügen Sie ein neues Schlagwort hinzu, indem Sie einen treffenden Begriff (das S
 
 ## Wie bearbeiten oder löschen Sie ein Schlagwort?
 Zur Bearbeitung oder zum Löschen eines bereits vorhandenen Schlagwortes nutzen Sie die Funktionen **Bearbeiten** und **Löschen**.
-Hier wird Ihnen auch angezeigt, wie oft Sie ein Schlagwort bereits vergeben haben.
 
 ![Ansicht zur Bearbeitung eines Schlagwortes](media/Schlagwort_Detail.jpg)
 
