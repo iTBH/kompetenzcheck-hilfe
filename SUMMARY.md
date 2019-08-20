@@ -1,33 +1,31 @@
-# Summary
+## Einführung
 
-- [Einführung](README.md)
-
-## Handhabung 
-- [Dashboard](Hilfetext_Dashboard.md)
-
-    - [Dashboard: Check im Detail](Hilfetext_Check_Detail.md)
-    
-- [Check erstellen](Hilfetext_Check_erstellen.md)
-
-    - [Check erstellen: Kompetenzbeschreibung hinzufügen](Hilfetext_Kompetenzbeschreibung_hinzufuegen.md)
-    
-- [Selbsteinschätzung](Hilfetext_Selbsteinschaetzung.md)
- 
-    - [Selbsteinschätzung: Kompetenz einschätzen](Hilfetext_Selbsteinschaetzung_Kompetenzeinschaetzung.md)
-
-- [Fremdeinschätzung](Hilfetext_Fremdeinschaetzung.md)
-
-    - [Fremdeinschätzung: Kompetenz einschätzen](Hilfetext_Fremdeinschaetzung_Kompetenzeinschaetzung.md)
-    
-- [Auswertung](Hilfetext_Auswertungsgespraech.md)
-
-- [Profil](Hilfetext_Profil.md)
-- [Partner und Partnerinnen](Hilfetext_Partner_und_Partnerinnen.md)
-- [Schlagwörter](Hilfetext_Schlagwoerter.md)
-
-## Didaktische Einsatzszenarien
-- [Lernprozessreflexion & Veranstaltungsfeedback](Einsatzszenario_Reflexion_Lernprozess.md)
+- [**Der Kompetenz-Check stellt sich vor**](README.md)
 
 ## Weiterführende Informationen
-- [Weiterführende Informationen](Informationen.md)
-- [Impressum](Impressum.md)
+- [**Weiterführende Informationen**](Informationen.md)
+
+- [**Impressum**](Impressum.md)
+
+## Arbeit mit dem Kompetenz-Check 
+- [**Checks_Überblick**](Hilfetext_Dashboard.md)
+
+    
+- [**Check_erstellen**](Hilfetext_Check_erstellen.md)
+
+    
+- [**Selbsteinschätzung**](Hilfetext_Selbsteinschaetzung.md)
+ 
+
+- [**Fremdeinschätzung**](Hilfetext_Fremdeinschaetzung.md)
+
+    
+- [**Check_Auswertung**](Hilfetext_Auswertungsgespraech.md)
+
+- [**Profil, Passwort ändern & Account löschen**](Hilfetext_Profil.md)
+- [**Partner/innen**](Hilfetext_Partner_und_Partnerinnen.md)
+- [**Schlagwörter**](Hilfetext_Schlagwoerter.md)
+
+## Ideen für den didaktischen Einsatz
+- [**Lernprozessreflexion & Veranstaltungsfeedback**](Einsatzszenario_Reflexion_Lernprozess.md)
+

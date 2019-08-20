@@ -1,34 +1,43 @@
 # Auswertung des Checks
 - - -
-Sie haben den Check beendet und somit alle Selbst- und Fremdeinschätzungen abgeschlossen. Auf dieser Seite sehen Sie die Auswertung der erfassten Daten zum durchgeführten 
-Arbeitsauftrag. 
-
-![Übersicht der Auswertungsseite](media/Auswertung_Screen.jpg)
-
+Sie haben den Check beendet und somit alle Selbst- und Fremdeinschätzungen abgeschlossen. Auf dieser Seite sehen Sie die Auswertung der erfassten Daten. 
 
 ## Was ist die Check-Auswertung?
-Diese Seite zeigt die Ergebnisse des Checks aus zwei Perspektiven:
-* **Die Prozessansicht des Checks** visualisiert die Summe aller Selbst- und Fremdeinschätzungen pro Check-Phase und Kompetenzdimension (Fach- und Personale Kompetenz). 
-Hier erkennen Sie bereits auf einen Blick erste Unterschiede und Gemeinsamkeiten der Selbst- sowie Fremdeinschätzungen.
-* **Die Detaillansicht eines Checks** zeigt die einzelnen Selbst- und Fremdeinschätzungen pro Check-Phase mit Kommentaren an. 
+Diese Seite zeigt die Ergebnisse des durchgeführten Checks aus zwei Perspektiven:
 
-Nutzen Sie sowohl die Prozessansicht, als auch die Detailansicht für das **Auswertungsgespräch**
+**1. Die Prozessansicht des Checks** visualisiert die Summe aller Selbst- und Fremdeinschätzungen pro Check-Phase und Kompetenzdimension (Fach- und Personale Kompetenz).
 
-![Übersicht über das Material zum Auswertungsgespräch](media/Auswertung.jpg)
+![Übersicht der Auswertungsseite](media/auswertung_prozessansicht.png)
+
+Hier erkennen Sie bereits auf einen Blick erste Unterschiede und Gemeinsamkeiten der Selbst- und Fremdeinschätzungen im Prozessverlauf.
+
+**2.  Die Detaillansicht** eines Checks zeigt die einzelnen Selbst- und Fremdeinschätzungen pro Check-Phase mit Kommentaren an.
+
+![Übersicht der Auswertungsseite](media/auswertung_detailansicht.png)
+
+Nutzen Sie sowohl die Prozessansicht, als auch die Detailansicht für das **Auswertungsgespräch**.
 
 ## Wie und mit wem führe ich das Auswertungsgespräch?
 
-Bitten Sie die Person(en), die Sie fremdeingeschätzt hat/haben, zu einem Gespräch, um gemeinsam die Ergebnisse des Kompetenz-Checks zu besprechen. 
-Im Auswertungsgespräch besprechen Sie zunächst auf Grundlage der Prozessansicht und der Detailansicht mit Ihren Check-Partnern und Check-Partnerinnen (z. B. Fremdeinschätzer) den durchgeführten Arbeitsauftrag, aufgetretene Herausforderungen und Erfolge.
-Dieser offene und ehrliche Dialog zielt darauf ab, Entwicklungspotenziale zu identifizieren und den Kompetenzentwicklungsprozess des Selbsteinschätzers bzw. der Selbsteinschätzerin gemeinsam zu gestalten.
-Um dieses Ziel zu erreichen, tauschen Sie sich mit den Check-Partnern, oder dem Check-Partner bzw. der Check-Partnerin über Ihre Wahrnehmungen und Beobachtungen während der 
-Check-Durchführung aus und besprechen die Begründungen, die zu den jeweiligen Kompetenzeinschätzungen geführt haben. 
+### Sie haben den Check selber durchgeführt und möchten nun gemeinsam mit den Check-Partnern und Check-Partnerinnen, die Sie fremdeingeschätzt haben, Ihren Kompetenzentwicklungsprozess besprechen:
 
-Das Ergebnis des Auswertungsgespräches sind Ihre Entwicklungsziele bzw. die Entwicklungsziele des Selbsteinschätzers bzw. der Selbsteinschätzerin, die Sie im Arbeitsblatt **Zielvereinbarung** festhalten.
+Bitten Sie die Person(en), die Sie fremdeingeschätzt hat/haben, zu einem Gespräch. Im Auswertungsgespräch besprechen Sie auf Grundlage der **Prozessansicht** und der **Detailansicht** den durchgeführten Prozess, aufgetretene Herausforderungen und Erfolge.
 
-Diese Materialien unterstützen Sie in der Durchführung des Auswertungsgespräches:
-* **Der Leitfaden zur Durchführung des Auswertungsgespräches** gibt Ihnen nützliche Hinweise und Anregungen zum Gespräch über die Ergebnisse des Kompetenz-Checks: <a href="https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-hilfe/media/Hilfetext_Auswertungsgespraech_Leitfaden.pdf" target="_blank">Leitfaden zur Durchführung des Auswertungsgesprächs</a>
-* **Das Arbeitsblatt Zielvereinbarung** bietet Ihnen die Möglichkeit, Ihre Entwicklungsziele, den Entwicklungszeitraum sowie Methoden oder Förderangebote als Vereinbarungen zwischen Ihnen und weiteren Personen festzuhalten: <a href="https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-hilfe/media/Arbeitsblatt_Zielformulierung.pdf" target="_blank">Arbeitsblatt Zielvereinbarung</a>
+Dieser offene und ehrliche Dialog zielt darauf ab, Entwicklungspotenziale zu identifizieren und Ihren Kompetenzentwicklungsprozess gemeinsam zu gestalten. Um dieses Ziel zu erreichen, tauschen Sie sich über Ihre Wahrnehmungen und Beobachtungen während der Check-Durchführung aus und besprechen die Begründungen, die zu den jeweiligen Einschätzungen geführt haben.
+
+Das Ergebnis des Auswertungsgespräches sind Ihre Entwicklungsziele, die Sie im **Arbeitsblatt Zielvereinbarung** festhalten.
+
+### Sie haben den Check einer Person zugewiesen, oder haben eine Person fremdeingeschätzt:
+
+Bitten Sie diese Person (Selbsteinschätzende) nun zu einem Gespräch, um gemeinsam auf Grundlage der **Prozessansicht** und der **Detailansicht** den durchgeführten Lern-, Forschungs- oder Arbeitsrozess, aufgetretene Herausforderungen und Erfolge zu reflektieren.
+
+Dieser offene und ehrliche Dialog zielt darauf ab, Entwicklungspotenziale zu identifizieren und den Kompetenzentwicklungsprozess der Person gemeinsam zu gestalten. Um dieses Ziel zu erreichen, tauschen Sie sich über Ihre Wahrnehmungen und Beobachtungen während der Check-Durchführung aus und besprechen die Begründungen, die zu den jeweiligen Einschätzungen geführt haben.
+
+Das Ergebnis des Auswertungsgespräches sind individuelle Entwicklungsziele der selbsteinschätzenden Person (Lernende), die Sie im **Arbeitsblatt Zielvereinbarung** festhalten.
+
+## Diese Materialien unterstützen Sie in der Durchführung des Auswertungsgespräches:
+* **Der Leitfaden zur Durchführung des Auswertungsgespräches** gibt Ihnen nützliche Hinweise und Anregungen zum Gespräch über die Ergebnisse des ContinuING Kompetenz-Checks: <a href="https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-hilfe/media/Hilfetext_Auswertungsgespraech_Leitfaden.pdf" target="_blank">Leitfaden zur Durchführung des Auswertungsgesprächs</a>
+* **Das Arbeitsblatt Zielvereinbarung** bietet Ihnen die Möglichkeit, Ihre Entwicklungsziele, den Entwicklungszeitraum sowie Methoden oder Förderangebote als Vereinbarungen zwischen Ihnen und weiteren Personen festzuhalten: <a href="https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-hilfe/media/arbeitsblatt_zielformulierung_20190730.pdf" target="_blank">Arbeitsblatt Zielvereinbarung</a>
 
 
 
