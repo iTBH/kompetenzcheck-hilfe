@@ -12,11 +12,11 @@ Klicken Sie auf das **Bearbeiten-Symbol** oben Rechts. Nun können Sie alle Form
 ## Wie ändern Sie Ihr Passwort?
 Unten auf der Seite können Sie Ihr **Passwort ändern**. 
 
-![Eingabebeispiele und Button zum ändern des Passworts](media/profil_aendern.png)
+![Eingabebeispiele und Button zum Ändern des Passworts](media/profil_aendern.png)
 
 Vergeben Sie ein langes und komplexes Passwort mit Buchstaben, Sonderzeichen und Zahlen. Speichern Sie die Bearbeitung über den Button **Speichern**.
 
-![Übersicht zum Passwort ändern](media/passwort_aendern.png)
+![Ansicht der Seite Passwort ändern](media/passwort_aendern.png)
 
 ## Wie löschen Sie Ihren ContinuING Kompetenz-Check Account?
 Bitte schreiben Sie eine E-Mail mit dem Betreff **Kompetenz-Check Account löschen** unter Angabe Ihrer registrierten E-Mail-Adresse an team@ausbildungsportfolio.net. Sobald Ihre Daten gelöscht wurden, melden wir uns umgehend bei Ihnen zurück.
