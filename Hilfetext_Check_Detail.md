@@ -4,7 +4,7 @@
 Sobald Sie einen neuen Check erstellt haben erscheint dieser auf dem Dashboard unter **Checks im Detail**. Auf der rechten Seite werden Ihnen zu jedem Check und je nach Status der Check-Durchführung unterschiedliche **Aktionsmöglichkeiten** angeboten. 
 So erkennen Sie immer auf einen Blick den aktuellen Status des Checks bzw. welche Aktionen Sie oder weitere Check-Partner bzw. Check-Partnerinnen des Checks bereits durchgeführt haben.
 
-![Funktionen der Detailansicht eines Checks](media/dashboard-check.png)
+![Funktionen der Detailansicht eines Checks12](media/dashboard-check.png)
 
 Ein Check im Detail zeigt Ihnen Informationen zum Check an:
 
