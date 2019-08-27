@@ -51,11 +51,11 @@ Im nächsten Schritt fügen Sie den einzelnen Phasen Kompetenzbeschreibungen hin
 
 ![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen oder den Text-Button hinzu](media/AP_Phasen_markiert.jpg)
 
-Jede Kompetenzbeschreibung muss einem Kompetenzbereich zugeordnet werden. Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
+Jede Kompetenzbeschreibung muss einer Kompetenzdimension zugeordnet werden. Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
 
 ![Auswahl der Kompetenzdimension und Fomulierung der Kompetenzbeschreibung](media/check-erstellen-kompetenzen.png)
 
-Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
+Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzdimensionen zu beachten, um die Handlungskompetenz 
 der Selbstevaluation bestmöglich erfassen zu können.
 Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (Selbsteinschätzung) und zur Beobachtung des Könnens einer anderen Person (Fremdeinschätzung). 
 
