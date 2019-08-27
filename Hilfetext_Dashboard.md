@@ -10,14 +10,14 @@ Ein Check kann alleine, mit einer weiteren Person, oder auch mit einer Gruppe du
 Mit Abschluss aller gewünschten Selbst- und Fremdeinschätzungen können der Check beendet und die erfassten Daten ausgewertet werden. 
 Diese Check-Auswertung dient dann als Grundlage zur Besprechung und Reflexion des Arbeits- bzw. Forschungsprozesses.
 
-![Übersicht der Funktionen zur Erstellung eines Checks](media/check_erstellen_klein.png)
+![Übersicht der Erstellung eines Checks](media/check_erstellen_klein.png)
 
 Dabei bezieht sich ein Check immer auf eine **spezifische Handlungssituation**, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages, und beinhaltet die in der 
 jeweiligen Situation benötigten **Handlungskompetenzen**.
 
 ## Was ist "Checks im Überblick"?
 
-**Checks im Überblick** ist das Herzstück des ContinuING Kompetenz-Check. Hier verwalten und bearbeiten Sie laufenden und bereits abgeschlossenen Checks und führen alle zentralen Aktionen durch.
+**Checks im Überblick** ist das Herzstück des ContinuING Kompetenz-Checks. Hier verwalten und bearbeiten Sie laufenden und bereits abgeschlossenen Checks und führen alle zentralen Aktionen durch.
 
 **Checks im Überblick** gliedert sich in drei Bereiche (siehe Bild unten): 
 
@@ -25,7 +25,7 @@ jeweiligen Situation benötigten **Handlungskompetenzen**.
 * **Checks im Detail**: Hier sehen Sie alle laufenden und auch abgeschlossenen Checks.
 * **Aktionsmöglichkeiten**: Diese zeigen pro Check an, was Sie nun tun können und was schon geschehen ist.
 
-![Darstellung der Struktur und der Funktionen auf dem Dashboard](media/dashboard.png)
+![Darstellung der Struktur und der Funktionen auf der Seite Checks im Überblick](media/dashboard.png)
 
 ## Darstellung eines Checks
 Auf der rechten Seite werden Ihnen zu jedem Check und je nach Status der Check-Durchführung unterschiedliche **Aktionsmöglichkeiten** angeboten. 

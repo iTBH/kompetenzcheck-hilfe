@@ -15,4 +15,4 @@ Sie legen neue Check-Partner/innen durch Angabe des Vor- und Nachnamens sowie de
 
 Zur Verwaltung bereits angelegter Partner/innen stehen Ihnen zwei Aktionen zur Verfügung: **Bearbeiten** oder **Löschen**.
 
-![Übersicht über das Material zum Auswertungsgespräch](media/PartnerBearbeiten.jpg)
+![Übersicht der Funktionsmöglichkeiten](media/PartnerBearbeiten.jpg)

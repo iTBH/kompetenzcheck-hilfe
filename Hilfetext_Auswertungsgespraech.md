@@ -7,13 +7,13 @@ Diese Seite zeigt die Ergebnisse des durchgeführten Checks aus zwei Perspektive
 
 **1. Die Prozessansicht des Checks** visualisiert die Summe aller Selbst- und Fremdeinschätzungen pro Check-Phase und Kompetenzdimension (Fach- und Personale Kompetenz).
 
-![Übersicht der Auswertungsseite](media/auswertung_prozessansicht.png)
+![Prozessansicht einer Check-Auswertung](media/auswertung_prozessansicht.png)
 
 Hier erkennen Sie bereits auf einen Blick erste Unterschiede und Gemeinsamkeiten der Selbst- und Fremdeinschätzungen im Prozessverlauf.
 
 **2.  Die Detaillansicht** eines Checks zeigt die einzelnen Selbst- und Fremdeinschätzungen pro Check-Phase mit Kommentaren an.
 
-![Übersicht der Auswertungsseite](media/auswertung_detailansicht.png)
+![Detailansicht einer Check-Auswertung](media/auswertung_detailansicht.png)
 
 Nutzen Sie sowohl die Prozessansicht, als auch die Detailansicht für das **Auswertungsgespräch**.
 

@@ -16,11 +16,11 @@ Um eine Selbsteinschätzung durchzuführen schätzen Sie z. B. auf Grundlage Ihr
 
 Klicken Sie rechts neben jeder Kompetenzbeschreibung auf den Button einschätzen, um eine Selbsteinschäzung zu dieser Kompetenz durchzuführen. Evtl. sind die Kompetenzbeschreibungen des Checks mehreren Phasen bzw. Reitern zugeordnet. Wechseln Sie zwischen den einzelnen Phasen, um alle Kompetenzen einzuschätzen (aktivierte Reiter sind blau).
 
-![Klicken Sie diesen Button, um eine Selbsteinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Selbsteinschaetzung.jpg)
+![Ansicht eines Checks mit Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
 
 Zur Einschätzung Ihres Könnens wählen Sie pro Kompetenzbeschreibung eines der vier Kreissymbole aus. Jedes Kreissymbol steht exemplarisch für eine Könnensstufe bzw. Niveaustufe: 
 
-![Klicken Sie diesen Button, um eine Selbsteinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Fremdeinschaetzung_Deatail.jpg)
+![Darstellung der Niveaustufen zur Selbsteinschätzung und der Kommentarfunktion](media/Fremdeinschaetzung_Deatail.jpg)
 
 * **Ich kann das noch nicht und brauche umfassende Unterstützung**: Sie haben bisher noch keine Erfahrungen gesammelt und führen die Handlungen zum ersten Mal durch, daher benötigen Sie Hilfestellung oder Anleitung durch eine weitere Person
 * **Ich kann das erst ein bisschen und brauche noch relativ viel Unterstützung**: Sie verfügen bereits über erste Erfahrungen, fühlen sich aber sicherer, wenn eine weitere Person Sie unterstützt z.B. durch Anleitung oder Beantwortung von Fragen

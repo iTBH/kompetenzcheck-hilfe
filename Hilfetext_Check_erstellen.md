@@ -31,7 +31,7 @@ Eine Auftragsbeschreibung kann folgende Aspekte umfassen:
 ### 2. Schritt: Strukturierung der Kompetenzbeschreibungen
 Sie können die Kompetenzen bis zu vier Phasen (Reitern) zuordnen, um Lern- bzw. Arbeitsprozesse abzubilden oder das Kompetenzprofil zu gliedern. 
 
-![Fügen Sie, wie in diesem Beispiel, den Reitern die Lernprozesse des Forschenden Lernens zu.](media/AP_Reiter.png)
+![Darstellung der variablen und individuell auf Lern-, Forschungs- oder Arbeitsprozesse anpassbaren Strukturierung von Kompetenzbeschreibungen](media/AP_Reiter.png)
 
 Wenn Sie einen Lernprozess im Sinne des Forschenden Lernens abbilden möchten, können Sie den Check wie folgt strukturieren:
 
@@ -42,7 +42,7 @@ Wenn Sie einen Lernprozess im Sinne des Forschenden Lernens abbilden möchten, k
 
 Wenn Sie ein Kompetenzprofil anlegen möchten, können Sie bspw. die Dimensionen des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR) nutzen und die Kompetenzbeschreibungen diesen zuordnen: Wissen, Fertigkeiten, Sozialkompetenz, Selbständigkeit.
 
-![Der Kompetenz-Check orientiert sich an dem Kompetenzverständnis des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR: http://www.dqr.de/index.php)](media/DQR.jpg)
+![Kompetenzstrukturmodell des DQR](media/DQR.jpg)
 
 Sie müssen **nicht** allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
 
@@ -51,11 +51,11 @@ Im nächsten Schritt fügen Sie den einzelnen Phasen Kompetenzbeschreibungen hin
 
 ![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen oder den Text-Button hinzu](media/AP_Phasen_markiert.jpg)
 
-Jede Kompetenzbeschreibung muss einem Kompetenzbereich zugeordnet werden. Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
+Jede Kompetenzbeschreibung muss einer Kompetenzdimension zugeordnet werden. Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
 
-![Übersicht der Funktionen zum Hinzufügen oder Bearbeiten von Kompetenzbeschreibungen](media/check-erstellen-kompetenzen.png)
+![Auswahl der Kompetenzdimension und Fomulierung der Kompetenzbeschreibung](media/check-erstellen-kompetenzen.png)
 
-Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
+Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzdimensionen zu beachten, um die Handlungskompetenz 
 der Selbstevaluation bestmöglich erfassen zu können.
 Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (Selbsteinschätzung) und zur Beobachtung des Könnens einer anderen Person (Fremdeinschätzung). 
 
