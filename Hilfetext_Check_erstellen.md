@@ -53,7 +53,7 @@ Im nächsten Schritt fügen Sie den einzelnen Phasen Kompetenzbeschreibungen hin
 
 Jede Kompetenzbeschreibung muss einem Kompetenzbereich zugeordnet werden. Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
 
-![Übersicht der Funktionen zum Hinzufügen oder Bearbeiten von Kompetenzbeschreibungen](media/check-erstellen-kompetenzen.png)
+![Auswahl des Kompetenzbereichs und Fomulierung der Kompetenzbeschreibung](media/check-erstellen-kompetenzen.png)
 
 Bei der Erstellung eines Checks ist es sinnvoll, beide Kompetenzbereiche zu beachten, um die Handlungskompetenz 
 der Selbstevaluation bestmöglich erfassen zu können.
