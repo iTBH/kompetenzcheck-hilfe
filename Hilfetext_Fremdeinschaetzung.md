@@ -12,7 +12,7 @@ Sie können Ihre Fremdeinschätzung immer wieder bearbeiten und an Ihre Beobacht
 ## Wie führen Sie eine Fremdeinschätzung durch?
 Klicken Sie rechts neben jeder Kompetenzbeschreibung auf den Button einschätzen, um eine Fremdeinschätzung zu dieser Kompetenz durchzuführen. Evtl. sind die Kompetenzbeschreibungen des Checks mehreren Phasen bzw. Reitern zugeordnet. Wechseln Sie zwischen den einzelnen Phasen, um alle Kompetenzen einzuschätzen (aktivierte Reiter sind blau).
 
-![Klicken Sie diesen Button, um eine Fremdeinschätzung zu einer Kompetenzbeschreibung durchzuführen](media/Fremdeinschaetzung.jpg)
+![Übersicht der einzelnen Phasen und der Kompetenzbeschreibung](media/Fremdeinschaetzung.jpg)
 
 Zur Einschätzung des Kompetenzvermögens der Person stehen Ihnen vier Niveaustufen (Kreissymbole) zur Verfügung. Wenn Sie eine Kompetenz nicht einschätzen können, wählen Sie nichts aus oder deaktivieren Sie die Auswahl durch erneutes Klicken in der Niveaustufe. Sichern Sie Ihre Angaben durch Klicken auf den Button **Speichern**. Sie können Ihre Fremdeinschätzung immer wieder bearbeiten und an Ihre Beobachtungen anpassen.
 
