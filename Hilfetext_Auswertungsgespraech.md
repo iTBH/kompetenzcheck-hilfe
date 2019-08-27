@@ -36,8 +36,8 @@ Dieser offene und ehrliche Dialog zielt darauf ab, Entwicklungspotenziale zu ide
 Das Ergebnis des Auswertungsgespräches sind individuelle Entwicklungsziele der selbsteinschätzenden Person (Lernende), die Sie im **Arbeitsblatt Zielvereinbarung** festhalten.
 
 ## Diese Materialien unterstützen Sie in der Durchführung des Auswertungsgespräches:
-* **Der Leitfaden zur Durchführung des Auswertungsgespräches** gibt Ihnen nützliche Hinweise und Anregungen zum Gespräch über die Ergebnisse des ContinuING Kompetenz-Checks: <a href="https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-hilfe/media/Hilfetext_Auswertungsgespraech_Leitfaden.pdf" target="_blank">Leitfaden zur Durchführung des Auswertungsgesprächs</a>
-* **Das Arbeitsblatt Zielvereinbarung** bietet Ihnen die Möglichkeit, Ihre Entwicklungsziele, den Entwicklungszeitraum sowie Methoden oder Förderangebote als Vereinbarungen zwischen Ihnen und weiteren Personen festzuhalten: <a href="https://fizban05.rz.tu-harburg.de/itbh/kompetenzcheck-hilfe/media/Arbeitsblatt_Zielformulierung.pdf" target="_blank">Arbeitsblatt Zielvereinbarung</a>
+* **Der Leitfaden zur Durchführung des Auswertungsgespräches** gibt Ihnen nützliche Hinweise und Anregungen zum Gespräch über die Ergebnisse des ContinuING Kompetenz-Checks: <a href="media/Hilfetext_Auswertungsgespraech_Leitfaden.pdf" target="_blank">Leitfaden zur Durchführung des Auswertungsgesprächs</a>
+* **Das Arbeitsblatt Zielvereinbarung** bietet Ihnen die Möglichkeit, Ihre Entwicklungsziele, den Entwicklungszeitraum sowie Methoden oder Förderangebote als Vereinbarungen zwischen Ihnen und weiteren Personen festzuhalten: <a href="media/Arbeitsblatt_Zielformulierung.pdf" target="_blank">Arbeitsblatt Zielvereinbarung</a>
 
 
 
