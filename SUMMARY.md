@@ -2,10 +2,6 @@
 
 - [**Der Kompetenz-Check stellt sich vor**](README.md)
 
-## Weiterführende Informationen
-- [**Weiterführende Informationen**](Informationen.md)
-
-- [**Impressum**](Impressum.md)
 
 ## Arbeit mit dem Kompetenz-Check 
 - [**Checks_Überblick**](Hilfetext_Dashboard.md)
@@ -29,3 +25,7 @@
 ## Ideen für den didaktischen Einsatz
 - [**Lernprozessreflexion & Veranstaltungsfeedback**](Einsatzszenario_Reflexion_Lernprozess.md)
 
+## Weiterführende Informationen
+- [**Weiterführende Informationen**](Informationen.md)
+
+- [**Impressum**](Impressum.md)
