@@ -18,14 +18,22 @@
     
 - [**Check_Auswertung**](Hilfetext_Auswertungsgespraech.md)
 
+
 - [**Profil, Passwort ändern & Account löschen**](Hilfetext_Profil.md)
+
+
 - [**Partner/innen**](Hilfetext_Partner_und_Partnerinnen.md)
+
+
 - [**Schlagwörter**](Hilfetext_Schlagwoerter.md)
+
 
 ## Ideen für den didaktischen Einsatz
 - [**Lernprozessreflexion & Veranstaltungsfeedback**](Einsatzszenario_Reflexion_Lernprozess.md)
 
+
 ## Weiterführende Informationen
 - [**Weiterführende Informationen**](Informationen.md)
+
 
 - [**Impressum**](Impressum.md)
