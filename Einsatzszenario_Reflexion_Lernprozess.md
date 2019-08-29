@@ -38,7 +38,7 @@ Je nach Studienformat (reine Präsenzveranstaltung oder Blended Learning) erfolg
 
 In Blended Learning-Szenarien muss die Methode, ihr Mehrwert und die Arbeit mit dem ContinuING Kompetenz-Check in der Lernplattform verständlich beschrieben werden. Dies umfasst ebenfalls die Checknummer. 
 
-![Prozess der Check-Durchführung](media/KC_Selbsteinschaetzung_prozess.png)
+<img src="media/KC_Selbsteinschaetzung_prozess.png" alt="Prozess der Check-Durchführung" title="Prozess der Check-Durchführung" />
 
 ### Durchführung der 1. Selbsteinschätzung: Erste Veranstaltung (Präsenz oder Online, ca. 30 Min.)
 
