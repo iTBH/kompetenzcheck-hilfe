@@ -5,7 +5,7 @@
 
 Bei einer Selbsteinschätzung bewerten Sie bzw. schätzen Sie Ihre Fähigkeiten und Kompetenzen zu einem bestimmten Zeitpunkt ein. 
 Es handelt sich somit um eine Bestandsaufnahme Ihres Könnens im Rahmen einer bestimmten Situation: 
-z. B. während der Bearbeitung eines spezifischen Arbeitsauftrages.
+z. B. während der Bearbeitung eines spezifischen Arbeits- oder Forschungsauftrages.
 
 Im ContinuING Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen: 
 * Die **erste Selbsteinschätzung** führen Sie, je nach Szenario, **vor** der Auftragsbearbeitung oder dem Auswertungsgespräch durch. Mit der ersten Selbsteinschätzung startet die Durchführung eines Checks. Die erste Selbsteinschätzung kann nach dem Speichern **nicht** mehr bearbeitet werden.
@@ -14,7 +14,7 @@ Im ContinuING Kompetenz-Check gibt es zwei Arten von Selbsteinschätzungen:
 ## Wie führen Sie eine Selbsteinschätzung durch?
 Um eine Selbsteinschätzung durchzuführen schätzen Sie z. B. auf Grundlage Ihrer Vorerfahrungen zu dem Thema oder Arbeitsauftrag ein, wie gut Sie die beschriebenen Kompetenzen beherrschen. Erinnern Sie sich hierfür an Situationen oder Arbeitsaufträge, in denen sie diese oder ähnliche Handlungen bereits durchgeführt haben. Um welche Auftragssituation es sich handelt erfahren Sie unter dem Punkt **Auftragsbeschreibung**.  
 
-Klicken Sie rechts neben jeder Kompetenzbeschreibung auf den Button einschätzen, um eine Selbsteinschäzung zu dieser Kompetenz durchzuführen. Evtl. sind die Kompetenzbeschreibungen des Checks mehreren Phasen bzw. Reitern zugeordnet. Wechseln Sie zwischen den einzelnen Phasen, um alle Kompetenzen einzuschätzen (aktivierte Reiter sind blau).
+Klicken Sie rechts neben jeder Kompetenzbeschreibung auf den Button **einschätzen**, um eine Selbsteinschäzung zu dieser Kompetenzbeschreibung durchzuführen. Evtl. sind die Kompetenzbeschreibungen des Checks mehreren Phasen bzw. Reitern zugeordnet. Wechseln Sie zwischen den einzelnen Phasen, um alle Kompetenzen einzuschätzen (aktivierte Reiter sind blau).
 
 ![Ansicht eines Checks mit Selbsteinschätzung](media/Selbsteinschaetzung.jpg)
 
