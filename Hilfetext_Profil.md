@@ -6,7 +6,7 @@ Hier können Sie Ihre persönlichen Einstellungen verwalten.
 
 ![Funktionsübersicht der Profilseite](media/profil.jpg)
 
-## Wie bearbeite Sie Ihre persönlichen Einstellungen?
+## Wie bearbeiten Sie Ihre persönlichen Einstellungen?
 Klicken Sie auf das **Bearbeiten-Symbol** oben Rechts. Nun können Sie alle Formularfelder bearbeiten. Schließen Sie die Bearbeitung durch Anklicken des Buttons **Speichern** ab.
 
 ## Wie ändern Sie Ihr Passwort?
