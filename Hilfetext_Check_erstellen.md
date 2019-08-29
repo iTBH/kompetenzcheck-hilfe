@@ -13,7 +13,7 @@ Auftragsbeschreibung und Verwendungszweck beschrieben:
 **Der Kurztitel des Checks:** Zunächst geben Sie dem Check einen prägnanten und kurzen Namen, der sich auf den durchzuführenden Arbeits- oder Forschungsauftrag bezieht.
 
 **Der Verwendungszweck:** Ein Check kann mit unterschiedlichen Zielsetzungen durchgeführt werden, z. B. zur Selbstevaluation, zur Prüfungsvorbereitung, als 
-Assessment, um Feedback einzuholen etc. Formulieren Sie deutlich, mit welcher Zielsetzung der Kompetenz-Check durchgeführt wird.
+Assessment, um Feedback einzuholen etc.. Formulieren Sie deutlich, mit welcher Zielsetzung der Check durchgeführt wird.
 
 **Die Auftragsbeschreibung:** Hier wird die Situation beschrieben, in der gehandelt werden soll, z. B. die Bearbeitung eines Arbeits- oder Forschungsauftrages. 
 Eine detaillierte Auftragsbeschreibung unterstützt alle Check-Beteiligten bei der Einschätzung von Stärken und Bedarfen während der 
@@ -24,12 +24,12 @@ Eine Auftragsbeschreibung kann folgende Aspekte umfassen:
 * Mit wem wird zusammengearbeitet? 
 * Welche Regeln, Normen, Vorschriften müssen beachtet werden? 
 * Welche Werkzeuge, Instrumente, Methoden oder Materialien sollen eingesetzt werden?
-* Gibt es Qualitätsansprüche an das Arbeitsprodukt/ die Dienstleistung bzw. das Forschungsprodukt? 
+* Gibt es Qualitätsansprüche an das Arbeitsprodukt bzw. das Forschungsergebnis? 
 
-**Schlagwörter:** Fügen Sie dem Check Schlagwörter hinzu, um sie später sortieren und filtern zu können. Unter dem Menüpunkt Schlagwörter können Sie Schlagwörter hinzufügen, verwalten und bearbeiten.
+**Schlagwörter:** Fügen Sie dem Check Schlagwörter hinzu. Unter dem Menüpunkt Schlagwörter können Sie Schlagwörter hinzufügen, verwalten und bearbeiten.
 
 ### 2. Schritt: Strukturierung der Kompetenzbeschreibungen
-Sie können die Kompetenzen bis zu vier Phasen (Reitern) zuordnen, um Lern- bzw. Arbeitsprozesse abzubilden oder das Kompetenzprofil zu gliedern. 
+Sie können die Kompetenzbeschreibungen bis zu vier Phasen (Reitern) zuordnen, um den Lern- oder Forschungsprozess bzw. Arbeitsprozess abzubilden, oder das Kompetenzprofil zu gliedern. 
 
 ![Darstellung der variablen und individuell auf Lern-, Forschungs- oder Arbeitsprozesse anpassbaren Strukturierung von Kompetenzbeschreibungen](media/AP_Reiter.png)
 
@@ -47,7 +47,7 @@ Wenn Sie ein Kompetenzprofil anlegen möchten, können Sie bspw. die Dimensionen
 Sie müssen **nicht** allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
 
 ### 3. Schritt: Kompetenzbeschreibungen den Phasen zuordnen
-Im nächsten Schritt fügen Sie den einzelnen Phasen Kompetenzbeschreibungen hinzu, indem Sie den **Plus-Button** oder den **Kompetenzbeschreibung hinzufügen-Button** in einer Check-Phase anklicken:
+Im nächsten Schritt fügen Sie den einzelnen Phasen Kompetenzbeschreibungen hinzu, indem Sie den **Plus-Button** oder den **Kompetenzbeschreibung hinzufügen-Button** in einer Check-Phase/Reiter anklicken:
 
 ![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen oder den Text-Button hinzu](media/AP_Phasen_markiert.jpg)
 
@@ -60,7 +60,7 @@ der Selbstevaluation bestmöglich erfassen zu können.
 Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als Grundlage zur Einschätzung des eigenen Könnens (Selbsteinschätzung) und zur Beobachtung des Könnens einer anderen Person (Fremdeinschätzung). 
 
 #### Wie formulieren Sie eine Kompetenzbeschreibung?
-Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Lern- oder Arbeitsprozess haben und möglichst genau die auszuführende, bzw. zu beobachtende Handlung beschreiben. 
+Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Lern- oder Forschungsprozess bzw. Arbeitsprozess haben und möglichst genau die auszuführende, bzw. zu beobachtende Handlung beschreiben. 
 Eine Kompetenzbeschreibung muss immer in der 3. Person singular und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren) formuliert werden. <a href="media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Beispielverben für die Kompetenzbeschreibung</a>
 
 **Formulierung einer Kompetenzbeschreibung:**
@@ -80,7 +80,7 @@ kooperativ in der Gruppe und stimmt sich ab.
 ## Wie geht es nach dem Anlegen des Checks weiter?
 Sobald Sie Ihren Check gespeichert haben, gelangen Sie wieder auf die Seite **Checks im Überblick**. 
 Rechts neben dem Check werden Ihnen nun weitere **Aktionsmöglichkeiten** angeboten:
-* Eine Selbsteinschätzung durchführen: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Selbsteinschätzung durchführen**.
-* Den Check einer weiteren Person zuweisen: Wählen Sie auf dem Dashboard die Aktionsmöglichkeit **Check zuweisen**.
+* Eine Selbsteinschätzung durchführen: Wählen Sie die Aktionsmöglichkeit **Selbsteinschätzung durchführen**.
+* Den Check einer weiteren Person zuweisen: Wählen Sie die Aktionsmöglichkeit **Check zuweisen**.
 
 
