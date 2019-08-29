@@ -8,7 +8,7 @@ Auf dieser Seite erstellen Sie einen neuen Check. Sie können einen Check zur Se
 Um ein gemeinsames Verständnis aller Beteiligten über den Check zu erreichen, wird die zugrunde liegende Handlungssituation ausführlich in den Punkten Kurztitel, 
 Auftragsbeschreibung und Verwendungszweck beschrieben: 
 
-![Beschreibung der Rahmenbedingungen eines Checks](media/Screen_Checkerstellen_Auftrag.jpg)
+<img src="media/Screen_Checkerstellen_Auftrag.jpg" alt="Beschreibung der Rahmenbedingungen eines Checks" title="Beschreibung der Rahmenbedingungen eines Checks" />
 
 **Der Kurztitel des Checks:** Zunächst geben Sie dem Check einen prägnanten und kurzen Namen, der sich auf den durchzuführenden Arbeits- oder Forschungsauftrag bezieht.
 
