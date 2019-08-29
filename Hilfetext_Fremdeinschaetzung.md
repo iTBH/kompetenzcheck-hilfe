@@ -3,14 +3,14 @@
 - - -
 
 ## Was ist eine Fremdeinschätzung?
-Sie wurden dazu eingeladen eine Fremdeinschätzung abzugeben. Dies bedeutet, dass Sie einschätzen sollen wie weit die Person, die Sie zum ContinuING Kompetenz-Check eingeladen hat, die beschriebenen Kompetenzen bereits entwickelt hat. Sie können Ihre Fremdeinschätzung entweder auf Grundlage Ihrer Wahrnehmung der Person oder auf Basis Ihrer Beobachtungen während der Auftragsbearbeitung durchführen. Ihre Fremdeinschätzung ist dann aussagekräftig, wenn Sie die Person bei der Auftragsdurchführung begleiten und regelmäßig Feedback zu durchgeführten Handlungen geben. 
+Sie wurden dazu eingeladen, eine Fremdeinschätzung abzugeben. Dies bedeutet, dass Sie einschätzen sollen wie weit die Person, die Sie zum ContinuING Kompetenz-Check eingeladen hat, die beschriebenen Kompetenzen bereits entwickelt hat. Sie können Ihre Fremdeinschätzung entweder auf Grundlage Ihrer Wahrnehmung der Person oder auf Basis Ihrer Beobachtungen während der Auftragsbearbeitung durchführen. Ihre Fremdeinschätzung ist dann aussagekräftig, wenn Sie die Person bei der Auftragsdurchführung begleiten und regelmäßig Feedback zu durchgeführten Handlungen geben. 
 
 Sie können Ihre Fremdeinschätzung immer wieder bearbeiten und an Ihre Beobachtungen anpassen. 
 
 **Tipp: Speichern Sie sich den Link als Lesezeichen!**
 
 ## Wie führen Sie eine Fremdeinschätzung durch?
-Klicken Sie rechts neben jeder Kompetenzbeschreibung auf den Button einschätzen, um eine Fremdeinschätzung zu dieser Kompetenz durchzuführen. Evtl. sind die Kompetenzbeschreibungen des Checks mehreren Phasen bzw. Reitern zugeordnet. Wechseln Sie zwischen den einzelnen Phasen, um alle Kompetenzen einzuschätzen (aktivierte Reiter sind blau).
+Klicken Sie rechts neben jeder Kompetenzbeschreibung auf den Button **einschätzen**, um eine Fremdeinschätzung zu dieser Kompetenz durchzuführen. Evtl. sind die Kompetenzbeschreibungen des Checks mehreren Phasen bzw. Reitern zugeordnet. Wechseln Sie zwischen den einzelnen Phasen, um alle Kompetenzen einzuschätzen (aktivierte Reiter sind blau).
 
 ![Ansicht eines Checks mit Fremdeinschätzung](media/Fremdeinschaetzung.jpg)
 
