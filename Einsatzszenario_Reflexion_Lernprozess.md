@@ -2,7 +2,7 @@
 
 - - -
 
-In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernprozess und den Grad der Kompetenzentwicklung anhand der Check-Auswertung und leiten Handlungsalternativen für sich selber, aber auch für die Gestaltung der Lehrveranstaltung ab. Auf Grundlage der Reflexionen der Lernenden kann die Lehrperson dann in einen zielgerichteten Austausch über anvisierte Lernergebnisse, subjektiv wahrgenommene Lernerfolge und Hürden sowie die Gestaltung der Lehrveranstaltung mit den Lernenden treten. Daraus können individuelle Förderangebote für die Lernenden abgeleitet und das Lehrangebot weiterentwickelt werden.
+In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernprozess und den Grad der Kompetenzentwicklung anhand der Check-Auswertung und leiten Handlungsalternativen für sich selber, aber auch für die Gestaltung der Lehrveranstaltung ab. Auf Grundlage der Reflexionen der Lernenden kann die Lehrperson dann in einen zielgerichteten Austausch mit den Lernenden über anvisierte Lernergebnisse, subjektiv wahrgenommene Lernerfolge und Hürden sowie die Gestaltung der Lehrveranstaltung treten. Daraus können individuelle Förderangebote für die Lernenden abgeleitet und das Lehrangebot weiterentwickelt werden.
 
 ![Einbettung des ContinuING Kompetenz-Check in ein weiterbildendes Studienformat](media/Grafik_KC.jpg)
 
@@ -10,7 +10,7 @@ In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernproz
 
 * **Verwendungszweck:** Das Szenario eignet sich im Rahmen der Reflexion am Ende einer Lehrveranstaltung. Im Gegensatz zu "üblichen" Reflexionen oder Evaluationen, die einzig die Lehrveranstaltung in den Blick nehmen, ermöglicht das Szenario eine Verknüpfung des individuellen Lernprozesses mit anvisierten Lernergebnissen und der Gestaltung der Lehrveranstaltung. 
 
-* **Ziel Lehrende:** Einblick in Lernprozess, begründetes Veranstaltungsfeedback, Ideen zur kompetenzorientierten Weiterentwicklung der Lehrveranstaltung.
+* **Ziel Lehrende:** Einblick in den individuellen Lernprozess, begründetes Veranstaltungsfeedback, Ideen zur kompetenzorientierten Weiterentwicklung der Lehrveranstaltung.
 
 * **Ziel Lernende:** Reflexion von Kompetenzentwicklung, Entwicklung von Handlungsalternativen im Lernprozess
 
@@ -29,12 +29,12 @@ In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernproz
 
 ## Ausführliche Beschreibung des didaktischen Einsatzszenarios
 
-### Vorbereitung des Einsatzszenarios
-Im ersten Schritt ist es Aufgabe der Lehrenden bzw. Lernbegleitenden, die Funktionalitäten des ContinuING Kompetenz-Checks selber kennenzulernen. Dies ist bedeutsam, um später auf Nachfragen der Lernenden Hilfestellung in der Arbeit mit dem ContinuING Kompetenz-Check leisten zu können.
+### Vorbereitung 
+Im ersten Schritt ist es Aufgabe der Lehrenden bzw. Lernbegleitenden, die Funktionalitäten des ContinuING Kompetenz-Checks selber kennenzulernen. Dies ist bedeutsam, um später bei Nachfragen der Lernenden Hilfestellung in der Arbeit mit dem ContinuING Kompetenz-Check leisten zu können.
 
-Im zweiten Schritt legt die Lehrperson bzw. die Lernbegleitung einen Check mit dem Namen und den anvisierten Lernergebnissen des Studienformats im Tool an. Je nach Studienformat und Struktur der Lehrveranstaltung kann es sinnvoll sein, unterschiedliche Lern- bzw. Arbeitsphasen (wie Planung, Durchführung, Abschluss etc.) anzulegen und die Lernergebnisse diesen zuzuordnen. Abschließend notiert die Lehrperson bzw. die Lernbegleitung die spezifische Checknummer, um den erstellten Check mit den Lernenden teilen zu können. Dies bedeutet, dass die Lernenden den Check in ihr Kompetenz-Check Profil durch Eingabe der Nummer importieren können.
+Im zweiten Schritt legt die Lehrperson bzw. die Lernbegleitung einen Check mit dem Namen und den anvisierten Lernergebnissen des Studienformats im Tool an. Je nach Studienformat und Struktur der Lehrveranstaltung kann es sinnvoll sein, unterschiedliche Lern- oder Forschungsprozessphasen bzw. Arbeitsphasen (wie Themenfindung, Forschungsdesign, Durchführung & Auswertung, Reflexion & Transfer) anzulegen und die Lernergebnisse diesen zuzuordnen. Abschließend notiert die Lehrperson bzw. die Lernbegleitung die spezifische Checknummer, um den erstellten Check mit den Lernenden teilen zu können. Dies bedeutet, dass die Lernenden den Check in ihr Kompetenz-Check Profil durch Eingabe der Nummer importieren können.
 
-Je nach Studienformat (reine Präsenzveranstaltung oder Blended Learning) erfolgt die Vorstellung der Methode der Selbsteinschätzung zur Reflexion des Lern- und Kompetenzentwicklungsprozesses und des ContinuING Kompetenz-Check in der Einführungsveranstaltung. Bei Präsenzveranstaltungen sollte die Lehrperson ca. 15 Minuten zur Erläuterung der Methode, ihres Mehrwertes und für die Vorstellung der Arbeit mit dem ContinuING Kompetenz-Check einplanen. Weitere 15 Minuten sollten zur Durchführung der 1. Selbsteinschätzung durch die Lernenden eingeplant werden. Evtl. ist es im Vorfeld sinnvoll, die Studierenden zu bitten, Laptops zur Veranstaltung mitzubringen. 
+Je nach Studienformat (reine Präsenzveranstaltung oder Blended Learning) erfolgt die Vorstellung der Methode der Selbsteinschätzung zur Reflexion des Lern- und Kompetenzentwicklungsprozesses und des ContinuING Kompetenz-Checks in der Einführungsveranstaltung. Bei Präsenzveranstaltungen sollte die Lehrperson ca. 15 Minuten zur Erläuterung der Methode, ihres Mehrwertes und der Arbeit mit dem ContinuING Kompetenz-Check einplanen. Weitere 15 Minuten sollten zur Durchführung der 1. Selbsteinschätzung durch die Lernenden eingeplant werden. Evtl. ist es im Vorfeld sinnvoll, die Studierenden zu bitten, Laptops zur Veranstaltung mitzubringen. 
 
 In Blended Learning-Szenarien muss die Methode, ihr Mehrwert und die Arbeit mit dem ContinuING Kompetenz-Check in der Lernplattform verständlich beschrieben werden. Dies umfasst ebenfalls die Checknummer. 
 
@@ -52,7 +52,7 @@ Die zweite Selbsteinschätzung führen die Lernenden vor der Abschlussveranstalt
 
 ### Reflexion der Kompetenzentwicklung und Feedback: Abschlussveranstaltung bzw. Auswertungs- und Reflexionsgespräch (ca. 45 Min.)
 
-Die folgende Aufgabenstellung bezieht sich auf eine Studierendengruppe, kann aber auch auf Einzelpersonen übertragen werden.
+Die folgende Aufgabenstellung bezieht sich auf eine Studierendengruppe, kann aber auch auf Einzelpersonen übertragen werden (dann in Zusammenarbeit mit der Lernbegleitung).
 
 **a) Arbeitsauftrag Reflexions-Teams**
 
