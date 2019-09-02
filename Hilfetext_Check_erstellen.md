@@ -51,7 +51,7 @@ Im nächsten Schritt fügen Sie den einzelnen Phasen Kompetenzbeschreibungen hin
 
 ![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen oder den Text-Button hinzu](media/AP_Phasen_markiert.jpg)
 
-Jede Kompetenzbeschreibung muss einer Kompetenzdimension zugeordnet werden. Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
+Jede Kompetenzbeschreibung muss einer Kompetenzdimension zugeordnet werden. Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbstständigkeit)** unterschieden. 
 
 ![Auswahl der Kompetenzdimension und Fomulierung der Kompetenzbeschreibung](media/check-erstellen-kompetenzen.png)
 
