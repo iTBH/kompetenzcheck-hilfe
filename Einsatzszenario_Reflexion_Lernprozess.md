@@ -2,7 +2,7 @@
 
 - - -
 
-In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernprozess und den Grad der Kompetenzentwicklung anhand der Check-Auswertung und leiten Handlungsalternativen für sich selber, aber auch für die Gestaltung der Lehrveranstaltung ab. Auf Grundlage der Reflexionen der Lernenden kann die Lehrperson dann in einen zielgerichteten Austausch mit den Lernenden über anvisierte Lernergebnisse, subjektiv wahrgenommene Lernerfolge und Hürden sowie die Gestaltung der Lehrveranstaltung treten. Daraus können individuelle Förderangebote für die Lernenden abgeleitet und das Lehrangebot weiterentwickelt werden.
+In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernprozess und den Grad der Kompetenzentwicklung anhand der Check-Auswertung und leiten Handlungsalternativen für sich selbst, aber auch für die Gestaltung der Lehrveranstaltung ab. Auf Grundlage der Reflexionen der Lernenden kann die Lehrperson dann in einen zielgerichteten Austausch mit den Lernenden über anvisierte Lernergebnisse, subjektiv wahrgenommene Lernerfolge und Hürden sowie die Gestaltung der Lehrveranstaltung treten. Daraus können individuelle Förderangebote für die Lernenden abgeleitet und das Lehrangebot weiterentwickelt werden.
 
 ![Einbettung des ContinuING Kompetenz-Check in ein weiterbildendes Studienformat](media/Grafik_KC.jpg)
 
