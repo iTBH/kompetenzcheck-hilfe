@@ -30,7 +30,7 @@ In diesem didaktischen Einsatzszenario reflektieren die Lernenden ihren Lernproz
 ## Ausführliche Beschreibung des didaktischen Einsatzszenarios
 
 ### Vorbereitung 
-Im ersten Schritt ist es Aufgabe der Lehrenden bzw. Lernbegleitenden, die Funktionalitäten des ContinuING Kompetenz-Checks selber kennenzulernen. Dies ist bedeutsam, um später bei Nachfragen der Lernenden Hilfestellung in der Arbeit mit dem ContinuING Kompetenz-Check leisten zu können.
+Im ersten Schritt ist es Aufgabe der Lehrenden bzw. Lernbegleitenden, die Funktionalitäten des ContinuING Kompetenz-Checks selbst kennenzulernen. Dies ist bedeutsam, um später bei Nachfragen der Lernenden Hilfestellung in der Arbeit mit dem ContinuING Kompetenz-Check leisten zu können.
 
 Im zweiten Schritt legt die Lehrperson bzw. die Lernbegleitung einen Check mit dem Namen und den anvisierten Lernergebnissen des Studienformats im Tool an. Je nach Studienformat und Struktur der Lehrveranstaltung kann es sinnvoll sein, unterschiedliche Lern- oder Forschungsprozessphasen bzw. Arbeitsphasen (wie Themenfindung, Forschungsdesign, Durchführung & Auswertung, Reflexion & Transfer) anzulegen und die Lernergebnisse diesen zuzuordnen. Abschließend notiert die Lehrperson bzw. die Lernbegleitung die spezifische Checknummer, um den erstellten Check mit den Lernenden teilen zu können. Dies bedeutet, dass die Lernenden den Check in ihr Kompetenz-Check Profil durch Eingabe der Nummer importieren können.
 
@@ -67,7 +67,7 @@ Schaut euch gemeinsam eure Check-Auswertung an und identifiziert Auffälligkeite
 Schaut jetzt zurück auf euren Lernprozess und überlegt:
 * Was ihr gebraucht hättet, um einen größeren Lern- oder Kompetenzzuwachs zu erreichen (z. B. spezifische Inhalte oder Methoden)
 * Welche Rahmenbedingungen wären hilfreich gewesen (z. B. mehr Zeit, Tutorium)
-* Was hättet ihr selber tun können, um euren Lernprozess/Kompetenzzuwachs erfolgreicher zu gestalten? 
+* Was hättet ihr selbst tun können, um euren Lernprozess/Kompetenzzuwachs erfolgreicher zu gestalten? 
 
 Schreibt eure Überlegungen auf Metaplankarten und ordnet sie an der Metaplanwand an, clustert falls möglich. Eure Ergebnisse werden anschließend im Plenum besprochen.
 
