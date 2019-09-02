@@ -28,7 +28,7 @@ jeweiligen Situation benötigten **Handlungskompetenzen**.
 ![Darstellung der Struktur und der Funktionen auf der Seite Checks im Überblick](media/dashboard.png)
 
 ## Darstellung eines Checks
-Die Detailansicht eines Checks umfasst den Titel, Verwendungszweck, Auftragsbeschreibung und Schlagwörter. Die **Historie** eines Checks zeigt an, wann welche Aktionen im Check bereits durchgeführt wurden und wer (fremdeinschätzende Personen) daran beteiligt war. So erkennen Sie immer auf einen Blick den aktuellen Status des Checks. Ein Check kann nur bearbeitet werden, sofern der Check noch **nicht** durchgeführt wurde. Zusätzlich können Sie Checks dublizieren.
+Die Detailansicht eines Checks umfasst den Titel, Verwendungszweck, Auftragsbeschreibung und Schlagwörter. Die **Historie** eines Checks zeigt an, wann welche Aktionen im Check bereits durchgeführt wurden und wer (fremdeinschätzende Personen) daran beteiligt war. So erkennen Sie immer auf einen Blick den aktuellen Status des Checks. Ein Check kann nur bearbeitet werden, sofern der Check noch **nicht** durchgeführt wurde. Zusätzlich können Sie Checks duplizieren.
 Auf der rechten Seite werden Ihnen zu jedem Check und je nach Status der Check-Durchführung unterschiedliche **Aktionsmöglichkeiten** angeboten. 
 
 ![Funktionen der Detailansicht eines Checks](media/dashboard-check.png)

@@ -35,23 +35,23 @@ Sie können die Kompetenzbeschreibungen bis zu vier Phasen (Reitern) zuordnen, u
 
 Wenn Sie einen Lernprozess im Sinne des Forschenden Lernens abbilden möchten, können Sie den Check wie folgt strukturieren:
 
-* **Themenfindung:** In dieser Phase erfolgt die Themenfindung & -aushandlung, je nach in der Praxis erfahrenen Problemstellungen.
+* **Themenfindung:** In dieser Phase erfolgt die Themenfindung & -aushandlung, je nach erfahrenen Problemstellungen aus der Praxis.
 * **Forschungsdesign:** Die Formulierung von Forschungsfragen bzw. Hypothesen leitet über zur Gestaltung eines entsprechenden Forschungsdesigns.
 * **Durchführung & Auswertung:** In dieser Phase erfolgt die Datenerhebung und -auswertung.
 * **Reflexion & Transfer:** Die Reflexion gewonnener Erkenntnisse und ihr Transfer in die zu untersuchende Praxis beschließen den Lernprozess.
 
-Wenn Sie ein Kompetenzprofil anlegen möchten, können Sie bspw. die Dimensionen des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR) nutzen und die Kompetenzbeschreibungen diesen zuordnen: Wissen, Fertigkeiten, Sozialkompetenz, Selbständigkeit.
+Wenn Sie ein Kompetenzprofil anlegen möchten, können Sie bspw. die Dimensionen des Deutschen Qualifikationsrahmens für Lebenslanges Lernen (DQR) nutzen und die Kompetenzbeschreibungen diesen zuordnen: Wissen, Fertigkeiten, Sozialkompetenz, Selbstständigkeit.
 
 ![Kompetenzstrukturmodell des DQR](media/DQR.jpg)
 
 Sie müssen **nicht** allen Phasen Kompetenzbeschreibungen hinzufügen. Je nach Zielsetzung und Szenario entscheiden Sie, worauf Sie Ihren Fokus setzen möchten!
 
 ### 3. Schritt: Kompetenzbeschreibungen den Phasen zuordnen
-Im nächsten Schritt fügen Sie den einzelnen Phasen Kompetenzbeschreibungen hinzu, indem Sie den **Plus-Button** oder den **Kompetenzbeschreibung hinzufügen-Button** in einer Check-Phase/Reiter anklicken:
+Im nächsten Schritt fügen Sie den einzelnen Phasen Kompetenzbeschreibungen hinzu, indem Sie den **Plus** Button oder den **Kompetenzbeschreibung hinzufügen** Button in einer Check-Phase/Reiter anklicken:
 
 ![Fügen Sie Kompetenzbeschreibungen über das Plus-Zeichen oder den Text-Button hinzu](media/AP_Phasen_markiert.jpg)
 
-Jede Kompetenzbeschreibung muss einer Kompetenzdimension zugeordnet werden. Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbständigkeit)** unterschieden. 
+Jede Kompetenzbeschreibung muss einer Kompetenzdimension zugeordnet werden. Grundsätzlich wird zwischen **Fachkompetenzen (Wissen und Fertigkeiten)** und **Personalen Kompetenzen (Sozialkompetenz und Selbstständigkeit)** unterschieden. 
 
 ![Auswahl der Kompetenzdimension und Fomulierung der Kompetenzbeschreibung](media/check-erstellen-kompetenzen.png)
 
@@ -61,7 +61,7 @@ Während der Check-Durchführung dienen diese Kompetenzbeschreibungen dann als G
 
 #### Wie formulieren Sie eine Kompetenzbeschreibung?
 Die Kompetenzbeschreibung sollte einen konkreten Bezug zum bereits formulierten Lern- oder Forschungsprozess bzw. Arbeitsprozess haben und möglichst genau die auszuführende, bzw. zu beobachtende Handlung beschreiben. 
-Eine Kompetenzbeschreibung muss immer in der 3. Person singular und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren) formuliert werden. <a href="media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Beispielverben für die Kompetenzbeschreibung</a>
+Eine Kompetenzbeschreibung muss immer in der 3. Person Singular und in ganzen Sätzen unter Verwendung beobachtbarer Verben (Operatoren) formuliert werden. <a href="media/Verben_fuer_Kompetenzbeschreibung.pdf" target="_blank">Beispielverben für die Kompetenzbeschreibung</a>
 
 **Formulierung einer Kompetenzbeschreibung:**
 
