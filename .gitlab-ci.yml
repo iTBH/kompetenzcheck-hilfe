@@ -1,4 +1,4 @@
-image: docker.rz.tu-harburg.de:5000/docker/gitbook:node
+image: docker.rz.tu-harburg.de:5000/rzt/images/gitbook:node
 
 stages:
     - setup
