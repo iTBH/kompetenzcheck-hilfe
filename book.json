@@ -17,6 +17,16 @@
   "pdf": {
     "fontSize": 13,
     "fontFamily": "Arial"
+  },
+  "author": "Barbara Knauf",
+  "title": "Das ContinuING E-Portfolio",
+  "description": "Online-Hilfe für das ContinuING E-Portfolio",
+  "colors": {
+    "sidebarBackground": "#008B98",
+    "sidebarColor": "#fff",
+    "partHeaderColor": "#364149",
+    "sidebarLink": "#fff",
+    "sidebarLinkActive": "#364149"
   }
 
 
